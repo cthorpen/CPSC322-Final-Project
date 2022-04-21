@@ -200,11 +200,11 @@ def fit_predict_classification(X_train_sets, y_train_sets, X_test_sets, y_test_s
         # metrics
         dm_acc += myevaluation.accuracy_score(y_train_sets[i], y_pred, True)
         dm_rcl += myevaluation.binary_recall_score(
-            y_test_sets[i], y_pred, labels, "H")  # change these to correct positive label
+            y_test_sets[i], y_pred, labels, pos_label=None)  # change these to correct positive label
         dm_prec += myevaluation.binary_precision_score(
-            y_test_sets[i], y_pred, labels, "H")
+            y_test_sets[i], y_pred, labels, pos_label=None)
         dm_f1 += myevaluation.binary_f1_score(
-            y_test_sets[i], y_pred, labels, "H")
+            y_test_sets[i], y_pred, labels, pos_label=None)
         mtx = myevaluation.confusion_matrix(y_test_sets[i], y_pred, labels)
         for i in range(len(dm_matrix)):
             for j in range(len(dm_matrix)):

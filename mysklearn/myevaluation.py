@@ -393,7 +393,7 @@ def binary_recall_score(y_true, y_pred, labels=None, pos_label=None):
 
     # check if pos_label is None
     if pos_label is None:
-        pos_label = labels[0]
+        pos_label = labels[-1]
 
     tp = 0
     fn = 0

@@ -182,9 +182,8 @@ class MyPyTable:
         """Remove rows from the table data that contain a missing value ("NA").
         """
         new_data = []
-
         for row in self.data:
-            if "" not in row:
+            if '' or ' ' not in row:
                 new_data.append(row)
         self.data = new_data
         pass
