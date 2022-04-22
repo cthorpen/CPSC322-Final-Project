@@ -408,3 +408,27 @@ class MyPyTable:
                     row_val.append(row[row.index(item)])
             val_table.append(row_val)
         return val_table
+
+    def get_frequencies(self, col_name):
+            col = MyPyTable.get_column(self, col_name)
+            values = []
+            counts = []
+            try:
+                col.sort()
+                for value in col:
+                    if value in values:
+                        counts[-1] += 1 # okay because col is sorted
+                    else: # haven't seen this value before
+                        values.append(value)
+                        counts.append(1)
+            except:
+                for value in col:
+                    if value in values:
+                        counts[values.index(value)] += 1 # okay because col is sorted
+                    else: # haven't seen this value before
+                        values.append(value)
+                        counts.append(1)
+            
+            return values, counts # we can return multiple items
+            # packaged into a tuple
+            

@@ -96,6 +96,16 @@ def get_most_frequent(list):
     most_freq = max(set(list), key=list.count)
     return most_freq
 
+def season_discretize(val):
+    month = int(val[0:val.index('/')])
+    if month >= 3 and month <= 5:
+        return 'spring'
+    elif month >= 6 and month <= 8:
+        return 'summer'
+    elif month >= 10 and month <= 11:
+        return 'fall'
+    elif month == 12 or month <=2:
+        return 'winter'
 
 def continuous_to_categorical(con_attr):
     """Creates a categorical attribute from a continuous attribute
