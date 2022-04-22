@@ -8,8 +8,8 @@ acai capsule,25-34,Other,fall,3.0,3.0,Female,3.0
 acarbose,25-34,Type 2 Diabetes Mellitus,fall,5.0,5.0,Female,5.0
 acetaminophen,19-24,Head Pain,winter,4.38,3.46,Female,3.23
 acetaminophen suppository, rectal,25-34,Other,winter,2.0,2.0,Male,2.0
-acetaminophen-codeine,19-24,Pain,None,3.8,3.6,Female,3.4
-acetazolamide,13-18,Pseudotumor Cerebri,None,3.0,3.0,Female,4.5
+acetaminophen-codeine,19-24,Pain,fall,3.8,3.6,Female,3.4
+acetazolamide,13-18,Pseudotumor Cerebri,fall,3.0,3.0,Female,4.5
 acetylcysteine 100 mg/ml (10 %) solution,19-24,An Increase in the Thickness of Lung Secretions,fall,5.0,5.0,Male,5.0
 acidophilus chewable tablet,25-34,Diarrhea,spring,5.0,5.0,Female,5.0
 acidophilus tablet,3-6,Diarrhea,summer,5.0,5.0,Male,5.0
@@ -20,16 +20,16 @@ acthar 80 unit/ml injection gel corticotropins,13-18,Asthma,winter,3.0,4.0,Femal
 actidose-aqua,25-34,Other,summer,3.0,2.0,Female,2.0
 actoplus met,55-64,Type 2 Diabetes Mellitus,fall,4.0,4.0,Female,4.0
 actos,25-34,Type 2 Diabetes Mellitus,spring,3.8,3.2,Male,3.4
-adderall,25-34,Attention Deficit Disorder with Hyperactivity,winter,4.02,3.84,Female,3.95
+adderall,25-34,Attention Deficit Disorder with Hyperactivity,fall,4.02,3.84,Female,3.95
 adderall xr,25-34,Attention Deficit Disorder with Hyperactivity,fall,4.39,4.17,Female,4.24
-adipex-p,25-34,Overweight,spring,4.31,4.24,Female,4.14
+adipex-p,25-34,Overweight,fall,4.31,4.24,Female,4.14
 adrenalin chloride vial,25-34,Life Threatening Allergic Reaction,spring,1.0,1.0,Female,4.0
-advair diskus blister, with inhalation device,25-34,Asthma,winter,5.0,4.78,Female,4.78
+advair diskus blister, with inhalation device,25-34,Asthma,fall,5.0,4.78,Female,4.78
 advate vial,19-24,Bleeding in Hemophilia A,fall,5.0,5.0,Male,5.0
-advil,19-24,Rheumatoid Arthritis,None,4.5,4.0,Female,3.5
+advil,19-24,Rheumatoid Arthritis,fall,4.5,4.0,Female,3.5
 advil cold & sinus,13-18,Sinus Headache,winter,5.0,5.0,Female,5.0
 advil migraine,25-34,Migraine Headache,winter,5.0,5.0,Female,5.0
-adzenys xr-odt,19-24,Attention Deficit Disorder with Hyperactivity,None,5.0,5.0,Female,5.0
+adzenys xr-odt,19-24,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,5.0
 afrezza cartridge with inhaler,25-34,Diabetes,spring,1.0,1.0,Female,1.0
 afrin spray, non-aerosol,25-34,Stuffy Nose,fall,4.0,4.0,Male,5.0
 aftera,25-34,Postcoital Contraception,summer,4.5,4.0,Female,4.5
@@ -51,12 +51,12 @@ allegra-d 12 hour,19-24,Seasonal Runny Nose,fall,5.0,5.0,Female,5.0
 allegra-d 24 hour,13-18,Seasonal Runny Nose,summer,4.0,4.0,Male,4.0
 allergy,25-34,Other,summer,5.0,4.0,Female,3.0
 allergy tablet,25-34,Itching,spring,5.0,5.0,Male,5.0
-alli,25-34,Overweight,None,5.0,4.0,Female,4.0
-alprazolam,25-34,Repeated Episodes of Anxiety,winter,4.24,3.86,Female,3.86
-alprazolam concentrate,25-34,Repeated Episodes of Anxiety,winter,4.24,3.86,Female,3.86
-alprazolam er,25-34,Repeated Episodes of Anxiety,winter,4.24,3.86,Female,3.86
+alli,25-34,Overweight,fall,5.0,4.0,Female,4.0
+alprazolam,25-34,Repeated Episodes of Anxiety,fall,4.24,3.86,Female,3.86
+alprazolam concentrate,25-34,Repeated Episodes of Anxiety,fall,4.24,3.86,Female,3.86
+alprazolam er,25-34,Repeated Episodes of Anxiety,fall,4.24,3.86,Female,3.86
 alprazolam intensol,25-34,Panic Disorder,winter,5.0,5.0,Female,5.0
-alprazolam odt,25-34,Repeated Episodes of Anxiety,winter,4.24,3.86,Female,3.86
+alprazolam odt,25-34,Repeated Episodes of Anxiety,fall,4.24,3.86,Female,3.86
 altabax ointment,25-34,Type of Skin Infection - Impetigo,winter,5.0,5.0,Male,5.0
 altace,13-18,High Blood Pressure,summer,5.0,4.67,Male,4.67
 alyacen,19-24,Birth Control,fall,4.67,3.67,Female,3.67
@@ -69,7 +69,7 @@ amidate syringe,25-34,Additional Agent to Induce General Anesthesia,winter,2.0,1
 amiodarone hcl,0-2,Paroxysmal Supraventricular Tachycardia,summer,3.0,5.0,Male,5.0
 amiodarone hcl vial,25-34,Atypical Ventricular Tachycardia,spring,3.0,3.0,Female,3.0
 amitiza,25-34,Chronic Difficulty having a Bowel Movement,summer,4.4,1.6,Female,1.6
-amitriptyline hcl,25-34,Migraine Prevention,winter,4.62,3.59,Female,3.62
+amitriptyline hcl,25-34,Migraine Prevention,fall,4.62,3.59,Female,3.62
 amlodipine besylate,25-34,High Blood Pressure,summer,4.57,3.86,Female,3.86
 amlodipine besylate (bulk) 100 % powder,19-24,Other,winter,3.0,4.0,Female,3.0
 amlodipine besylate-benazepril,25-34,High Blood Pressure,winter,5.0,5.0,Female,5.0
@@ -86,18 +86,18 @@ amoxicillin-clavulanate potass suspension, reconstituted,55-64,Acute Bacterial I
 amoxicillin-clavulanate potass tablet,55-64,Acute Bacterial Infection of the Sinuses,fall,4.0,5.0,Male,4.0
 amphotericin b vial,25-34,A Fungal Infection - Aspergillosis,winter,4.0,5.0,Female,5.0
 ampicillin trihydrate,19-24,Bacterial Urinary Tract Infection,spring,4.0,4.0,Female,3.67
-amrix,25-34,Muscle Spasm,None,3.67,3.67,Female,3.33
+amrix,25-34,Muscle Spasm,fall,3.67,3.67,Female,3.33
 anadrol-50,25-34,Other,fall,5.0,5.0,Male,5.0
 anafranil,25-34,Depression,winter,4.67,4.33,Male,4.33
-anakinra syringe,13-18,Rheumatoid Arthritis,None,4.0,5.0,Male,4.0
+anakinra syringe,13-18,Rheumatoid Arthritis,fall,4.0,5.0,Male,4.0
 androgel gel in packet,25-34,Pituitary Hormone Deficiency,summer,1.0,2.0,Male,3.0
 angeliq,25-34,Other,fall,5.0,2.0,Female,3.0
 annovera 0.15 mg-0.013 mg/24 hr vaginal ring contraceptives,25-34,Birth Control,winter,5.0,5.0,Female,5.0
 antabuse,25-34,Habit of Drinking Too Much Alcohol,winter,1.0,1.0,Male,2.0
 anti-diarrhea,13-18,Diarrhea,winter,5.0,5.0,Male,5.0
 anti-itch (hydrocortisone) 1 % topical cream,13-18,Inflammation of Skin caused by an Allergy,spring,5.0,5.0,Female,5.0
-anti-itch maximum strength 2 % topical spray,19-24,Itching,None,4.0,4.0,Male,4.0
-antifungal (tolnaftate) 1 % topical powder,25-34,Athlete's Foot,None,4.5,2.5,Male,2.5
+anti-itch maximum strength 2 % topical spray,19-24,Itching,fall,4.0,4.0,Male,4.0
+antifungal (tolnaftate) 1 % topical powder,25-34,Athlete's Foot,fall,4.5,2.5,Male,2.5
 antihistamine,19-24,Inflammation of the Nose due to an Allergy,spring,5.0,4.0,Male,4.0
 anucort-hc suppository, rectal,19-24,Hemorrhoids,fall,4.5,4.0,Female,4.5
 anusol-hc suppository, rectal,19-24,Hemorrhoids,spring,5.0,5.0,Female,5.0
@@ -106,9 +106,9 @@ apriso,25-34,Ulcerative Colitis currently Without Symptoms,spring,4.0,4.0,Female
 arava,55-64,Rheumatoid Arthritis,summer,1.0,1.0,Female,1.0
 arginine hcl (l-arginine) parenteral solution,13-18,Other,fall,3.0,3.0,Male,3.0
 arimidex,55-64,Hormone Receptor Positive Postmenopausal Early Breast Cancer,winter,4.5,3.0,Female,4.5
-aripiprazole,19-24,Schizophrenia,None,4.0,1.0,Male,2.0
-aripiprazole odt,19-24,Schizophrenia,None,4.0,1.0,Male,2.0
-aripiprazole tablet with sensor and patch,19-24,Schizophrenia,None,4.0,1.0,Male,2.0
+aripiprazole,19-24,Schizophrenia,fall,4.0,1.0,Male,2.0
+aripiprazole odt,19-24,Schizophrenia,fall,4.0,1.0,Male,2.0
+aripiprazole tablet with sensor and patch,19-24,Schizophrenia,fall,4.0,1.0,Male,2.0
 arixtra syringe,19-24,Deep Vein Thrombosis Prevention,spring,4.0,3.0,Male,4.33
 armour thyroid,25-34,Underactive Thyroid,spring,4.75,4.75,Female,4.75
 arthrotec 50,25-34,Osteoarthritis and High Risk of Developing Gastric Ulcers,winter,5.0,5.0,Female,4.0
@@ -121,15 +121,15 @@ aspirin capsule, extended release 24 hr (capsule, er hr),25-34,Fever,summer,2.75
 aspirin tablet,25-34,Fever,summer,2.75,3.75,Female,3.5
 atenolol,25-34,High Blood Pressure,fall,4.5,4.45,Female,4.45
 atenolol-chlorthalidone,25-34,High Blood Pressure,fall,4.0,3.0,Female,4.0
-ativan,25-34,Anxious,summer,4.28,4.0,Female,3.91
+ativan,25-34,Anxious,fall,4.28,4.0,Female,3.91
 atomoxetine capsule,25-34,Attention Deficit Disorder with Hyperactivity,winter,4.0,3.75,Female,4.0
 atopiclair cream,25-34,Dry Skin,winter,4.0,2.0,Female,2.0
 atripla,25-34,HIV,winter,4.75,4.75,Male,5.0
 aubra,25-34,Birth Control,summer,5.0,2.0,Female,3.0
-augmentin,25-34,Acute Bacterial Infection of the Sinuses,None,3.67,4.0,Female,4.33
-augmentin tablet,25-34,Acute Bacterial Infection of the Sinuses,None,3.67,4.0,Female,4.33
+augmentin,25-34,Acute Bacterial Infection of the Sinuses,fall,3.67,4.0,Female,4.33
+augmentin tablet,25-34,Acute Bacterial Infection of the Sinuses,fall,3.67,4.0,Female,4.33
 augmentin xr,19-24,Severe Sinusitis caused by Haemophilus Influenzae,summer,4.0,4.0,Male,3.0
-auryxia,25-34,Renal Osteodystrophy with Hyperphosphatemia,None,5.0,5.0,Male,5.0
+auryxia,25-34,Renal Osteodystrophy with Hyperphosphatemia,fall,5.0,5.0,Male,5.0
 avalide,25-34,High Blood Pressure,winter,5.0,5.0,Female,4.0
 avastin vial,7-12,Age-Related Wet Macular Degeneration,summer,2.0,3.0,Male,3.0
 avelox,25-34,Pneumonia caused by Bacteria,winter,2.0,3.0,Female,2.0
@@ -152,7 +152,7 @@ b-12 tablet,disintegrating,25-34,Prevention of Vitamin B12 Deficiency,winter,2.0
 back pain-off,19-24,Pain,spring,1.0,1.0,Male,1.0
 baclofen,25-34,Other,winter,4.56,3.89,Female,3.89
 bactrim,25-34,Infection due to Chlamydiae Species Bacteria,winter,4.33,3.0,Female,3.0
-bactrim ds,25-34,Prevention of Toxoplasmosis,winter,4.67,4.0,Female,3.67
+bactrim ds,25-34,Prevention of Toxoplasmosis,fall,4.67,4.0,Female,3.67
 bactroban cream,25-34,Other,fall,4.5,5.0,Female,5.0
 balziva,19-24,Birth Control,winter,5.0,5.0,Female,5.0
 beano,13-18,Other,spring,4.0,4.0,Male,4.0
@@ -163,7 +163,7 @@ benazepril-hydrochlorothiazide,19-24,Chronic Heart Failure,fall,2.5,2.0,Female,2
 beneprotein oral powder,19-24,Other,winter,4.0,4.0,Female,4.0
 benicar,25-34,High Blood Pressure,winter,5.0,4.2,Female,4.8
 benicar hct,25-34,High Blood Pressure,winter,4.5,4.5,Female,4.5
-bentyl,25-34,Irritable Colon,summer,4.43,3.0,Female,3.14
+bentyl,25-34,Irritable Colon,fall,4.43,3.0,Female,3.14
 benzaclin gel,19-24,Acne,fall,5.0,5.0,Female,5.0
 benzonatate,25-34,Cough,winter,4.54,3.54,Female,3.38
 benzoyl peroxide gel,13-18,Acne,winter,3.33,2.33,Male,2.67
@@ -186,14 +186,14 @@ buprenorphine hcl tablet, sublingual,25-34,Narcotic Addiction,summer,5.0,5.0,Fem
 buprenorphine-naloxone film, medicated,25-34,Other,winter,4.5,4.5,Female,5.0
 buprenorphine-naloxone tablet, sublingual,25-34,Other,winter,4.5,4.5,Female,5.0
 bupropion (bulk) 100 % powder,13-18,Other,spring,1.0,1.0,Female,2.0
-bupropion hcl,19-24,Depression,None,4.5,3.5,Female,3.5
-bupropion hcl sr tablet, extended release,19-24,Depression,None,4.5,3.5,Female,3.5
-bupropion xl,19-24,Depression,None,4.5,3.5,Female,3.5
+bupropion hcl,19-24,Depression,fall,4.5,3.5,Female,3.5
+bupropion hcl sr tablet, extended release,19-24,Depression,fall,4.5,3.5,Female,3.5
+bupropion xl,19-24,Depression,fall,4.5,3.5,Female,3.5
 butalb-caff-acetaminoph-codein,25-34,Tension Headache,winter,5.0,5.0,Female,4.0
-butalbital-acetaminophen-caffe,25-34,Migraine Headache,winter,3.88,3.62,Female,3.5
+butalbital-acetaminophen-caffe,25-34,Migraine Headache,fall,3.88,3.62,Female,3.5
 butalbital-aspirin-caffeine,25-34,Migraine Headache,winter,5.0,5.0,Female,5.0
 butorphanol tartrate spray, non-aerosol,25-34,Migraine Headache,spring,5.0,4.0,Male,4.0
-butorphanol tartrate vial,25-34,Pain,None,4.0,5.0,Female,5.0
+butorphanol tartrate vial,25-34,Pain,fall,4.0,5.0,Female,5.0
 butrans patch, transdermal weekly,25-34,Chronic Pain,winter,5.0,4.0,Female,5.0
 bystolic,25-34,High Blood Pressure,fall,4.5,4.5,Female,4.5
 cabergoline,19-24,Increased Levels of Prolactin in the Blood,spring,4.0,3.0,Female,4.0
@@ -220,8 +220,8 @@ children's claritin,3-6,Inflammation of the Nose due to an Allergy,spring,5.0,5.
 chloramphenicol sod succinate vial,19-24,Typhoid Fever,fall,5.0,5.0,Female,5.0
 chlorhexidine gluconate mouthwash,13-18,Inflammation of the Gums,spring,5.0,5.0,Male,5.0
 cialis,25-34,Inability to have an Erection,fall,3.0,5.0,Female,4.0
-cipro,19-24,Typhoid Fever,winter,3.67,2.83,Female,3.0
-cipro suspension, microcapsule reconstituted,19-24,Typhoid Fever,winter,3.67,2.83,Female,3.0
+cipro,19-24,Typhoid Fever,fall,3.67,2.83,Female,3.0
+cipro suspension, microcapsule reconstituted,19-24,Typhoid Fever,fall,3.67,2.83,Female,3.0
 ciprodex suspension, drops (final dose form),0-2,Other,spring,5.0,5.0,Female,5.0
 ciprofloxacin,25-34,Other,fall,3.0,2.36,Female,2.36
 ciprofloxacin er,19-24,Bacterial Urinary Tract Infection,winter,5.0,4.5,Female,4.0
@@ -248,14 +248,14 @@ clobetasol propionate spray, non-aerosol,25-34,Other,winter,2.67,2.67,Female,3.0
 clobex lotion,25-34,Plaque Psoriasis,winter,5.0,5.0,Male,5.0
 clobex shampoo,25-34,Plaque Psoriasis,winter,5.0,5.0,Male,5.0
 clobex spray, non-aerosol,25-34,Plaque Psoriasis,winter,5.0,5.0,Male,5.0
-clomiphene citrate,25-34,Low Sperm Count,None,5.0,3.67,Male,3.67
+clomiphene citrate,25-34,Low Sperm Count,fall,5.0,3.67,Male,3.67
 clomipramine hcl,25-34,Anxious,summer,4.67,4.67,Female,4.67
 clonazepam,25-34,Panic Disorder,winter,4.56,4.12,Female,4.1
 clonazepam tablet,disintegrating,25-34,Panic Disorder,winter,4.56,4.12,Female,4.1
-clonidine hcl,25-34,Attention Deficit Disorder with Hyperactivity,winter,4.0,3.0,Female,3.17
-clonidine hcl er,25-34,Attention Deficit Disorder with Hyperactivity,winter,4.0,3.0,Female,3.17
+clonidine hcl,25-34,Attention Deficit Disorder with Hyperactivity,fall,4.0,3.0,Female,3.17
+clonidine hcl er,25-34,Attention Deficit Disorder with Hyperactivity,fall,4.0,3.0,Female,3.17
 clorazepate dipotassium,25-34,Anxious,fall,4.0,5.0,Female,5.0
-clotrimazole troche,19-24,Thrush,None,1.0,1.0,Female,1.0
+clotrimazole troche,19-24,Thrush,fall,1.0,1.0,Female,1.0
 clotrimazole-betamethasone lotion,19-24,Other,winter,5.0,5.0,Female,5.0
 clozapine odt,25-34,Other,spring,4.0,4.0,Female,4.0
 codeine sulfate,13-18,Pain,winter,4.0,3.5,Female,2.5
@@ -277,13 +277,13 @@ cough & runny nose,19-24,Cold Symptoms,winter,5.0,5.0,Female,5.0
 coumadin,25-34,Blood Clot,fall,3.8,3.6,Female,3.4
 crestor,75 or over,Combined High Blood Cholesterol and Triglyceride Level,winter,4.5,2.5,Male,4.0
 cryselle,25-34,Birth Control,spring,3.5,2.5,Female,3.75
-cyclafem,19-24,Birth Control,None,4.0,4.0,Female,5.0
+cyclafem,19-24,Birth Control,fall,4.0,4.0,Female,5.0
 cyclobenzaprine hcl er,19-24,Muscle Spasm,fall,3.88,3.0,Male,3.12
 cyclopentolate-phenylephrine drops,25-34,Dilated Pupils Before or After Surgery,spring,2.0,1.0,Male,1.0
 cyclophosphamide,25-34,Acute Monocytic Leukemia,spring,1.0,1.0,Female,1.0
 cyclosporine,25-34,Other,winter,3.0,3.0,Female,3.0
 cyclosporine 100 mg/ml oral solution,25-34,Other,winter,3.0,3.0,Female,3.0
-cymbalta,25-34,Major Depressive Disorder,winter,4.28,3.53,Female,3.62
+cymbalta,25-34,Major Depressive Disorder,fall,4.28,3.53,Female,3.62
 cyproheptadine hcl,13-18,Headache caused by Disorder of Cranial Blood Vessels,winter,5.0,3.5,Female,4.0
 cytogam vial,19-24,Prevention of Cytomegalovirus Infection Post-Transplant,summer,3.0,3.0,Male,3.0
 cytotec,19-24,Abortion,winter,3.75,3.75,Female,3.75
@@ -321,9 +321,9 @@ desmopressin acetate aerosol, spray with pump antidiuretic hormone,19-24,Bedwett
 desmopressin spray, non-aerosol,19-24,Bedwetting,winter,5.0,5.0,Female,5.0
 desogen,19-24,Birth Control,spring,3.0,4.5,Female,5.0
 desogestrel-ethinyl estradiol,25-34,Disease of Ovaries with Cysts,summer,5.0,4.0,Female,4.0
-desonide foam,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,None,4.67,4.0,Female,3.67
-desonide lotion,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,None,4.67,4.0,Female,3.67
-desonide ointment,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,None,4.67,4.0,Female,3.67
+desonide foam,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,fall,4.67,4.0,Female,3.67
+desonide lotion,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,fall,4.67,4.0,Female,3.67
+desonide ointment,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,fall,4.67,4.0,Female,3.67
 desonide, micronized (bulk) powder,25-34,Other,winter,1.0,1.0,Male,1.0
 desoximetasone ointment,25-34,Psoriasis of Scalp,winter,5.0,5.0,Female,5.0
 desoximetasone spray, non-aerosol,25-34,Psoriasis of Scalp,winter,5.0,5.0,Female,5.0
@@ -341,7 +341,7 @@ dextroamphetamine-amphet er,19-24,Attention Deficit Disorder with Hyperactivity,
 dextroamphetamine-amphetamine,19-24,Attention Deficit Disorder with Hyperactivity,fall,4.33,4.33,Male,4.33
 dextrose in lactated ringers solution, intravenous,19-24,Other,summer,3.0,3.0,Female,3.0
 diamox sequels,25-34,Other,fall,5.0,5.0,Female,5.0
-diazepam,25-34,Anxious,spring,4.29,4.0,Female,3.86
+diazepam,25-34,Anxious,fall,4.29,4.0,Female,3.86
 diazepam kit,19-24,Epileptic Seizure,winter,5.0,5.0,Female,5.0
 diclofenac potassium,25-34,Pain,fall,4.5,4.5,Female,4.5
 diclofenac potassium 50 mg oral powder packet,25-34,Pain,fall,4.5,4.5,Female,4.5
@@ -350,14 +350,14 @@ diclofenac sodium er,25-34,Other,fall,3.62,2.62,Male,2.88
 dicyclomine hcl,25-34,Irritable Colon,fall,4.83,4.33,Male,4.0
 dicyclomine hcl vial,25-34,Other,fall,4.0,2.0,Male,2.0
 diethylcarbamazine citrate (bulk) 100 % powder,3-6,Other,spring,5.0,5.0,Female,5.0
-diethylpropion hcl er,25-34,Overweight,None,4.0,4.0,Female,4.0
+diethylpropion hcl er,25-34,Overweight,fall,4.0,4.0,Female,4.0
 differin gel,19-24,Acne,summer,5.0,5.0,Female,5.0
 diflucan,25-34,Yeast Infection of Vagina and Vulva,summer,5.0,3.71,Female,3.71
 diflucan tablet azole antifungals-systemic,25-34,Yeast Infection of Vagina and Vulva,summer,5.0,3.71,Female,3.71
 digoxin (bulk) 100 % powder,19-24,Other,spring,1.0,1.0,Male,1.0
 digoxin syringe,0-2,Having a Rapid Heart Action - Supraventricular Tachycardia,summer,3.0,4.0,Female,4.0
 dilantin,25-34,Epileptic Seizure,winter,5.0,5.0,Male,5.0
-dilantin 30 mg capsule,19-24,Simple Partial Seizures,None,3.75,2.25,Female,2.75
+dilantin 30 mg capsule,19-24,Simple Partial Seizures,fall,3.75,2.25,Female,2.75
 dilantin capsule,19-24,Convulsive Seizures,fall,4.0,2.0,Female,3.0
 dilaudid ampul,19-24,Severe Pain,fall,5.0,5.0,Male,5.0
 diltiazem 12hr er,13-18,Supraventricular Cardiac Arrhythmia,spring,4.0,2.0,Female,3.0
@@ -377,10 +377,10 @@ divalproex sodium capsule, sprinkle,19-24,Bipolar Depression,summer,3.75,3.5,Mal
 divalproex sodium er,19-24,Bipolar Depression,summer,3.75,3.5,Male,3.5
 dobutamine hcl vial,19-24,Heart Disease from Problems with Part of the Heart Itself,winter,4.0,4.0,Female,4.0
 docusate sodium,19-24,Incomplete or Infrequent Bowel Movements,spring,4.0,2.0,Female,3.0
-docusol enema,25-34,Incomplete or Infrequent Bowel Movements,None,5.0,5.0,Female,5.0
+docusol enema,25-34,Incomplete or Infrequent Bowel Movements,fall,5.0,5.0,Female,5.0
 donnatal,25-34,Other,fall,4.5,4.0,Female,4.0
 dopamine hcl vial,25-34,Sudden Drop in Blood Pressure,spring,4.0,4.0,Male,4.0
-doryx,19-24,Lyme Disease,None,4.0,5.0,Female,5.0
+doryx,19-24,Lyme Disease,fall,4.0,5.0,Female,5.0
 doryx mpc,13-18,Other,winter,2.0,1.0,Female,1.0
 doxepin 6 mg tablet hypnotics,25-34,Depression,winter,4.0,2.0,Female,3.0
 doxepin hcl,25-34,Depression,winter,4.0,2.0,Female,3.0
@@ -394,14 +394,14 @@ dronabinol solution,25-34,Increased Hunger,summer,5.0,4.0,Male,4.0
 drysol solution, non-,19-24,Excessive Sweating,winter,5.0,5.0,Female,5.0
 duac gel,19-24,Acne,fall,5.0,5.0,Female,5.0
 dulcolax,19-24,Other,summer,4.33,4.0,Female,4.33
-duofilm liquid,25-34,Plantar Warts,None,5.0,5.0,Female,5.0
+duofilm liquid,25-34,Plantar Warts,fall,5.0,5.0,Female,5.0
 duraflu,19-24,Cold Symptoms,fall,5.0,5.0,Female,5.0
 echinacea-goldenseal,25-34,Other,winter,5.0,5.0,Female,5.0
 econazole foam,19-24,Ringworm of the Body,winter,5.0,3.0,Female,3.0
 econazole nitrate cream,19-24,Ringworm of the Body,winter,5.0,3.0,Female,3.0
-efavirenz capsule,25-34,HIV,None,5.0,5.0,Female,5.0
+efavirenz capsule,25-34,HIV,fall,5.0,5.0,Female,5.0
 effexor xr,25-34,Depression,winter,4.3,3.7,Female,3.92
-elidel cream,13-18,Eczema Skin Condition Resisting Treatment,None,4.5,4.5,Female,4.0
+elidel cream,13-18,Eczema Skin Condition Resisting Treatment,fall,4.5,4.5,Female,4.0
 elite-ob tablet,25-34,Other,fall,3.0,4.0,Male,3.0
 elmiron,19-24,Bladder Wall Inflammation,fall,3.25,3.5,Female,3.25
 elocon cream,25-34,Skin Condition,spring,5.0,5.0,Female,5.0
@@ -415,7 +415,7 @@ enstilar foam,19-24,Plaque Psoriasis,summer,5.0,5.0,Female,5.0
 entocort ec,19-24,Crohn's Disease Maintenance of Remission,winter,4.0,2.5,Female,3.0
 enulose,3-6,Incomplete or Infrequent Bowel Movements,spring,5.0,4.0,Male,4.0
 epiduo forte gel with pump,13-18,Acne,fall,5.0,4.0,Male,5.0
-epiduo gel with pump,13-18,Acne,None,4.0,2.5,Female,2.5
+epiduo gel with pump,13-18,Acne,fall,4.0,2.5,Female,2.5
 epivir,25-34,HIV,winter,5.0,5.0,Female,5.0
 epivir solution,25-34,HIV,winter,5.0,5.0,Female,5.0
 epsom salt,25-34,Incomplete or Infrequent Bowel Movements,winter,3.0,4.0,Female,5.0
@@ -433,8 +433,8 @@ estrostep fe,25-34,Birth Control,fall,5.0,5.0,Female,5.0
 eszopiclone,19-24,Chronic Trouble Sleeping,fall,5.0,5.0,Female,5.0
 ethosuximide,3-6,Petit Mal Seizures,spring,3.0,2.5,Female,3.5
 ethynodiol-ethinyl estradiol,19-24,Other,spring,3.0,2.0,Female,3.0
-etodolac,19-24,Pain,None,4.0,2.75,Female,2.5
-etodolac er,19-24,Pain,None,4.0,2.75,Female,2.5
+etodolac,19-24,Pain,fall,4.0,2.75,Female,2.5
+etodolac er,19-24,Pain,fall,4.0,2.75,Female,2.5
 etonogestrel 0.12 mg-ethinyl estradiol 0.015 mg/24 hr vaginal ring contraceptives,25-34,Birth Control,fall,4.0,4.0,Female,4.0
 etonogestrel implant,25-34,Birth Control,winter,5.0,4.0,Female,5.0
 eucerin intensive repair creme topical,19-24,Other,winter,5.0,4.0,Female,3.0
@@ -450,11 +450,11 @@ famotidine (bulk) 100 % powder,19-24,Other,spring,1.0,1.0,Female,1.0
 famotidine suspension, (final dose form) peptic ulcer agents,25-34,Heartburn,summer,4.0,4.0,Female,4.0
 famotidine tablet peptic ulcer agents,25-34,Heartburn,summer,4.0,4.0,Female,4.0
 famvir,25-34,Cold Sore,winter,5.0,5.0,Female,5.0
-fanapt,19-24,Additional Medications to Treat Depression,None,4.0,2.0,Female,2.5
+fanapt,19-24,Additional Medications to Treat Depression,fall,4.0,2.0,Female,2.5
 fasenra syringe,45-54,Other,winter,1.0,1.0,Male,1.0
 faslodex syringe,25-34,Metastatic Breast Cancer Progression Post-Antiestrogen Therapy,summer,5.0,5.0,Female,5.0
 feldene,13-18,Joint Inflammatory Disease in Children and Young Adults,summer,3.0,3.0,Female,3.0
-fem ph jelly with applicator,25-34,Other,None,4.0,3.5,Female,4.0
+fem ph jelly with applicator,25-34,Other,fall,4.0,3.5,Female,4.0
 femara,45-54,Breast Cancer that has Spread to Another Part of the Body,winter,3.5,2.0,Female,4.0
 femcon fe,19-24,Abnormally Long or Heavy Periods,fall,4.25,2.5,Female,2.75
 fentanyl (bulk) 100 % powder,25-34,Other,summer,2.67,3.0,Male,2.67
@@ -470,7 +470,7 @@ finasteride,25-34,Male Pattern Baldness,summer,5.0,4.0,Male,4.0
 finasteride tablet 5 alpha-reductase inhibitors,25-34,Male Pattern Baldness,summer,5.0,4.0,Male,4.0
 fioricet,25-34,Migraine Headache,spring,3.85,3.85,Female,3.69
 fiorinal,25-34,Other,spring,4.0,1.0,Male,1.0
-flagyl,25-34,Infection caused by Trichomoniasis Protozoa,None,4.33,4.67,Female,4.67
+flagyl,25-34,Infection caused by Trichomoniasis Protozoa,fall,4.33,4.67,Female,4.67
 flecainide acetate,25-34,Atrial Fibrillation,winter,5.0,5.0,Male,5.0
 fleet enema 19 gram-7 gram/118 ml,19-24,Incomplete or Infrequent Bowel Movements,fall,5.0,5.0,Male,5.0
 flolan vial,19-24,Pulmonary Arterial Hypertension,summer,1.0,3.0,Female,4.0
@@ -478,14 +478,14 @@ florajen3,65-74,Diarrhea,spring,5.0,5.0,Female,5.0
 fluconazole,25-34,Yeast Infection of Vagina and Vulva,spring,4.57,3.29,Female,3.29
 fluconazole tablet azole antifungals-systemic,25-34,Yeast Infection of Vagina and Vulva,spring,4.57,3.29,Female,3.29
 fludrocortisone (bulk) powder,13-18,Other,fall,5.0,3.0,Female,2.0
-fludrocortisone acetate,19-24,Blood Pressure Drop Upon Standing with Unknown Cause,None,5.0,5.0,Female,5.0
+fludrocortisone acetate,19-24,Blood Pressure Drop Upon Standing with Unknown Cause,fall,5.0,5.0,Female,5.0
 flunisolide spray, non-aerosol,45-54,Chronic Inflammation of the Nose Not due to Allergies,summer,4.0,4.0,Male,4.0
 fluocinolone acetonide oil,25-34,Skin Rash that Becomes Thick & Discolored From Rubbing It,winter,2.0,1.0,Female,2.0
 fluocinolone acetonide solution, non-,25-34,Skin Rash that Becomes Thick & Discolored From Rubbing It,winter,2.0,1.0,Female,2.0
 fluocinolone shampoo,25-34,Skin Rash that Becomes Thick & Discolored From Rubbing It,winter,2.0,1.0,Female,2.0
 fluoridex paste,25-34,Inflammation of the Gums,winter,5.0,5.0,Female,5.0
-fluoxetine dr,25-34,Depression,spring,4.69,4.19,Female,4.23
-fluoxetine hcl,25-34,Depression,spring,4.69,4.19,Female,4.23
+fluoxetine dr,25-34,Depression,fall,4.69,4.19,Female,4.23
+fluoxetine hcl,25-34,Depression,fall,4.69,4.19,Female,4.23
 flurazepam hcl,25-34,Chronic Trouble Sleeping,winter,4.5,3.0,Female,3.0
 fluticasone 50 mcg/actuation blister powder for inhalation,25-34,Asthma,winter,4.0,4.0,Female,4.0
 fluticasone 55 mcg/actuation breath activated powder inhaler,25-34,Asthma,winter,4.0,4.0,Female,4.0
@@ -497,7 +497,7 @@ fluticasone propionate spray, suspension,25-34,Inflammation of the Nose due to a
 fluvoxamine maleate,25-34,Obsessive Compulsive Disorder,spring,4.33,3.33,Female,4.0
 fluvoxamine maleate er,25-34,Obsessive Compulsive Disorder,spring,4.33,3.33,Female,4.0
 focalin,7-12,Attention Deficit Disorder with Hyperactivity,winter,4.11,3.44,Male,3.44
-focalin xr,7-12,Attention Deficit Disorder with Hyperactivity,winter,4.38,4.06,Male,4.06
+focalin xr,7-12,Attention Deficit Disorder with Hyperactivity,fall,4.38,4.06,Male,4.06
 folivane-f,25-34,Anemia from Inadequate Iron,spring,5.0,5.0,Female,5.0
 folivane-ob,25-34,Pregnancy,summer,5.0,5.0,Female,5.0
 follistim aq cartridge,25-34,Stimulation of Ovarian Function,fall,5.0,5.0,Female,5.0
@@ -555,20 +555,20 @@ infants ibuprofen,25-34,Pain,fall,3.9,3.1,Female,3.0
 innopran xl,25-34,Essential Tremor,fall,5.0,5.0,Female,5.0
 insulin aspar prt-insulin aspart 100 unit/ml (70-30) subcutaneous soln intermediate-, long-acting, and combination insulins,25-34,High Blood Sugar,summer,3.0,4.0,Male,3.0
 insulin regular human solution,19-24,Diabetic Ketoacidosis,spring,5.0,5.0,Female,5.0
-integra,19-24,Anemia from Inadequate Iron,None,5.0,5.0,Female,5.0
-integra f,19-24,Anemia from Inadequate Iron,None,4.5,4.5,Female,3.5
+integra,19-24,Anemia from Inadequate Iron,fall,5.0,5.0,Female,5.0
+integra f,19-24,Anemia from Inadequate Iron,fall,4.5,4.5,Female,3.5
 intuniv,13-18,Attention Deficit Disorder with Hyperactivity,summer,4.0,3.5,Male,3.5
 invega,25-34,Bipolar Depression,winter,4.0,3.71,Female,3.86
 invega sustenna syringe,19-24,Schizophrenia,winter,1.0,1.0,Male,1.0
 invokana,25-34,Type 2 Diabetes Mellitus,winter,5.0,5.0,Male,5.0
 iodine liquid,25-34,Other,fall,3.0,3.0,Male,3.0
 irenka,25-34,Anxiousness associated with Depression,fall,4.0,4.0,Female,5.0
-iron,13-18,Anemia from Inadequate Iron,None,3.0,2.0,Female,2.0
+iron,13-18,Anemia from Inadequate Iron,fall,3.0,2.0,Female,2.0
 iron (dried) 160 mg (50 iron) tablet,extended release,55-64,Anemia from Inadequate Iron,summer,2.0,1.0,Female,3.0
 iron 100 plus,25-34,Anemia from Inadequate Iron,winter,3.0,2.0,Female,2.0
 isibloom,19-24,Other,summer,5.0,5.0,Female,4.0
-isomethept-dichloralp-acetamin,25-34,Headache caused by Disorder of Cranial Blood Vessels,None,1.0,1.0,Female,2.0
-isometheptene 65 mg-caffeine 20 mg-acetaminophen 325 mg tablet non-opioid analgesic/antipyretic, non-salicylate,0-2,Other,None,2.0,2.0,Female,3.0
+isomethept-dichloralp-acetamin,25-34,Headache caused by Disorder of Cranial Blood Vessels,fall,1.0,1.0,Female,2.0
+isometheptene 65 mg-caffeine 20 mg-acetaminophen 325 mg tablet non-opioid analgesic/antipyretic, non-salicylate,0-2,Other,fall,2.0,2.0,Female,3.0
 isoniazid,13-18,Inactive Tuberculosis,fall,3.5,4.5,Female,4.5
 isotretinoin capsule,25-34,Severe Difficult to Treat Nodular Acne,summer,4.67,4.33,Female,4.0
 ivabradine tablet,13-18,Other,winter,3.0,4.0,Female,4.0
@@ -587,21 +587,21 @@ kadian,25-34,Severe Pain,spring,5.0,5.0,Male,5.0
 kalydeco,0-2,Other,summer,3.0,3.0,Male,3.0
 kaolin (bulk) powder,25-34,Other,fall,3.0,5.0,Female,4.0
 kaolin pectin,25-34,Diarrhea,spring,3.0,3.0,Female,3.0
-kariva,19-24,Birth Control,spring,3.4,3.0,Female,3.6
+kariva,19-24,Birth Control,fall,3.4,3.0,Female,3.6
 keflex,25-34,Other,fall,4.0,4.33,Female,3.33
 kelnor 1-35,25-34,Disease of Ovaries with Cysts,fall,5.0,4.0,Female,4.0
 kenalog aerosol,25-34,Contact Dermatitis,spring,5.0,4.0,Female,4.0
-keppra,25-34,Simple Partial Seizures,winter,4.56,4.0,Female,3.89
+keppra,25-34,Simple Partial Seizures,fall,4.56,4.0,Female,3.89
 keppra vial,19-24,Additional Medication to Treat Partial Seizures,fall,3.5,3.0,Female,3.5
 keppra xr,19-24,Additional Medication for Tonic-Clonic Epilepsy,fall,4.5,4.0,Female,3.5
 ketoconazole foam,3-6,Ringworm of Scalp,fall,2.5,2.0,Female,2.0
 ketoconazole gel,3-6,Ringworm of Scalp,fall,2.5,2.0,Female,2.0
 ketoconazole shampoo,3-6,Ringworm of Scalp,fall,2.5,2.0,Female,2.0
-ketoprofen,25-34,Pain,None,3.33,2.33,Female,2.67
-ketoprofen capsule, extended release pellets 24 hr,25-34,Pain,None,3.33,2.33,Female,2.67
+ketoprofen,25-34,Pain,fall,3.33,2.33,Female,2.67
+ketoprofen capsule, extended release pellets 24 hr,25-34,Pain,fall,3.33,2.33,Female,2.67
 ketorolac tromethamine,13-18,Severe Pain,winter,3.4,2.0,Female,2.2
 khedezla,25-34,Major Depressive Disorder,winter,5.0,5.0,Female,5.0
-klonopin,25-34,Panic Disorder,summer,4.1,3.79,Female,3.76
+klonopin,25-34,Panic Disorder,spring,4.1,3.79,Female,3.76
 kobee,25-34,Lack in Vitamins,fall,4.0,4.0,Female,3.0
 kogenate fs vial,25-34,Bleeding Prevention in Hemophilia,fall,3.0,2.0,Male,4.0
 kombiglyze xr,25-34,Type 2 Diabetes Mellitus,spring,5.0,4.0,Female,4.0
@@ -611,20 +611,20 @@ l-glutamine,25-34,Other,winter,5.0,5.0,Male,5.0
 labetalol hcl,25-34,High Blood Pressure,winter,3.5,4.0,Female,3.5
 lactaid fast act,25-34,Inability of Body to Handle Lactose or Milk Sugar,fall,5.0,5.0,Female,5.0
 lactic acid lotion,25-34,Other,summer,5.0,4.0,Female,5.0
-lactinex,3-6,Diarrhea,None,3.5,3.0,Female,3.0
-lactinex tablet, chewable,3-6,Diarrhea,None,3.5,3.0,Female,3.0
+lactinex,3-6,Diarrhea,fall,3.5,3.0,Female,3.0
+lactinex tablet, chewable,3-6,Diarrhea,fall,3.5,3.0,Female,3.0
 lamictal,19-24,Bipolar Depression,spring,4.33,4.0,Female,4.33
 lisinopril,25-34,High Blood Pressure,winter,4.36,3.8,Female,3.96
 lisinopril solution,25-34,High Blood Pressure,winter,4.35,3.77,Female,3.92
-lisinopril-hydrochlorothiazide,25-34,High Blood Pressure,winter,4.75,4.25,Female,4.25
+lisinopril-hydrochlorothiazide,25-34,High Blood Pressure,fall,4.75,4.25,Female,4.25
 lithium,19-24,Bipolar Depression,fall,5.0,5.0,Female,5.0
 lithium aspartate capsule,19-24,Other,summer,3.0,3.0,Female,3.0
-lithium carbonate,25-34,Bipolar Depression,spring,3.82,3.91,Female,3.91
+lithium carbonate,25-34,Bipolar Depression,fall,3.82,3.91,Female,3.91
 lithium carbonate (bulk) 99 % powder,19-24,Other,spring,3.0,4.0,Female,3.0
 lithium carbonate er,19-24,Bipolar Depression,winter,3.75,3.75,Female,4.25
 lyrica,25-34,Disorder characterized by Stiff, Tender & Painful Muscles,winter,4.38,3.34,Female,3.41
 macrobid,25-34,Urinary Tract Infection Prevention,fall,3.88,3.5,Female,3.62
-macrodantin,7-12,Urinary Tract Infection Prevention,None,4.0,4.0,Female,4.0
+macrodantin,7-12,Urinary Tract Infection Prevention,fall,4.0,4.0,Female,4.0
 mag-al plus xs,25-34,Conditions of Excess Stomach Acid Secretion,winter,5.0,5.0,Female,5.0
 maginex,25-34,Emptying of the Bowel,fall,3.0,3.0,Male,3.0
 magnesium sulfate-0.9% nacl solution, intravenous piggyback,25-34,Severely Increased Blood Pressure and Edema During Pregnancy,spring,2.0,4.0,Male,5.0
@@ -634,7 +634,7 @@ mapap suspension, (final dose form),25-34,Pain,winter,5.0,5.0,Male,4.0
 marinol,19-24,Other,winter,4.5,3.5,Female,3.5
 marlissa,25-34,Endometriosis,winter,2.0,1.0,Female,4.0
 maxalt,25-34,Migraine Headache,winter,4.88,4.12,Female,4.0
-maxalt mlt,25-34,Migraine Headache,None,5.0,3.0,Female,3.5
+maxalt mlt,25-34,Migraine Headache,fall,5.0,3.0,Female,3.5
 maxfe,19-24,Other,winter,5.0,5.0,Female,5.0
 maxitrol ointment,25-34,Inflammation of Eyelid Edges and the Lining of the Eye,winter,5.0,4.0,Female,5.0
 maxitrol suspension, drops (final dose form),25-34,Inflammation of Eyelid Edges and the Lining of the Eye,winter,5.0,4.0,Female,5.0
@@ -644,7 +644,7 @@ medrol,25-34,Skin Rash with Sloughing,winter,4.5,4.5,Female,4.5
 medrol tablet,19-24,Other,winter,4.0,4.0,Female,5.0
 medroxyprogesterone acetate,25-34,Absence of Menstrual Periods in Woman Who Has Had Them,winter,4.75,3.62,Female,3.5
 megace,25-34,Cancer in the Lining of the Uterus,spring,4.0,4.0,Female,4.0
-megestrol acetate, micronized  (bulk) 100 % powder,25-34,Other,None,3.0,3.0,Female,3.0
+megestrol acetate, micronized  (bulk) 100 % powder,25-34,Other,fall,3.0,3.0,Female,3.0
 melatonin tablet,19-24,Other,winter,5.0,5.0,Female,5.0
 melatonin tablet,disintegrating,3-6,Other,spring,4.0,5.0,Female,4.0
 meloxicam,19-24,Joint Inflammatory Disease in Children and Young Adults,fall,3.5,2.5,Female,2.5
@@ -657,7 +657,7 @@ mesalamine 400 mg capsule (with delayed release tablets inside) inflammatory bow
 mesalamine capsule, extended release,25-34,Ulcerative Colitis currently Without Symptoms,fall,5.0,4.0,Female,4.0
 mesalamine er 0.375 gram capsule,extended release 24 hr inflammatory bowel agents,25-34,Ulcerative Colitis currently Without Symptoms,fall,5.0,4.0,Female,4.0
 mesalamine tablet, delayed release (enteric coated),25-34,Ulcerative Colitis currently Without Symptoms,fall,5.0,4.0,Female,4.0
-mestinon tablet,13-18,Myasthenia Gravis,None,4.0,4.0,Female,4.0
+mestinon tablet,13-18,Myasthenia Gravis,fall,4.0,4.0,Female,4.0
 metadate cd,7-12,Attention Deficit Disorder with Hyperactivity,summer,5.0,4.5,Male,4.0
 metadate er,7-12,Attention Deficit Disorder with Hyperactivity,winter,5.0,4.0,Female,3.0
 metamucil 0.4 gram capsule,25-34,Incomplete or Infrequent Bowel Movements,summer,3.0,3.0,Female,3.0
@@ -673,13 +673,13 @@ methadose,25-34,Pain,spring,5.0,5.0,Female,5.0
 methadose tablet, soluble,25-34,Pain,spring,5.0,5.0,Female,5.0
 methamphetamine hcl,25-34,Other,summer,5.0,4.0,Male,4.0
 methazolamide,35-44,High Eye Pressure or Glaucoma that May Worsen without Treatment,spring,5.0,3.0,Female,5.0
-methergine,19-24,Incomplete Abortion,None,3.0,3.0,Female,3.0
+methergine,19-24,Incomplete Abortion,fall,3.0,3.0,Female,3.0
 methocarbamol,25-34,Muscle Spasm,spring,3.56,2.94,Female,3.06
 methocarbamol 100 mg/ml injection solution central muscle relaxants,13-18,Muscle Spasm,fall,4.0,3.0,Female,2.0
-methotrexate,25-34,Rheumatoid Arthritis,None,4.5,4.0,Female,4.0
+methotrexate,25-34,Rheumatoid Arthritis,fall,4.5,4.0,Female,4.0
 methotrexate sodium vial,25-34,Rheumatoid Arthritis,fall,3.0,4.0,Female,4.0
 methylphenidate er 100 mg capsule,delayed release,ext release sprinkle,13-18,Attention Deficit Disorder with Hyperactivity,summer,2.25,2.0,Female,2.25
-morphine tablet,oral only, extended release,25-34,Pain,winter,4.07,3.43,Female,3.21
+morphine tablet,oral only, extended release,25-34,Pain,fall,4.07,3.43,Female,3.21
 motion sickness,19-24,Sensation of Spinning or Whirling,winter,5.0,2.0,Male,3.0
 motrin ib,25-34,Fever,fall,4.0,3.5,Female,3.5
 moviprep 100 g-7.5 g-2.691 g-4.7 g oral powder packet,65-74,Emptying of the Bowel,fall,5.0,5.0,Male,5.0
@@ -688,14 +688,14 @@ moxifloxacin hcl,25-34,Acute Bacterial Infection of the Sinuses,fall,4.5,4.0,Mal
 ms contin,25-34,Chronic Pain with Narcotic Drug Tolerance,winter,3.89,3.11,Female,2.78
 msm,35-44,Other,summer,5.0,1.0,Female,1.0
 mucinex,19-24,Cough,winter,4.0,2.0,Female,1.5
-mucinex cough,3-6,Cold Symptoms,None,2.0,2.0,Male,2.0
+mucinex cough,3-6,Cold Symptoms,fall,2.0,2.0,Male,2.0
 mucinex d tablet, extended release 12 hr,13-18,Cold Symptoms,winter,5.0,3.0,Female,3.0
 mucinex dm,25-34,Cough,winter,4.25,4.0,Female,4.25
 mucinex fast-max congest-cough,19-24,Inflammation of the Nose,spring,4.0,3.0,Female,3.0
 multigen,25-34,Anemia from Inadequate Iron,spring,3.5,4.5,Female,4.0
 mupirocin ointment,19-24,Type of Skin Infection - Impetigo,fall,5.0,3.67,Female,3.67
-muro 128 2 % eye drops,25-34,Fluid Accumulation in Cornea of the Eye causing Swelling,None,5.0,5.0,Female,5.0
-muro 128 5 % eye ointment,25-34,Fluid Accumulation in Cornea of the Eye causing Swelling,None,5.0,5.0,Female,5.0
+muro 128 2 % eye drops,25-34,Fluid Accumulation in Cornea of the Eye causing Swelling,fall,5.0,5.0,Female,5.0
+muro 128 5 % eye ointment,25-34,Fluid Accumulation in Cornea of the Eye causing Swelling,fall,5.0,5.0,Female,5.0
 mycophenolate mofetil,25-34,Other,spring,3.0,4.0,Female,3.0
 mycophenolate mofetil suspension, reconstituted,25-34,Other,spring,3.0,4.0,Female,3.0
 mydriacyl drops,25-34,Dilated Pupils Before or After Surgery,spring,5.0,3.0,Male,3.0
@@ -714,7 +714,7 @@ naproxen tablet,25-34,Pain,spring,3.84,2.84,Female,2.96
 nardil,25-34,Depression,spring,5.0,5.0,Male,5.0
 nasal spray (oxymetazoline) 0.05 %,25-34,Stuffy Nose,fall,5.0,5.0,Male,5.0
 nasal spray (sodium chloride) 0.65 % aerosol,13-18,Other,fall,5.0,5.0,Female,5.0
-nasonex aerosol, spray with pump,25-34,Allergic Rhinitis Prevention,None,5.0,3.33,Female,3.67
+nasonex aerosol, spray with pump,25-34,Allergic Rhinitis Prevention,fall,5.0,3.33,Female,3.67
 natazia,25-34,Birth Control,spring,4.0,4.0,Female,5.0
 necon,19-24,Birth Control,spring,5.0,5.0,Female,5.0
 necon 0.5/35 (28) 0.5 mg-35 mcg tablet,25-34,Birth Control,winter,5.0,5.0,Female,5.0
@@ -725,7 +725,7 @@ nestabs,25-34,A Mother who is Producing Milk and Breastfeeding,spring,5.0,5.0,Fe
 neurontin,25-34,Pain Originating From a Nerve,winter,4.04,3.12,Female,3.12
 neurontin capsule,25-34,Pain Originating From a Nerve,winter,4.04,3.12,Female,3.12
 neutrogena t-gel 0.5 % shampoo,25-34,Psoriasis,summer,4.0,3.0,Female,3.0
-nevanac suspension, drops (final dose form),19-24,Postoperative Pain in Eye,None,5.0,5.0,Female,5.0
+nevanac suspension, drops (final dose form),19-24,Postoperative Pain in Eye,fall,5.0,5.0,Female,5.0
 nexplanon implant,19-24,Birth Control,spring,5.0,5.0,Female,5.0
 nexterone plastic bag, injection,19-24,Ventricular Fibrillation,summer,3.0,4.0,Female,4.0
 nikki,25-34,Birth Control,spring,5.0,1.0,Female,5.0
@@ -733,7 +733,7 @@ nitrostat tablet, sublingual,25-34,Chronic Heart Failure,winter,5.0,5.0,Female,5
 niz shampoo,19-24,Skin Infection due to a Candida Yeast,summer,3.0,2.0,Female,5.0
 non-drying sinus pe,19-24,Cough,fall,4.0,4.0,Female,4.0
 norco,25-34,Pain,winter,3.27,3.27,Female,3.2
-norethindrone ac (lupaneta),13-18,Other,None,5.0,5.0,Female,5.0
+norethindrone ac (lupaneta),13-18,Other,fall,5.0,5.0,Female,5.0
 norgesic forte 50 mg-770 mg-60 mg tablet antiplatelet drugs-excluding asa 325 and below,19-24,Muscle Spasm,summer,5.0,5.0,Male,5.0
 norgestrel-ethiny estra,19-24,Painful Periods,winter,3.0,1.0,Female,1.0
 norinyl 1+35,25-34,Birth Control,spring,5.0,5.0,Female,5.0
@@ -744,7 +744,7 @@ novolog flexpen insulin pen,19-24,Type 1 Diabetes Mellitus,winter,5.0,3.0,Male,3
 novolog vial,25-34,Diabetes,summer,5.0,4.0,Male,4.0
 nucynta,25-34,Pain,winter,4.67,4.33,Male,4.33
 nuvaring ring, vaginal,25-34,Birth Control,fall,4.5,4.43,Female,4.79
-nuvigil,19-24,Recurring Sleep Episodes During the Day,None,5.0,5.0,Male,5.0
+nuvigil,19-24,Recurring Sleep Episodes During the Day,fall,5.0,5.0,Male,5.0
 nystatin,25-34,Thrush,fall,4.0,4.0,Female,4.0
 nystatin suspension, (final dose form),25-34,Thrush,fall,4.0,4.0,Female,4.0
 nystatin-triamcinolone cream,25-34,Other,winter,4.0,2.0,Female,2.0
@@ -756,14 +756,14 @@ olive leaf extract,45-54,Other,winter,5.0,5.0,Female,5.0
 olux foam,25-34,Atopic Dermatitis,winter,3.5,4.0,Female,4.0
 omeclamox-pak,25-34,Ulcer of Duodenum caused by Bacteria Helicobacter Pylori,summer,5.0,5.0,Female,5.0
 omega 3-6-9 complex,25-34,Other,fall,4.0,5.0,Female,4.0
-omeprazole,25-34,Other,spring,3.0,2.33,Male,2.56
-omeprazole capsule,delayed release (enteric coated),25-34,Other,spring,3.0,2.33,Male,2.56
+omeprazole,25-34,Other,fall,3.0,2.33,Male,2.56
+omeprazole capsule,delayed release (enteric coated),25-34,Other,fall,3.0,2.33,Male,2.56
 omeprazole-clarith-amoxicillin combination package,25-34,Inflammation of the Stomach Lining caused by H. Pylori,fall,5.0,1.0,Male,1.0
 omnaris aerosol, spray with pump,25-34,Inflammation of the Nose due to an Allergy,spring,5.0,5.0,Female,5.0
 ondansetron film,25-34,Excessive Vomiting in Pregnancy,spring,4.75,4.25,Female,3.75
 ondansetron hcl,13-18,Nausea and Vomiting,summer,5.0,5.0,Male,5.0
 ondansetron odt,25-34,Excessive Vomiting in Pregnancy,spring,4.75,4.25,Female,3.75
-one a day women's prenatal dha,19-24,Other,None,5.0,5.0,Female,5.0
+one a day women's prenatal dha,19-24,Other,fall,5.0,5.0,Female,5.0
 one-a-day men's,25-34,Treatment to Prevent Mineral Deficiency,summer,2.0,3.0,Male,2.0
 opana,25-34,Pain,summer,5.0,4.67,Female,4.0
 opana er,25-34,Chronic Pain,winter,4.38,3.88,Male,3.88
@@ -777,19 +777,19 @@ ortho micronor,19-24,Birth Control,fall,3.0,2.0,Female,3.0
 ortho tri-cyclen,19-24,Birth Control,summer,4.75,3.75,Female,4.5
 ortho tri-cyclen lo,19-24,Birth Control,spring,5.0,4.33,Female,4.67
 ortho-cyclen,25-34,Birth Control,fall,4.43,4.43,Female,4.43
-ortho-novum,19-24,Birth Control,None,5.0,5.0,Female,5.0
+ortho-novum,19-24,Birth Control,fall,5.0,5.0,Female,5.0
 ortho-novum tablet,19-24,Birth Control,fall,4.5,3.5,Female,3.0
 ovcon-35,19-24,Birth Control,spring,4.5,4.5,Female,5.0
 oxandrin,25-34,Other,fall,5.0,5.0,Male,5.0
 oxaprozin,25-34,Other,fall,4.33,3.33,Female,3.33
-oxcarbazepine,25-34,Convulsive Seizures,None,2.0,1.0,Male,1.0
-oxcarbazepine tablet,25-34,Convulsive Seizures,None,2.0,1.0,Male,1.0
-oxcarbazepine tablet, extended release 24 hr,25-34,Convulsive Seizures,None,2.0,1.0,Male,1.0
+oxcarbazepine,25-34,Convulsive Seizures,fall,2.0,1.0,Male,1.0
+oxcarbazepine tablet,25-34,Convulsive Seizures,fall,2.0,1.0,Male,1.0
+oxcarbazepine tablet, extended release 24 hr,25-34,Convulsive Seizures,fall,2.0,1.0,Male,1.0
 oxybutynin chloride er,25-34,Overactive Bladder,winter,5.0,4.0,Female,4.0
 oxybutynin patch, transdermal semiweekly,3-6,A Condition of Bladder Dysfunction from Nerve Disorder,summer,2.0,4.0,Male,4.0
 oxycodone (bulk) 100 % powder,25-34,Other,fall,3.5,4.0,Female,4.5
-oxycodone hcl,25-34,Pain,winter,4.47,4.27,Male,4.26
-oxycodone hcl er,25-34,Pain,winter,4.47,4.27,Male,4.26
+oxycodone hcl,25-34,Pain,fall,4.47,4.27,Male,4.26
+oxycodone hcl er,25-34,Pain,fall,4.47,4.27,Male,4.26
 oxycodone hcl solution,25-34,Pain,fall,4.36,4.23,Female,4.36
 paxil cr,25-34,Repeated Episodes of Anxiety,fall,4.5,4.33,Female,4.17
 paxil suspension, (final dose form),25-34,Depression,fall,4.0,3.33,Male,3.47
@@ -818,9 +818,9 @@ phenytoin sodium extended,25-34,Epileptic Seizure,fall,3.33,3.33,Female,3.33
 phospha 250 neutral,65-74,Low Amount of Phosphate in the Blood,fall,5.0,5.0,Female,5.0
 pirmella,19-24,Painful Periods,winter,5.0,1.0,Female,1.0
 piroxicam,25-34,Other,winter,3.67,2.33,Female,2.0
-pitocin vial,25-34,Use of Drugs or Surgical Procedures to Begin Labor Process,None,1.0,1.33,Female,3.0
+pitocin vial,25-34,Use of Drugs or Surgical Procedures to Begin Labor Process,fall,1.0,1.33,Female,3.0
 plan b one-step,13-18,Postcoital Contraception,spring,1.0,1.0,Female,1.0
-plaquenil,25-34,Systemic Lupus Erythematosus,winter,4.0,3.73,Female,3.64
+plaquenil,25-34,Systemic Lupus Erythematosus,fall,4.0,3.73,Female,3.64
 plavix,7-12,Other,fall,3.67,4.33,Male,3.0
 pnv-dha,19-24,A Mother who is Producing Milk and Breastfeeding,spring,5.0,5.0,Female,5.0
 pnv-select,25-34,Pregnancy,fall,4.0,2.5,Female,3.5
@@ -833,20 +833,20 @@ potassium citrate er,19-24,Calcium Oxalate Kidney Stones,summer,4.0,4.0,Female,3
 potassium cl-calcium phos-mag tablet,19-24,Other,winter,3.0,3.0,Female,2.0
 potassium phosphate vial,25-34,Other,summer,3.0,3.0,Female,3.0
 pr benzoyl peroxide cleanser,19-24,Acne,summer,5.0,5.0,Female,5.0
-praziquantel tablet,25-34,A Tapeworm Infection - Taeniasis,None,2.0,3.0,Male,5.0
+praziquantel tablet,25-34,A Tapeworm Infection - Taeniasis,fall,2.0,3.0,Male,5.0
 prednisolone,3-6,Asthma,winter,4.5,3.0,Female,3.0
 prednisolone sod phos (bulk) powder,0-2,Other,winter,1.0,3.0,Female,3.0
 prednisolone sodium phos odt,3-6,Asthma,winter,4.0,4.0,Female,3.0
 prednisolone sodium phosphate,3-6,Asthma,winter,4.0,4.0,Female,3.0
 prednisolone tablet,3-6,Asthma,winter,4.5,3.0,Female,3.0
-prednisone,25-34,Asthma,winter,3.86,3.46,Female,3.97
-prednisone concentrate,25-34,Asthma,winter,3.86,3.46,Female,3.97
-prednisone tablet, delayed release (enteric coated),25-34,Asthma,winter,3.86,3.46,Female,3.97
+prednisone,25-34,Asthma,fall,3.86,3.46,Female,3.97
+prednisone concentrate,25-34,Asthma,fall,3.86,3.46,Female,3.97
+prednisone tablet, delayed release (enteric coated),25-34,Asthma,fall,3.86,3.46,Female,3.97
 prefera ob,25-34,Other,spring,4.67,5.0,Female,4.33
 pregnyl vial,19-24,An Insufficiency in Ovulation,spring,3.0,3.0,Female,3.0
 premarin,25-34,Primary Ovarian Failure,winter,5.0,4.0,Female,3.5
 premsyn pms,25-34,Painful Periods,fall,5.0,5.0,Female,5.0
-prenatabs fa,25-34,Pregnancy,None,3.0,3.0,Female,4.0
+prenatabs fa,25-34,Pregnancy,fall,3.0,3.0,Female,4.0
 prenatabs rx,25-34,Pregnancy,summer,5.0,5.0,Female,5.0
 prenatal multivitamins,25-34,Other,fall,3.0,3.0,Female,3.0
 prenatal plus,25-34,Pregnancy,fall,4.75,4.5,Female,4.75
@@ -859,7 +859,7 @@ prevent,3-6,Treatment to Prevent Mineral Deficiency,spring,2.0,5.0,Male,4.0
 previfem,19-24,Abnormally Long or Heavy Periods,spring,4.75,5.0,Female,5.0
 prezista,25-34,HIV,summer,5.0,4.5,Female,5.0
 priftin,19-24,TB involving the Lungs,winter,1.0,1.0,Male,1.0
-prilosec,19-24,Conditions of Excess Stomach Acid Secretion,None,5.0,4.5,Female,4.5
+prilosec,19-24,Conditions of Excess Stomach Acid Secretion,fall,5.0,4.5,Female,4.5
 prilosec otc,25-34,Treatment to Prevent Heartburn,winter,4.5,5.0,Female,5.0
 pristiq,25-34,Depression,fall,4.83,4.29,Female,4.04
 proair hfa aerosol with adapter,7-12,Bronchitis,summer,3.0,3.0,Female,1.0
@@ -885,7 +885,7 @@ prostin e2 vaginal suppository suppository,19-24,Abortion,winter,3.0,4.0,Female,
 protect plus so,25-34,Other,spring,4.0,4.0,Female,5.0
 proteinex,19-24,Other,fall,1.0,5.0,Male,3.0
 protonix,25-34,Conditions of Excess Stomach Acid Secretion,summer,4.12,3.5,Female,3.62
-proventil hfa aerosol with adapter,19-24,Bronchospasm,None,5.0,5.0,Female,5.0
+proventil hfa aerosol with adapter,19-24,Bronchospasm,fall,5.0,5.0,Female,5.0
 provida ob,25-34,Pregnancy,summer,5.0,5.0,Female,5.0
 provigil,25-34,Other,fall,4.44,4.0,Male,3.78
 prozac,13-18,Depression,winter,4.35,3.35,Female,3.6
@@ -910,7 +910,7 @@ suprax capsule,19-24,Acute Gonorrhea of the Urethra,winter,5.0,5.0,Male,5.0
 supress-dx,25-34,Cold Symptoms,winter,5.0,5.0,Female,5.0
 syeda,25-34,Birth Control,fall,4.0,1.0,Female,5.0
 symbicort hfa aerosol with adapter,25-34,Asthma,fall,4.27,3.36,Female,3.45
-symbyax,19-24,Major Depressive Disorder,spring,3.6,3.4,Female,3.4
+symbyax,19-24,Major Depressive Disorder,fall,3.6,3.4,Female,3.4
 synalar ts kit,25-34,Atopic Dermatitis,fall,5.0,5.0,Female,5.0
 synthroid,25-34,Underactive Thyroid,spring,4.36,3.36,Female,3.59
 synvisc-one syringe,25-34,Osteoarthritis of the Knee,spring,1.0,1.0,Male,2.0
@@ -928,23 +928,23 @@ tandem dual action,25-34,Anemia from Inadequate Iron,fall,5.0,5.0,Female,5.0
 tandem plus,25-34,Lack in Minerals,summer,5.0,5.0,Male,5.0
 taron-c dha,19-24,Pregnancy,fall,5.0,5.0,Female,5.0
 tazorac gel,13-18,Psoriasis,summer,3.0,4.0,Female,4.0
-tegretol tablet,25-34,Epileptic Seizure,winter,4.56,3.67,Male,3.56
+tegretol tablet,25-34,Epileptic Seizure,fall,4.56,3.67,Male,3.56
 tegretol xr,25-34,Prevention of Seizures following Head Injury or Surgery,winter,4.5,3.0,Female,3.5
 temazepam,25-34,Chronic Trouble Sleeping,winter,4.75,3.25,Female,3.5
 temodar,25-34,Other,fall,1.0,1.0,Male,1.0
 terazol 7 cream with applicator,13-18,Yeast Infection of Vagina and Vulva,spring,4.5,3.5,Female,4.5
 terbinafine hcl,25-34,Fungal Infection of Toenails,summer,4.0,3.5,Female,3.5
-terconazole cream with applicator,25-34,Yeast Infection of Vagina and Vulva,None,5.0,4.0,Female,4.0
+terconazole cream with applicator,25-34,Yeast Infection of Vagina and Vulva,fall,5.0,4.0,Female,4.0
 tessalon perle,25-34,Cough,fall,4.0,2.88,Female,2.88
 testosterone (bulk) powder,25-34,Other,fall,4.0,3.0,Male,4.0
 tetracaine 0.5 % eye drops,25-34,Anesthesia of the Cornea of the Eye,fall,5.0,5.0,Female,5.0
-tetracycline hcl,19-24,Inflammation of the Gums and Mouth,None,4.5,5.0,Male,5.0
+tetracycline hcl,19-24,Inflammation of the Gums and Mouth,fall,4.5,5.0,Male,5.0
 tetracycline ointment,13-18,Minor Skin Infection caused by Bacteria,fall,2.5,2.5,Female,2.5
 theraflu nighttime severe cold-cough 25 mg-10 mg-650 mg powder packet,19-24,Cough,fall,5.0,4.0,Female,4.5
 theragran-m premier 50 plus,19-24,Lack in Vitamins,summer,5.0,4.0,Male,3.0
 tindamax,25-34,Vaginosis caused by Bacteria,fall,5.0,5.0,Female,5.0
 tizanidine hcl,25-34,Muscle Spasm,fall,3.88,3.38,Female,3.5
-tobramycin-lotepred drops, suspension,25-34,Inflammation of the Eye,None,3.0,1.0,Male,1.0
+tobramycin-lotepred drops, suspension,25-34,Inflammation of the Eye,fall,3.0,1.0,Male,1.0
 tolterodine tartrate,19-24,Overactive Bladder,spring,5.0,5.0,Female,5.0
 tolterodine tartrate er,19-24,Overactive Bladder,spring,5.0,5.0,Female,5.0
 topamax,25-34,Migraine Prevention,spring,4.29,3.71,Female,3.76
@@ -960,7 +960,7 @@ tri-linyah,25-34,Birth Control,summer,5.0,4.0,Female,5.0
 tri-previfem,25-34,Birth Control,winter,4.67,3.83,Female,4.83
 tri-sprintec,19-24,Birth Control,winter,4.22,4.06,Female,4.44
 triamcinolone acetonide cream,45-54,Skin Condition,fall,4.0,3.0,Male,3.5
-triamcinolone acetonide vial,19-24,Skin Disease Characterized by Swollen Itching Lesions,None,5.0,4.0,Female,4.0
+triamcinolone acetonide vial,19-24,Skin Disease Characterized by Swollen Itching Lesions,fall,5.0,4.0,Female,4.0
 triaminic daytime cold-cough,3-6,Cough,winter,3.0,1.0,Female,1.0
 triamterene-hydrochlorothiazid,25-34,High Blood Pressure,spring,5.0,5.0,Female,4.0
 tribenzor,45-54,High Blood Pressure,summer,2.0,1.0,Male,3.0
@@ -1002,7 +1002,7 @@ zolpidem tartrate,25-34,Chronic Trouble Sleeping,fall,4.14,4.14,Female,4.43
 zolpidem tartrate er,25-34,Chronic Trouble Sleeping,fall,4.14,4.14,Female,4.43
 zomig,19-24,Migraine Headache,winter,5.0,4.0,Female,1.5
 zomig zmt,19-24,Migraine Headache,fall,5.0,5.0,Female,5.0
-zonegran,25-34,Convulsive Seizures,spring,4.4,4.8,Female,4.0
+zonegran,25-34,Convulsive Seizures,fall,4.4,4.8,Female,4.0
 zonisamide,19-24,Convulsive Seizures,spring,4.0,4.0,Female,4.0
 zorvolex,25-34,Other,fall,5.0,4.0,Female,4.0
 zovirax,25-34,Recurrent Genital Herpes,summer,4.33,4.33,Female,4.0

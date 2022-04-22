@@ -21,13 +21,13 @@ acetaminophen,25-34,Backache,summer,5.0,5.0,Male,5.0
 acetaminophen,25-34,Pain,fall,5.0,1.0,Female,2.0
 acetaminophen,25-34,Painful Periods,winter,4.0,5.0,Female,4.0
 acetaminophen suppository, rectal,25-34,Other,winter,2.0,2.0,Male,2.0
-acetaminophen-codeine,13-18,Pain,None,4.0,5.0,Female,5.0
+acetaminophen-codeine,13-18,Pain,fall,4.0,5.0,Female,5.0
 acetaminophen-codeine,19-24,Pain,fall,5.0,5.0,Male,5.0
-acetaminophen-codeine,19-24,Pain,None,1.0,1.0,Female,1.0
+acetaminophen-codeine,19-24,Pain,fall,1.0,1.0,Female,1.0
 acetaminophen-codeine,25-34,Pain,fall,5.0,2.0,Male,1.0
 acetaminophen-codeine,25-34,Pain,winter,4.0,5.0,Female,5.0
 acetazolamide,13-18,Pseudotumor Cerebri,spring,1.0,1.0,Female,4.0
-acetazolamide,25-34,Altitude Sickness,None,5.0,5.0,Female,5.0
+acetazolamide,25-34,Altitude Sickness,fall,5.0,5.0,Female,5.0
 acetylcysteine 100 mg/ml (10 %) solution,19-24,An Increase in the Thickness of Lung Secretions,fall,5.0,5.0,Male,5.0
 acidophilus chewable tablet,25-34,Diarrhea,spring,5.0,5.0,Female,5.0
 acidophilus chewable tablet,25-34,Diarrhea,spring,5.0,5.0,Female,5.0
@@ -36,8 +36,8 @@ aciphex,19-24,Excessive Production of Stomach Acid,fall,4.0,4.0,Female,4.0
 aciphex,25-34,Other,summer,5.0,5.0,Female,5.0
 aciphex,25-34,Ulcer of Duodenum caused by Bacteria Helicobacter Pylori,fall,5.0,5.0,Female,5.0
 aciphex,25-34,Medication Treatment for Healing Gastroesophageal Reflux,winter,4.0,4.0,Male,4.0
-aciphex,25-34,Symptoms Accompanying Esophageal Reflux of Stomach Acid,None,5.0,5.0,Male,5.0
-aciphex,25-34,Condition in which Stomach Acid is Pushed Into the Esophagus,None,1.0,2.0,Female,3.0
+aciphex,25-34,Symptoms Accompanying Esophageal Reflux of Stomach Acid,fall,5.0,5.0,Male,5.0
+aciphex,25-34,Condition in which Stomach Acid is Pushed Into the Esophagus,fall,1.0,2.0,Female,3.0
 acitretin,25-34,Severe Psoriasis that is Resistant to Treatment,winter,3.0,1.0,Male,1.0
 acneclear gel,25-34,Acne,fall,5.0,5.0,Female,5.0
 acthar 80 unit/ml injection gel corticotropins,13-18,Asthma,winter,3.0,4.0,Female,4.0
@@ -71,7 +71,7 @@ adderall,13-18,Attention Deficit Disorder with Hyperactivity,winter,1.0,1.0,Male
 adderall,13-18,Attention Deficit Disorder with Hyperactivity,winter,2.0,1.0,Male,1.0
 adderall,13-18,Attention Deficit Disorder with Hyperactivity,winter,5.0,5.0,Male,4.0
 adderall,13-18,Attention Deficit Disorder with Hyperactivity,fall,1.0,1.0,Male,1.0
-adderall,13-18,Attention Deficit Disorder with Hyperactivity,None,5.0,3.0,Female,4.0
+adderall,13-18,Attention Deficit Disorder with Hyperactivity,fall,5.0,3.0,Female,4.0
 adderall,19-24,Attention Deficit Disorder with Hyperactivity,winter,1.0,1.0,Male,1.0
 adderall,19-24,Attention Deficit Disorder with Hyperactivity,winter,3.0,4.0,Female,4.0
 adderall,19-24,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,5.0
@@ -81,7 +81,7 @@ adderall,19-24,Attention Deficit Disorder with Hyperactivity,winter,5.0,5.0,Male
 adderall,19-24,Attention Deficit Disorder with Hyperactivity,summer,5.0,5.0,Female,5.0
 adderall,19-24,Recurring Sleep Episodes During the Day,spring,4.0,4.0,Female,3.0
 adderall,19-24,Other,spring,4.0,4.0,Female,5.0
-adderall,19-24,Attention Deficit Disorder with Hyperactivity,None,5.0,5.0,Female,5.0
+adderall,19-24,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,5.0
 adderall,19-24,Other,summer,5.0,5.0,Female,5.0
 adderall,19-24,Attention Deficit Disorder with Hyperactivity,summer,4.0,4.0,Male,4.0
 adderall,19-24,Other,spring,3.0,3.0,Female,4.0
@@ -92,14 +92,14 @@ adderall,19-24,Attention Deficit Disorder with Hyperactivity,winter,3.0,3.0,Male
 adderall,19-24,Attention Deficit Disorder with Hyperactivity,winter,3.0,2.0,Male,5.0
 adderall,19-24,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,5.0
 adderall,19-24,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,5.0
-adderall,19-24,Attention Deficit Disorder with Hyperactivity,None,4.0,5.0,Female,4.0
+adderall,19-24,Attention Deficit Disorder with Hyperactivity,fall,4.0,5.0,Female,4.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,winter,5.0,4.0,Female,5.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,winter,5.0,5.0,Male,5.0
 adderall,25-34,Other,fall,3.0,5.0,Female,4.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,5.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,winter,3.0,3.0,Female,3.0
 adderall,25-34,Recurring Sleep Episodes During the Day,winter,3.0,1.0,Male,2.0
-adderall,25-34,Attention Deficit Disorder with Hyperactivity,None,5.0,5.0,Male,5.0
+adderall,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Male,5.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,5.0,Female,4.0
 adderall,25-34,Other,spring,1.0,1.0,Female,1.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,winter,5.0,4.0,Female,5.0
@@ -107,7 +107,7 @@ adderall,25-34,Recurring Sleep Episodes During the Day,summer,4.0,4.0,Male,4.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,spring,3.0,3.0,Female,3.0
 adderall,25-34,Other,winter,5.0,5.0,Male,4.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,winter,5.0,5.0,Female,5.0
-adderall,25-34,Attention Deficit Disorder with Hyperactivity,None,3.0,4.0,Female,4.0
+adderall,25-34,Attention Deficit Disorder with Hyperactivity,fall,3.0,4.0,Female,4.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,summer,4.0,2.0,Female,2.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,5.0,Male,5.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,3.0,Female,3.0
@@ -117,10 +117,10 @@ adderall,25-34,Attention Deficit Disorder with Hyperactivity,spring,3.0,4.0,Fema
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,spring,5.0,5.0,Male,4.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,winter,5.0,5.0,Male,5.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,3.0,Female,5.0
-adderall,25-34,Recurring Sleep Episodes During the Day,None,5.0,4.0,Male,4.0
+adderall,25-34,Recurring Sleep Episodes During the Day,fall,5.0,4.0,Male,4.0
 adderall,25-34,Recurring Sleep Episodes During the Day,fall,5.0,5.0,Male,5.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,fall,4.0,4.0,Female,4.0
-adderall,25-34,Attention Deficit Disorder with Hyperactivity,None,3.0,3.0,Female,4.0
+adderall,25-34,Attention Deficit Disorder with Hyperactivity,fall,3.0,3.0,Female,4.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,spring,1.0,1.0,Female,1.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,spring,4.0,4.0,Female,4.0
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,spring,4.0,4.0,Male,4.0
@@ -143,7 +143,7 @@ adderall,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,4.0,Male
 adderall,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,5.0,Female,5.0
 adderall,25-34,Other,summer,5.0,5.0,Male,5.0
 adderall xr,3-6,Attention Deficit Disorder with Hyperactivity,fall,5.0,3.0,Female,3.0
-adderall xr,3-6,Attention Deficit Disorder with Hyperactivity,None,4.0,4.0,Female,4.0
+adderall xr,3-6,Attention Deficit Disorder with Hyperactivity,fall,4.0,4.0,Female,4.0
 adderall xr,3-6,Attention Deficit Disorder with Hyperactivity,winter,5.0,3.0,Male,4.0
 adderall xr,7-12,Attention Deficit Disorder with Hyperactivity,winter,4.0,4.0,Female,4.0
 adderall xr,7-12,Attention Deficit Disorder with Hyperactivity,spring,5.0,4.0,Female,3.0
@@ -153,8 +153,8 @@ adderall xr,7-12,Attention Deficit Disorder with Hyperactivity,fall,4.0,4.0,Fema
 adderall xr,13-18,Attention Deficit Disorder with Hyperactivity,spring,4.0,5.0,Female,5.0
 adderall xr,13-18,Attention Deficit Disorder with Hyperactivity,winter,3.0,3.0,Male,4.0
 adderall xr,13-18,Attention Deficit Disorder with Hyperactivity,winter,4.0,4.0,Male,5.0
-adderall xr,13-18,Attention Deficit Disorder with Hyperactivity,None,3.0,3.0,Female,3.0
-adderall xr,13-18,Attention Deficit Disorder with Hyperactivity,None,5.0,5.0,Male,5.0
+adderall xr,13-18,Attention Deficit Disorder with Hyperactivity,fall,3.0,3.0,Female,3.0
+adderall xr,13-18,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Male,5.0
 adderall xr,19-24,Attention Deficit Disorder with Hyperactivity,summer,5.0,5.0,Female,5.0
 adderall xr,19-24,Attention Deficit Disorder with Hyperactivity,spring,4.0,3.0,Female,2.0
 adderall xr,19-24,Attention Deficit Disorder with Hyperactivity,fall,4.0,5.0,Male,5.0
@@ -167,7 +167,7 @@ adderall xr,19-24,Attention Deficit Disorder with Hyperactivity,winter,5.0,5.0,F
 adderall xr,19-24,Other,fall,5.0,5.0,Female,5.0
 adderall xr,19-24,Attention Deficit Disorder with Hyperactivity,fall,5.0,4.0,Female,4.0
 adderall xr,25-34,Recurring Sleep Episodes During the Day,fall,5.0,5.0,Female,5.0
-adderall xr,25-34,Other,None,5.0,5.0,Female,5.0
+adderall xr,25-34,Other,fall,5.0,5.0,Female,5.0
 adderall xr,25-34,Attention Deficit Disorder with Hyperactivity,summer,4.0,4.0,Male,4.0
 adderall xr,25-34,Attention Deficit Disorder with Hyperactivity,summer,4.0,5.0,Male,5.0
 adderall xr,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,5.0,Female,5.0
@@ -191,11 +191,11 @@ adipex-p,25-34,Other,spring,3.0,3.0,Female,3.0
 adipex-p,25-34,Overweight,spring,4.0,4.0,Female,4.0
 adipex-p,25-34,Overweight,fall,3.0,4.0,Female,3.0
 adipex-p,25-34,Overweight,fall,3.0,3.0,Female,3.0
-adipex-p,25-34,Overweight,None,5.0,5.0,Female,5.0
-adipex-p,25-34,Overweight,None,5.0,5.0,Female,5.0
-adipex-p,25-34,Overweight,None,4.0,4.0,Female,4.0
+adipex-p,25-34,Overweight,fall,5.0,5.0,Female,5.0
+adipex-p,25-34,Overweight,fall,5.0,5.0,Female,5.0
+adipex-p,25-34,Overweight,fall,4.0,4.0,Female,4.0
 adipex-p,25-34,Overweight,winter,4.0,4.0,Male,4.0
-adipex-p,25-34,Overweight,None,4.0,5.0,Female,4.0
+adipex-p,25-34,Overweight,fall,4.0,5.0,Female,4.0
 adipex-p,25-34,Overweight,spring,4.0,3.0,Female,3.0
 adipex-p,25-34,Overweight,spring,5.0,4.0,Female,4.0
 adipex-p,25-34,Overweight,fall,5.0,4.0,Female,5.0
@@ -203,32 +203,32 @@ adipex-p,25-34,Overweight,spring,5.0,5.0,Female,4.0
 adipex-p,25-34,Overweight,winter,5.0,5.0,Female,5.0
 adipex-p,25-34,Overweight,fall,4.0,5.0,Female,5.0
 adipex-p,25-34,Overweight,fall,5.0,2.0,Female,3.0
-adipex-p,25-34,Overweight,None,4.0,5.0,Female,4.0
-adipex-p,25-34,Overweight,None,3.0,3.0,Female,2.0
+adipex-p,25-34,Overweight,fall,4.0,5.0,Female,4.0
+adipex-p,25-34,Overweight,fall,3.0,3.0,Female,2.0
 adipex-p,25-34,Overweight,summer,5.0,5.0,Female,5.0
 adipex-p,25-34,Overweight,summer,5.0,5.0,Female,5.0
 adipex-p,25-34,Overweight,spring,4.0,3.0,Female,3.0
 adipex-p,25-34,Overweight,spring,5.0,5.0,Female,5.0
 adipex-p,25-34,Overweight,spring,5.0,5.0,Female,5.0
 adipex-p,25-34,Overweight,winter,5.0,5.0,Female,5.0
-adipex-p,25-34,Overweight,None,5.0,5.0,Female,5.0
+adipex-p,25-34,Overweight,fall,5.0,5.0,Female,5.0
 adrenalin chloride vial,25-34,Life Threatening Allergic Reaction,spring,1.0,1.0,Female,4.0
 advair diskus blister, with inhalation device,7-12,Asthma,fall,5.0,5.0,Female,5.0
 advair diskus blister, with inhalation device,13-18,Allergic Asthma,winter,5.0,5.0,Female,5.0
 advair diskus blister, with inhalation device,19-24,Asthma,winter,5.0,5.0,Male,5.0
-advair diskus blister, with inhalation device,19-24,Asthma,None,5.0,5.0,Female,5.0
-advair diskus blister, with inhalation device,25-34,Asthma,None,5.0,4.0,Female,4.0
+advair diskus blister, with inhalation device,19-24,Asthma,fall,5.0,5.0,Female,5.0
+advair diskus blister, with inhalation device,25-34,Asthma,fall,5.0,4.0,Female,4.0
 advair diskus blister, with inhalation device,25-34,Asthma,spring,5.0,5.0,Male,5.0
 advair diskus blister, with inhalation device,25-34,Asthma,summer,5.0,5.0,Female,5.0
 advair diskus blister, with inhalation device,25-34,Asthma,winter,5.0,4.0,Female,4.0
 advair diskus blister, with inhalation device,25-34,Asthma,fall,5.0,5.0,Female,5.0
 advate vial,19-24,Bleeding in Hemophilia A,fall,5.0,5.0,Male,5.0
-advil,19-24,Rheumatoid Arthritis,None,4.0,3.0,Female,2.0
+advil,19-24,Rheumatoid Arthritis,fall,4.0,3.0,Female,2.0
 advil,25-34,Pain,summer,5.0,5.0,Male,5.0
 advil cold & sinus,13-18,Sinus Headache,winter,5.0,5.0,Male,5.0
 advil cold & sinus,25-34,Other,winter,5.0,5.0,Female,5.0
 advil migraine,25-34,Migraine Headache,winter,5.0,5.0,Female,5.0
-adzenys xr-odt,19-24,Attention Deficit Disorder with Hyperactivity,None,5.0,5.0,Female,5.0
+adzenys xr-odt,19-24,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,5.0
 afrezza cartridge with inhaler,25-34,Diabetes,spring,1.0,1.0,Female,1.0
 afrin spray, non-aerosol,25-34,Stuffy Nose,fall,4.0,4.0,Male,5.0
 aftera,25-34,Postcoital Contraception,summer,5.0,5.0,Female,5.0
@@ -259,7 +259,7 @@ allegra-d 12 hour,25-34,Other,fall,5.0,5.0,Female,5.0
 allegra-d 24 hour,13-18,Seasonal Runny Nose,summer,4.0,4.0,Male,4.0
 allergy,25-34,Other,summer,5.0,4.0,Female,3.0
 allergy tablet,25-34,Itching,spring,5.0,5.0,Male,5.0
-alli,25-34,Overweight,None,5.0,4.0,Female,4.0
+alli,25-34,Overweight,fall,5.0,4.0,Female,4.0
 alprazolam,45-54,Panic Disorder,fall,3.0,1.0,Male,5.0
 alprazolam,13-18,Anxiousness associated with Depression,spring,5.0,5.0,Female,5.0
 alprazolam,13-18,Anxiousness associated with Depression,winter,5.0,4.0,Female,3.0
@@ -268,7 +268,7 @@ alprazolam,19-24,Anxious,winter,5.0,5.0,Female,5.0
 alprazolam,19-24,Anxiousness associated with Depression,winter,5.0,4.0,Female,4.0
 alprazolam,19-24,Panic Disorder,summer,4.0,3.0,Female,4.0
 alprazolam,19-24,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
-alprazolam,19-24,Repeated Episodes of Anxiety,None,5.0,5.0,Female,5.0
+alprazolam,19-24,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
 alprazolam,25-34,Panic Disorder,spring,5.0,5.0,Female,5.0
 alprazolam,25-34,Panic Disorder,fall,4.0,3.0,Male,4.0
 alprazolam,25-34,Anxiousness associated with Depression,summer,4.0,3.0,Female,4.0
@@ -278,11 +278,11 @@ alprazolam,25-34,Repeated Episodes of Anxiety,fall,1.0,1.0,Female,1.0
 alprazolam,25-34,Anxiousness associated with Depression,summer,4.0,3.0,Female,5.0
 alprazolam,25-34,Anxious,spring,5.0,1.0,Female,2.0
 alprazolam,25-34,Anxiousness associated with Depression,winter,3.0,3.0,Female,1.0
-alprazolam,25-34,Repeated Episodes of Anxiety,None,5.0,5.0,Female,5.0
+alprazolam,25-34,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
 alprazolam,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Male,5.0
 alprazolam,25-34,Panic Disorder,winter,3.0,3.0,Male,3.0
 alprazolam,25-34,Panic Disorder,fall,5.0,5.0,Male,5.0
-alprazolam,25-34,Repeated Episodes of Anxiety,None,3.0,3.0,Female,2.0
+alprazolam,25-34,Repeated Episodes of Anxiety,fall,3.0,3.0,Female,2.0
 alprazolam,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Female,5.0
 alprazolam,25-34,Anxious,summer,3.0,3.0,Male,3.0
 alprazolam,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Male,5.0
@@ -293,8 +293,8 @@ alprazolam,25-34,Chronic Trouble Sleeping,winter,3.0,3.0,Male,2.0
 alprazolam,25-34,Anxious,winter,5.0,5.0,Female,2.0
 alprazolam,25-34,Anxious,winter,4.0,3.0,Male,1.0
 alprazolam,25-34,Chronic Trouble Sleeping,fall,5.0,5.0,Female,5.0
-alprazolam,25-34,Anxiousness associated with Depression,None,5.0,5.0,Female,4.0
-alprazolam,25-34,Repeated Episodes of Anxiety,None,5.0,5.0,Male,5.0
+alprazolam,25-34,Anxiousness associated with Depression,fall,5.0,5.0,Female,4.0
+alprazolam,25-34,Repeated Episodes of Anxiety,fall,5.0,5.0,Male,5.0
 alprazolam,25-34,Repeated Episodes of Anxiety,summer,1.0,2.0,Male,3.0
 alprazolam,25-34,Panic Disorder,summer,5.0,5.0,Female,5.0
 alprazolam,25-34,Anxious,spring,2.0,2.0,Male,2.0
@@ -307,7 +307,7 @@ alprazolam concentrate,13-18,Anxiousness associated with Depression,spring,5.0,5
 alprazolam concentrate,13-18,Anxiousness associated with Depression,winter,5.0,4.0,Female,3.0
 alprazolam concentrate,19-24,Anxious,summer,5.0,5.0,Female,5.0
 alprazolam concentrate,19-24,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
-alprazolam concentrate,19-24,Repeated Episodes of Anxiety,None,5.0,5.0,Female,5.0
+alprazolam concentrate,19-24,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
 alprazolam concentrate,19-24,Anxious,winter,5.0,5.0,Female,5.0
 alprazolam concentrate,19-24,Anxiousness associated with Depression,winter,5.0,4.0,Female,4.0
 alprazolam concentrate,19-24,Panic Disorder,summer,4.0,3.0,Female,4.0
@@ -321,11 +321,11 @@ alprazolam concentrate,25-34,Repeated Episodes of Anxiety,fall,1.0,1.0,Female,1.
 alprazolam concentrate,25-34,Anxiousness associated with Depression,summer,4.0,3.0,Female,5.0
 alprazolam concentrate,25-34,Anxious,spring,5.0,1.0,Female,2.0
 alprazolam concentrate,25-34,Anxiousness associated with Depression,winter,3.0,3.0,Female,1.0
-alprazolam concentrate,25-34,Repeated Episodes of Anxiety,None,5.0,5.0,Female,5.0
+alprazolam concentrate,25-34,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
 alprazolam concentrate,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Male,5.0
 alprazolam concentrate,25-34,Panic Disorder,winter,3.0,3.0,Male,3.0
 alprazolam concentrate,25-34,Panic Disorder,fall,5.0,5.0,Male,5.0
-alprazolam concentrate,25-34,Repeated Episodes of Anxiety,None,3.0,3.0,Female,2.0
+alprazolam concentrate,25-34,Repeated Episodes of Anxiety,fall,3.0,3.0,Female,2.0
 alprazolam concentrate,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Female,5.0
 alprazolam concentrate,25-34,Anxious,summer,3.0,3.0,Male,3.0
 alprazolam concentrate,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Male,5.0
@@ -336,8 +336,8 @@ alprazolam concentrate,25-34,Chronic Trouble Sleeping,winter,3.0,3.0,Male,2.0
 alprazolam concentrate,25-34,Anxious,winter,5.0,5.0,Female,2.0
 alprazolam concentrate,25-34,Anxious,winter,4.0,3.0,Male,1.0
 alprazolam concentrate,25-34,Chronic Trouble Sleeping,fall,5.0,5.0,Female,5.0
-alprazolam concentrate,25-34,Anxiousness associated with Depression,None,5.0,5.0,Female,4.0
-alprazolam concentrate,25-34,Repeated Episodes of Anxiety,None,5.0,5.0,Male,5.0
+alprazolam concentrate,25-34,Anxiousness associated with Depression,fall,5.0,5.0,Female,4.0
+alprazolam concentrate,25-34,Repeated Episodes of Anxiety,fall,5.0,5.0,Male,5.0
 alprazolam concentrate,25-34,Repeated Episodes of Anxiety,summer,1.0,2.0,Male,3.0
 alprazolam concentrate,25-34,Panic Disorder,summer,5.0,5.0,Female,5.0
 alprazolam concentrate,25-34,Anxious,spring,2.0,2.0,Male,2.0
@@ -352,7 +352,7 @@ alprazolam er,19-24,Anxious,winter,5.0,5.0,Female,5.0
 alprazolam er,19-24,Anxiousness associated with Depression,winter,5.0,4.0,Female,4.0
 alprazolam er,19-24,Panic Disorder,summer,4.0,3.0,Female,4.0
 alprazolam er,19-24,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
-alprazolam er,19-24,Repeated Episodes of Anxiety,None,5.0,5.0,Female,5.0
+alprazolam er,19-24,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
 alprazolam er,25-34,Panic Disorder,spring,5.0,5.0,Female,5.0
 alprazolam er,25-34,Panic Disorder,fall,4.0,3.0,Male,4.0
 alprazolam er,25-34,Anxiousness associated with Depression,summer,4.0,3.0,Female,4.0
@@ -362,11 +362,11 @@ alprazolam er,25-34,Repeated Episodes of Anxiety,fall,1.0,1.0,Female,1.0
 alprazolam er,25-34,Anxiousness associated with Depression,summer,4.0,3.0,Female,5.0
 alprazolam er,25-34,Anxious,spring,5.0,1.0,Female,2.0
 alprazolam er,25-34,Anxiousness associated with Depression,winter,3.0,3.0,Female,1.0
-alprazolam er,25-34,Repeated Episodes of Anxiety,None,5.0,5.0,Female,5.0
+alprazolam er,25-34,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
 alprazolam er,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Male,5.0
 alprazolam er,25-34,Panic Disorder,winter,3.0,3.0,Male,3.0
 alprazolam er,25-34,Panic Disorder,fall,5.0,5.0,Male,5.0
-alprazolam er,25-34,Repeated Episodes of Anxiety,None,3.0,3.0,Female,2.0
+alprazolam er,25-34,Repeated Episodes of Anxiety,fall,3.0,3.0,Female,2.0
 alprazolam er,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Female,5.0
 alprazolam er,25-34,Anxious,summer,3.0,3.0,Male,3.0
 alprazolam er,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Male,5.0
@@ -377,8 +377,8 @@ alprazolam er,25-34,Chronic Trouble Sleeping,winter,3.0,3.0,Male,2.0
 alprazolam er,25-34,Anxious,winter,5.0,5.0,Female,2.0
 alprazolam er,25-34,Anxious,winter,4.0,3.0,Male,1.0
 alprazolam er,25-34,Chronic Trouble Sleeping,fall,5.0,5.0,Female,5.0
-alprazolam er,25-34,Anxiousness associated with Depression,None,5.0,5.0,Female,4.0
-alprazolam er,25-34,Repeated Episodes of Anxiety,None,5.0,5.0,Male,5.0
+alprazolam er,25-34,Anxiousness associated with Depression,fall,5.0,5.0,Female,4.0
+alprazolam er,25-34,Repeated Episodes of Anxiety,fall,5.0,5.0,Male,5.0
 alprazolam er,25-34,Repeated Episodes of Anxiety,summer,1.0,2.0,Male,3.0
 alprazolam er,25-34,Panic Disorder,summer,5.0,5.0,Female,5.0
 alprazolam er,25-34,Anxious,spring,2.0,2.0,Male,2.0
@@ -395,7 +395,7 @@ alprazolam odt,19-24,Anxious,winter,5.0,5.0,Female,5.0
 alprazolam odt,19-24,Anxiousness associated with Depression,winter,5.0,4.0,Female,4.0
 alprazolam odt,19-24,Panic Disorder,summer,4.0,3.0,Female,4.0
 alprazolam odt,19-24,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
-alprazolam odt,19-24,Repeated Episodes of Anxiety,None,5.0,5.0,Female,5.0
+alprazolam odt,19-24,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
 alprazolam odt,25-34,Panic Disorder,spring,5.0,5.0,Female,5.0
 alprazolam odt,25-34,Panic Disorder,fall,4.0,3.0,Male,4.0
 alprazolam odt,25-34,Anxiousness associated with Depression,summer,4.0,3.0,Female,4.0
@@ -405,11 +405,11 @@ alprazolam odt,25-34,Repeated Episodes of Anxiety,fall,1.0,1.0,Female,1.0
 alprazolam odt,25-34,Anxiousness associated with Depression,summer,4.0,3.0,Female,5.0
 alprazolam odt,25-34,Anxious,spring,5.0,1.0,Female,2.0
 alprazolam odt,25-34,Anxiousness associated with Depression,winter,3.0,3.0,Female,1.0
-alprazolam odt,25-34,Repeated Episodes of Anxiety,None,5.0,5.0,Female,5.0
+alprazolam odt,25-34,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
 alprazolam odt,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Male,5.0
 alprazolam odt,25-34,Panic Disorder,winter,3.0,3.0,Male,3.0
 alprazolam odt,25-34,Panic Disorder,fall,5.0,5.0,Male,5.0
-alprazolam odt,25-34,Repeated Episodes of Anxiety,None,3.0,3.0,Female,2.0
+alprazolam odt,25-34,Repeated Episodes of Anxiety,fall,3.0,3.0,Female,2.0
 alprazolam odt,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Female,5.0
 alprazolam odt,25-34,Anxious,summer,3.0,3.0,Male,3.0
 alprazolam odt,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Male,5.0
@@ -420,8 +420,8 @@ alprazolam odt,25-34,Chronic Trouble Sleeping,winter,3.0,3.0,Male,2.0
 alprazolam odt,25-34,Anxious,winter,5.0,5.0,Female,2.0
 alprazolam odt,25-34,Anxious,winter,4.0,3.0,Male,1.0
 alprazolam odt,25-34,Chronic Trouble Sleeping,fall,5.0,5.0,Female,5.0
-alprazolam odt,25-34,Anxiousness associated with Depression,None,5.0,5.0,Female,4.0
-alprazolam odt,25-34,Repeated Episodes of Anxiety,None,5.0,5.0,Male,5.0
+alprazolam odt,25-34,Anxiousness associated with Depression,fall,5.0,5.0,Female,4.0
+alprazolam odt,25-34,Repeated Episodes of Anxiety,fall,5.0,5.0,Male,5.0
 alprazolam odt,25-34,Repeated Episodes of Anxiety,summer,1.0,2.0,Male,3.0
 alprazolam odt,25-34,Panic Disorder,summer,5.0,5.0,Female,5.0
 alprazolam odt,25-34,Anxious,spring,2.0,2.0,Male,2.0
@@ -437,7 +437,7 @@ alyacen,13-18,Birth Control,fall,5.0,5.0,Female,5.0
 alyacen,19-24,Abnormally Long or Heavy Periods,winter,5.0,5.0,Female,5.0
 alyacen,25-34,Birth Control,fall,4.0,1.0,Female,1.0
 ambien,3-6,Chronic Trouble Sleeping,summer,1.0,1.0,Male,1.0
-ambien,19-24,Chronic Trouble Sleeping,None,4.0,1.0,Female,1.0
+ambien,19-24,Chronic Trouble Sleeping,fall,4.0,1.0,Female,1.0
 ambien,19-24,Chronic Trouble Sleeping,summer,5.0,4.0,Female,3.0
 ambien,19-24,Difficulty Falling Asleep,winter,1.0,1.0,Female,1.0
 ambien,19-24,Chronic Trouble Sleeping,winter,4.0,4.0,Female,4.0
@@ -449,7 +449,7 @@ ambien,25-34,Difficulty Falling Asleep,spring,5.0,5.0,Female,5.0
 ambien,25-34,Difficulty Falling Asleep,spring,5.0,4.0,Female,4.0
 ambien,25-34,Other,winter,4.0,4.0,Female,5.0
 ambien,25-34,Chronic Trouble Sleeping,fall,5.0,5.0,Female,5.0
-ambien,25-34,Chronic Trouble Sleeping,None,5.0,5.0,Male,5.0
+ambien,25-34,Chronic Trouble Sleeping,fall,5.0,5.0,Male,5.0
 ambien,25-34,Chronic Trouble Sleeping,winter,5.0,2.0,Female,2.0
 ambien,25-34,Chronic Trouble Sleeping,spring,5.0,4.0,Male,4.0
 ambien,25-34,Chronic Trouble Sleeping,winter,5.0,1.0,Female,3.0
@@ -465,7 +465,7 @@ ambien,25-34,Chronic Trouble Sleeping,summer,5.0,5.0,Male,5.0
 ambien,25-34,Chronic Trouble Sleeping,summer,5.0,4.0,Female,4.0
 ambien cr,0-2,Chronic Trouble Sleeping,winter,3.0,5.0,Male,4.0
 ambien cr,13-18,Other,winter,3.0,3.0,Male,4.0
-ambien cr,25-34,Chronic Trouble Sleeping,None,5.0,4.0,Female,4.0
+ambien cr,25-34,Chronic Trouble Sleeping,fall,5.0,4.0,Female,4.0
 amcinonide cream,7-12,Disease that Causes Disc-Shaped Patches On the Upper Body,summer,5.0,5.0,Female,5.0
 amethia,19-24,Birth Control,spring,4.0,3.0,Female,3.0
 amethia,19-24,Endometriosis,summer,5.0,2.0,Female,5.0
@@ -483,14 +483,14 @@ amitriptyline hcl,19-24,Migraine Prevention,fall,5.0,3.0,Female,4.0
 amitriptyline hcl,19-24,Migraine Prevention,winter,4.0,4.0,Female,3.0
 amitriptyline hcl,19-24,Disorder characterized by Stiff, Tender & Painful Muscles,winter,5.0,5.0,Female,5.0
 amitriptyline hcl,19-24,Neuropathic Pain,spring,5.0,4.0,Male,4.0
-amitriptyline hcl,19-24,Bedwetting,None,4.0,4.0,Male,4.0
+amitriptyline hcl,19-24,Bedwetting,fall,4.0,4.0,Male,4.0
 amitriptyline hcl,19-24,Depression,summer,4.0,4.0,Male,4.0
 amitriptyline hcl,19-24,Depression,spring,4.0,3.0,Female,3.0
 amitriptyline hcl,19-24,Neuropathic Pain,winter,4.0,1.0,Female,1.0
 amitriptyline hcl,19-24,Depression,fall,5.0,5.0,Female,5.0
 amitriptyline hcl,19-24,Neuropathic Pain,summer,5.0,1.0,Male,1.0
 amitriptyline hcl,19-24,Migraine Prevention,spring,5.0,4.0,Female,4.0
-amitriptyline hcl,19-24,Migraine Prevention,None,5.0,4.0,Female,4.0
+amitriptyline hcl,19-24,Migraine Prevention,fall,5.0,4.0,Female,4.0
 amitriptyline hcl,25-34,Neuropathic Pain,winter,3.0,3.0,Male,3.0
 amitriptyline hcl,25-34,Depression,summer,4.0,3.0,Female,5.0
 amitriptyline hcl,25-34,Other,spring,5.0,5.0,Female,5.0
@@ -560,13 +560,13 @@ ampicillin trihydrate,19-24,Throat Infection caused by Streptococcus Pneumoniae,
 ampicillin trihydrate,19-24,Bacterial Urinary Tract Infection,fall,2.0,2.0,Female,1.0
 ampicillin trihydrate,19-24,Bacterial Urinary Tract Infection,spring,5.0,5.0,Female,5.0
 amrix,25-34,Muscle Spasm,spring,5.0,5.0,Female,4.0
-amrix,25-34,Muscle Spasm,None,5.0,5.0,Female,5.0
+amrix,25-34,Muscle Spasm,fall,5.0,5.0,Female,5.0
 amrix,25-34,Muscle Spasm,fall,1.0,1.0,Female,1.0
 anadrol-50,25-34,Other,fall,5.0,5.0,Male,5.0
 anafranil,25-34,Depression,spring,5.0,5.0,Male,5.0
 anafranil,25-34,Depression,winter,4.0,4.0,Male,4.0
 anafranil,25-34,Obsessive Compulsive Disorder,winter,5.0,4.0,Male,4.0
-anakinra syringe,13-18,Rheumatoid Arthritis,None,4.0,5.0,Male,4.0
+anakinra syringe,13-18,Rheumatoid Arthritis,fall,4.0,5.0,Male,4.0
 androgel gel in packet,25-34,Pituitary Hormone Deficiency,summer,1.0,2.0,Male,3.0
 angeliq,25-34,Other,fall,5.0,2.0,Female,3.0
 annovera 0.15 mg-0.013 mg/24 hr vaginal ring contraceptives,25-34,Birth Control,winter,5.0,5.0,Female,5.0
@@ -574,8 +574,8 @@ annovera 0.15 mg-0.013 mg/24 hr vaginal ring contraceptives,25-34,Birth Control,
 antabuse,25-34,Habit of Drinking Too Much Alcohol,winter,1.0,1.0,Male,2.0
 anti-diarrhea,13-18,Diarrhea,winter,5.0,5.0,Male,5.0
 anti-itch (hydrocortisone) 1 % topical cream,13-18,Inflammation of Skin caused by an Allergy,spring,5.0,5.0,Female,5.0
-anti-itch maximum strength 2 % topical spray,19-24,Itching,None,4.0,4.0,Male,4.0
-antifungal (tolnaftate) 1 % topical powder,25-34,Athlete's Foot,None,5.0,4.0,Male,4.0
+anti-itch maximum strength 2 % topical spray,19-24,Itching,fall,4.0,4.0,Male,4.0
+antifungal (tolnaftate) 1 % topical powder,25-34,Athlete's Foot,fall,5.0,4.0,Male,4.0
 antifungal (tolnaftate) 1 % topical powder,25-34,Athlete's Foot,spring,4.0,1.0,Male,1.0
 antihistamine,19-24,Inflammation of the Nose due to an Allergy,spring,5.0,4.0,Male,4.0
 anucort-hc suppository, rectal,19-24,Hemorrhoids,spring,4.0,3.0,Female,4.0
@@ -589,11 +589,11 @@ arava,55-64,Rheumatoid Arthritis,summer,1.0,1.0,Female,1.0
 arginine hcl (l-arginine) parenteral solution,13-18,Other,fall,3.0,3.0,Male,3.0
 arimidex,55-64,Hormone Receptor Positive Postmenopausal Early Breast Cancer,winter,4.0,1.0,Female,4.0
 arimidex,75 or over,Hormone Receptor Positive Postmenopausal Early Breast Cancer,winter,5.0,5.0,Female,5.0
-aripiprazole,7-12,Other,None,3.0,1.0,Male,1.0
+aripiprazole,7-12,Other,fall,3.0,1.0,Male,1.0
 aripiprazole,19-24,Schizophrenia,fall,5.0,1.0,Male,3.0
-aripiprazole odt,7-12,Other,None,3.0,1.0,Male,1.0
+aripiprazole odt,7-12,Other,fall,3.0,1.0,Male,1.0
 aripiprazole odt,19-24,Schizophrenia,fall,5.0,1.0,Male,3.0
-aripiprazole tablet with sensor and patch,7-12,Other,None,3.0,1.0,Male,1.0
+aripiprazole tablet with sensor and patch,7-12,Other,fall,3.0,1.0,Male,1.0
 aripiprazole tablet with sensor and patch,19-24,Schizophrenia,fall,5.0,1.0,Male,3.0
 arixtra syringe,13-18,Acute Blood Clot in a Blood Vessel Supplying the Lungs,summer,5.0,1.0,Male,4.0
 arixtra syringe,19-24,Deep Vein Thrombosis Prevention,spring,3.0,3.0,Female,4.0
@@ -626,8 +626,8 @@ atenolol,13-18,High Blood Pressure,fall,5.0,5.0,Female,5.0
 atenolol,13-18,High Blood Pressure,fall,5.0,4.0,Female,5.0
 atenolol,19-24,Other,fall,2.0,5.0,Female,3.0
 atenolol,19-24,Rapid Ventricular Heartbeat,fall,5.0,5.0,Female,5.0
-atenolol,19-24,High Blood Pressure,None,5.0,5.0,Female,5.0
-atenolol,19-24,Rapid Ventricular Heartbeat,None,5.0,5.0,Female,5.0
+atenolol,19-24,High Blood Pressure,fall,5.0,5.0,Female,5.0
+atenolol,19-24,Rapid Ventricular Heartbeat,fall,5.0,5.0,Female,5.0
 atenolol,19-24,Mitral Valve Prolapse Syndrome,fall,5.0,5.0,Female,5.0
 atenolol,19-24,Mitral Valve Prolapse Syndrome,fall,5.0,5.0,Female,5.0
 atenolol,25-34,Overactive Thyroid causing Life-Threatening Symptoms,fall,2.0,2.0,Female,3.0
@@ -669,14 +669,14 @@ ativan,25-34,Anxious,summer,4.0,3.0,Female,3.0
 ativan,25-34,Anxious,summer,4.0,5.0,Male,5.0
 ativan,25-34,Anxious,summer,5.0,3.0,Female,5.0
 ativan,25-34,Anxious,spring,5.0,4.0,Female,4.0
-ativan,25-34,Anxious,None,4.0,3.0,Female,3.0
+ativan,25-34,Anxious,fall,4.0,3.0,Female,3.0
 ativan,25-34,Anxious,spring,5.0,5.0,Female,5.0
 ativan,25-34,Anxious,fall,5.0,5.0,Male,4.0
 ativan,25-34,Anxious,fall,5.0,4.0,Female,4.0
 ativan,25-34,Anxious,fall,5.0,5.0,Female,5.0
 atomoxetine capsule,7-12,Other,spring,2.0,2.0,Male,2.0
 atomoxetine capsule,19-24,Attention Deficit Disorder with Hyperactivity,winter,5.0,5.0,Female,5.0
-atomoxetine capsule,25-34,Attention Deficit Disorder with Hyperactivity,None,5.0,5.0,Female,5.0
+atomoxetine capsule,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,5.0
 atomoxetine capsule,25-34,Attention Deficit Disorder with Hyperactivity,winter,4.0,3.0,Male,4.0
 atopiclair cream,25-34,Dry Skin,winter,4.0,2.0,Female,2.0
 atripla,19-24,HIV,spring,4.0,4.0,Male,5.0
@@ -684,14 +684,14 @@ atripla,25-34,HIV,fall,5.0,5.0,Male,5.0
 atripla,25-34,HIV,winter,5.0,5.0,Male,5.0
 atripla,25-34,HIV,winter,5.0,5.0,Male,5.0
 aubra,25-34,Birth Control,summer,5.0,2.0,Female,3.0
-augmentin,19-24,Urinary Tract Infection due to E. Coli Bacteria,None,5.0,5.0,Female,5.0
+augmentin,19-24,Urinary Tract Infection due to E. Coli Bacteria,fall,5.0,5.0,Female,5.0
 augmentin,25-34,Pneumonia caused by Bacteria,spring,4.0,5.0,Female,5.0
 augmentin,25-34,Acute Bacterial Infection of the Sinuses,fall,2.0,2.0,Male,3.0
-augmentin tablet,19-24,Urinary Tract Infection due to E. Coli Bacteria,None,5.0,5.0,Female,5.0
+augmentin tablet,19-24,Urinary Tract Infection due to E. Coli Bacteria,fall,5.0,5.0,Female,5.0
 augmentin tablet,25-34,Pneumonia caused by Bacteria,spring,4.0,5.0,Female,5.0
 augmentin tablet,25-34,Acute Bacterial Infection of the Sinuses,fall,2.0,2.0,Male,3.0
 augmentin xr,19-24,Severe Sinusitis caused by Haemophilus Influenzae,summer,4.0,4.0,Male,3.0
-auryxia,25-34,Renal Osteodystrophy with Hyperphosphatemia,None,5.0,5.0,Male,5.0
+auryxia,25-34,Renal Osteodystrophy with Hyperphosphatemia,fall,5.0,5.0,Male,5.0
 avalide,25-34,High Blood Pressure,winter,5.0,5.0,Female,4.0
 avastin vial,7-12,Age-Related Wet Macular Degeneration,summer,2.0,3.0,Male,3.0
 avelox,25-34,Pneumonia caused by Bacteria,winter,2.0,3.0,Female,2.0
@@ -784,7 +784,7 @@ back pain-off,19-24,Pain,spring,1.0,1.0,Male,1.0
 baclofen,25-34,Other,spring,5.0,4.0,Male,4.0
 baclofen,45-54,Other,winter,4.0,2.0,Female,2.0
 baclofen,19-24,Other,winter,5.0,5.0,Female,5.0
-baclofen,25-34,Other,None,4.0,4.0,Female,4.0
+baclofen,25-34,Other,fall,4.0,4.0,Female,4.0
 baclofen,25-34,Other,winter,5.0,3.0,Female,3.0
 baclofen,25-34,Other,winter,3.0,3.0,Female,4.0
 baclofen,25-34,Muscle Spasms caused by a Spinal Disease,summer,5.0,5.0,Female,5.0
@@ -794,7 +794,7 @@ bactrim,25-34,Infection of Urinary Tract due to Enterobacter Cloacae,summer,5.0,
 bactrim,25-34,Infection due to Chlamydiae Species Bacteria,winter,4.0,1.0,Female,1.0
 bactrim,25-34,Middle Ear Infection,winter,4.0,3.0,Female,3.0
 bactrim ds,19-24,Bacterial Urinary Tract Infection,winter,5.0,4.0,Female,4.0
-bactrim ds,25-34,Prevention of Toxoplasmosis,None,4.0,3.0,Female,2.0
+bactrim ds,25-34,Prevention of Toxoplasmosis,fall,4.0,3.0,Female,2.0
 bactrim ds,25-34,Skin Infection,fall,5.0,5.0,Female,5.0
 bactroban cream,7-12,Other,spring,4.0,5.0,Male,5.0
 bactroban cream,25-34,Infection of the Skin caused by Staphylococcus Aureus,fall,5.0,5.0,Female,5.0
@@ -817,7 +817,7 @@ benicar,25-34,High Blood Pressure,fall,5.0,5.0,Female,5.0
 benicar hct,25-34,High Blood Pressure,winter,5.0,4.0,Female,4.0
 benicar hct,25-34,High Blood Pressure,winter,4.0,5.0,Female,5.0
 bentyl,19-24,Irritable Colon,fall,2.0,1.0,Female,2.0
-bentyl,25-34,Irritable Colon,None,5.0,4.0,Female,4.0
+bentyl,25-34,Irritable Colon,fall,5.0,4.0,Female,4.0
 bentyl,25-34,Irritable Colon,spring,5.0,5.0,Female,5.0
 bentyl,25-34,Other,summer,5.0,1.0,Female,1.0
 bentyl,25-34,Irritable Colon,summer,5.0,3.0,Female,2.0
@@ -831,7 +831,7 @@ benzonatate,25-34,Cough,spring,5.0,4.0,Female,4.0
 benzonatate,25-34,Cough,winter,5.0,1.0,Female,1.0
 benzonatate,25-34,Cough,summer,2.0,2.0,Female,2.0
 benzonatate,25-34,Other,winter,3.0,4.0,Male,3.0
-benzonatate,25-34,Cough,None,5.0,3.0,Female,3.0
+benzonatate,25-34,Cough,fall,5.0,3.0,Female,3.0
 benzonatate,25-34,Cough,winter,5.0,1.0,Female,1.0
 benzonatate,25-34,Cough,winter,5.0,4.0,Female,4.0
 benzonatate,25-34,Cough,winter,5.0,5.0,Female,5.0
@@ -846,7 +846,7 @@ berinert kit,25-34,Inherited Disorder of Continuing Episodes of Swelling,winter,
 betaine hcl,19-24,Other,spring,5.0,1.0,Male,1.0
 betaseron vial,25-34,Multiple Sclerosis,spring,2.0,3.0,Female,4.0
 betaseron vial,25-34,Multiple Sclerosis,fall,4.0,4.0,Female,4.0
-betaseron vial,25-34,Multiple Sclerosis,None,3.0,2.0,Female,3.0
+betaseron vial,25-34,Multiple Sclerosis,fall,3.0,2.0,Female,3.0
 beyaz,19-24,Acne,summer,5.0,5.0,Female,5.0
 bisacodyl,19-24,Incomplete or Infrequent Bowel Movements,spring,5.0,5.0,Female,4.0
 boric acid (bulk) powder,19-24,Other,winter,3.0,4.0,Female,4.0
@@ -855,7 +855,7 @@ brevicon,25-34,Birth Control,spring,3.0,2.0,Female,4.0
 bromfed dm,13-18,Cold Symptoms,winter,4.0,4.0,Female,5.0
 bromi-lotion lotion,25-34,Excessive Sweating,summer,5.0,5.0,Female,5.0
 brotapp dm,0-2,Cold Symptoms,spring,4.0,3.0,Female,2.0
-bupap,25-34,Tension Headache,None,5.0,5.0,Female,5.0
+bupap,25-34,Tension Headache,fall,5.0,5.0,Female,5.0
 bupap,25-34,Tension Headache,winter,5.0,4.0,Female,4.0
 bupap,25-34,Tension Headache,winter,5.0,5.0,Female,5.0
 buprenorphine 2.1 mg-naloxone 0.3 mg buccal film,25-34,Symptoms from Stopping Treatment with Opioid Drugs,spring,5.0,4.0,Male,5.0
@@ -870,14 +870,14 @@ buprenorphine-naloxone tablet, sublingual,25-34,Other,winter,4.0,4.0,Female,5.0
 buprenorphine-naloxone tablet, sublingual,25-34,Narcotic Addiction,summer,5.0,5.0,Female,5.0
 bupropion (bulk) 100 % powder,13-18,Other,spring,1.0,1.0,Female,2.0
 bupropion hcl,19-24,Depression,summer,4.0,4.0,Female,4.0
-bupropion hcl,25-34,Depression,None,5.0,3.0,Female,3.0
+bupropion hcl,25-34,Depression,fall,5.0,3.0,Female,3.0
 bupropion hcl sr tablet, extended release,19-24,Depression,summer,4.0,4.0,Female,4.0
-bupropion hcl sr tablet, extended release,25-34,Depression,None,5.0,3.0,Female,3.0
+bupropion hcl sr tablet, extended release,25-34,Depression,fall,5.0,3.0,Female,3.0
 bupropion xl,19-24,Depression,summer,4.0,4.0,Female,4.0
-bupropion xl,25-34,Depression,None,5.0,3.0,Female,3.0
+bupropion xl,25-34,Depression,fall,5.0,3.0,Female,3.0
 butalb-caff-acetaminoph-codein,25-34,Tension Headache,winter,5.0,5.0,Female,4.0
-butalbital-acetaminophen-caffe,19-24,Migraine Headache,None,5.0,5.0,Female,4.0
-butalbital-acetaminophen-caffe,25-34,Migraine Headache,None,5.0,5.0,Female,5.0
+butalbital-acetaminophen-caffe,19-24,Migraine Headache,fall,5.0,5.0,Female,4.0
+butalbital-acetaminophen-caffe,25-34,Migraine Headache,fall,5.0,5.0,Female,5.0
 butalbital-acetaminophen-caffe,25-34,Migraine Headache,fall,2.0,2.0,Female,2.0
 butalbital-acetaminophen-caffe,25-34,Migraine Headache,fall,2.0,2.0,Female,2.0
 butalbital-acetaminophen-caffe,25-34,Migraine Headache,summer,5.0,4.0,Female,4.0
@@ -887,10 +887,10 @@ butalbital-acetaminophen-caffe,25-34,Migraine Headache,winter,4.0,4.0,Female,4.0
 butalbital-aspirin-caffeine,25-34,Migraine Headache,winter,5.0,5.0,Female,5.0
 butalbital-aspirin-caffeine,25-34,Migraine Headache,summer,5.0,5.0,Female,5.0
 butorphanol tartrate spray, non-aerosol,25-34,Migraine Headache,spring,5.0,4.0,Male,4.0
-butorphanol tartrate vial,25-34,Pain,None,4.0,5.0,Female,5.0
+butorphanol tartrate vial,25-34,Pain,fall,4.0,5.0,Female,5.0
 butrans patch, transdermal weekly,25-34,Chronic Pain,winter,5.0,4.0,Female,5.0
 bystolic,25-34,High Blood Pressure,fall,5.0,5.0,Female,5.0
-bystolic,25-34,High Blood Pressure,None,4.0,4.0,Female,4.0
+bystolic,25-34,High Blood Pressure,fall,4.0,4.0,Female,4.0
 cabergoline,19-24,Increased Levels of Prolactin in the Blood,spring,4.0,3.0,Female,4.0
 caltrate 600 + d,13-18,Other,fall,4.0,3.0,Male,4.0
 carbatrol,19-24,Tonic-Clonic Epilepsy,winter,5.0,5.0,Male,5.0
@@ -902,11 +902,11 @@ cefprozil,13-18,Skin Infection,summer,5.0,3.0,Female,3.0
 cefprozil suspension, reconstituted,13-18,Skin Infection,summer,5.0,3.0,Female,3.0
 cefuroxime,19-24,Bacterial Urinary Tract Infection,fall,1.0,1.0,Female,1.0
 celexa,13-18,Depression,winter,5.0,2.0,Female,3.0
-celexa,13-18,Depression,None,5.0,4.0,Female,3.0
+celexa,13-18,Depression,fall,5.0,4.0,Female,3.0
 celexa,13-18,Depression,spring,5.0,4.0,Female,4.0
 celexa,13-18,Depression,spring,4.0,4.0,Female,3.0
 celexa,13-18,Panic Disorder,spring,4.0,2.0,Female,3.0
-celexa,19-24,Repeated Episodes of Anxiety,None,5.0,5.0,Female,5.0
+celexa,19-24,Repeated Episodes of Anxiety,fall,5.0,5.0,Female,5.0
 celexa,19-24,Depression,fall,5.0,4.0,Female,3.0
 celexa,19-24,Depression,winter,5.0,3.0,Male,3.0
 celexa,19-24,Depression,spring,5.0,5.0,Female,5.0
@@ -920,7 +920,7 @@ celexa,19-24,Depression,spring,5.0,4.0,Female,4.0
 celexa,19-24,Bipolar Depression,winter,5.0,4.0,Male,3.0
 celexa,19-24,Depression,fall,2.0,1.0,Female,3.0
 celexa,19-24,Depression,fall,5.0,4.0,Female,3.0
-celexa,19-24,Bipolar Depression,None,5.0,2.0,Female,3.0
+celexa,19-24,Bipolar Depression,fall,5.0,2.0,Female,3.0
 celexa,19-24,Depression,summer,4.0,3.0,Female,3.0
 celexa,19-24,Depression,summer,4.0,2.0,Female,3.0
 cellcept,13-18,Diffuse Proliferative Lupus Nephritis-A Kidney Disease,fall,4.0,4.0,Female,4.0
@@ -939,13 +939,13 @@ children's claritin,3-6,Inflammation of the Nose due to an Allergy,spring,5.0,5.
 chloramphenicol sod succinate vial,19-24,Typhoid Fever,fall,5.0,5.0,Female,5.0
 chlorhexidine gluconate mouthwash,13-18,Inflammation of the Gums,spring,5.0,5.0,Male,5.0
 cialis,25-34,Inability to have an Erection,fall,3.0,5.0,Female,4.0
-cipro,19-24,Typhoid Fever,None,2.0,2.0,Male,3.0
+cipro,19-24,Typhoid Fever,fall,2.0,2.0,Male,3.0
 cipro,19-24,Chronic Bronchitis caused by Moraxella Catarrhalis,winter,4.0,5.0,Female,5.0
 cipro,19-24,Complicated Peritonitis caused by Bacteroides Bacteria,spring,5.0,4.0,Female,4.0
 cipro,25-34,Infection of the Urinary Tract caused by Proteus Bacteria,winter,5.0,1.0,Female,1.0
 cipro,25-34,Bacterial Infection of Kidney due to E. Coli Organism,fall,3.0,3.0,Female,3.0
 cipro,25-34,Other,fall,3.0,2.0,Male,2.0
-cipro suspension, microcapsule reconstituted,19-24,Typhoid Fever,None,2.0,2.0,Male,3.0
+cipro suspension, microcapsule reconstituted,19-24,Typhoid Fever,fall,2.0,2.0,Male,3.0
 cipro suspension, microcapsule reconstituted,19-24,Chronic Bronchitis caused by Moraxella Catarrhalis,winter,4.0,5.0,Female,5.0
 cipro suspension, microcapsule reconstituted,19-24,Complicated Peritonitis caused by Bacteroides Bacteria,spring,5.0,4.0,Female,4.0
 cipro suspension, microcapsule reconstituted,25-34,Infection of the Urinary Tract caused by Proteus Bacteria,winter,5.0,1.0,Female,1.0
@@ -964,10 +964,10 @@ ciprofloxacin,25-34,Other,fall,1.0,1.0,Female,1.0
 ciprofloxacin,25-34,Pneumonia caused by Bacteria,fall,3.0,2.0,Female,2.0
 ciprofloxacin,25-34,Acute Maxillary Sinus H. Influenzae Bacteria Infection,winter,1.0,2.0,Female,2.0
 ciprofloxacin er,13-18,Urinary Tract Infection caused by Klebsiella Bacteria,winter,5.0,4.0,Female,3.0
-ciprofloxacin er,19-24,Bacterial Urinary Tract Infection,None,5.0,5.0,Female,5.0
+ciprofloxacin er,19-24,Bacterial Urinary Tract Infection,fall,5.0,5.0,Female,5.0
 ciprofloxacin hcl,19-24,Diverticulitis,fall,5.0,5.0,Female,5.0
 ciprofloxacin vial,19-24,Urinary Tract Infection due to E. Coli Bacteria,spring,4.0,4.0,Female,5.0
-citalopram hbr,13-18,Major Depressive Disorder,None,5.0,2.0,Female,2.0
+citalopram hbr,13-18,Major Depressive Disorder,fall,5.0,2.0,Female,2.0
 citalopram hbr,13-18,Depression,fall,5.0,5.0,Male,5.0
 citalopram hbr,13-18,Repeated Episodes of Anxiety,summer,5.0,4.0,Female,3.0
 citalopram hbr,13-18,Other,winter,3.0,1.0,Female,2.0
@@ -1036,7 +1036,7 @@ clindamycin hcl,13-18,Acne,spring,5.0,5.0,Female,4.0
 clindamycin hcl,19-24,Pelvic Inflammatory Disease,summer,3.0,1.0,Female,1.0
 clindamycin hcl,19-24,Other,winter,2.0,1.0,Female,2.0
 clindamycin hcl,19-24,Other,summer,3.0,5.0,Female,5.0
-clindamycin hcl,25-34,Other,None,5.0,5.0,Female,5.0
+clindamycin hcl,25-34,Other,fall,5.0,5.0,Female,5.0
 clindamycin hcl,25-34,Other,summer,1.0,1.0,Female,1.0
 clindamycin hcl,25-34,Acute Sinus Infection caused by Staphylococcus Bacteria,winter,5.0,5.0,Female,5.0
 clindamycin phosphate gel,13-18,Acne,winter,5.0,5.0,Male,5.0
@@ -1067,7 +1067,7 @@ clobetasol propionate spray, non-aerosol,25-34,Other,fall,1.0,1.0,Female,1.0
 clobex lotion,25-34,Plaque Psoriasis,winter,5.0,5.0,Male,5.0
 clobex shampoo,25-34,Plaque Psoriasis,winter,5.0,5.0,Male,5.0
 clobex spray, non-aerosol,25-34,Plaque Psoriasis,winter,5.0,5.0,Male,5.0
-clomiphene citrate,19-24,An Insufficiency in Ovulation,None,5.0,1.0,Female,1.0
+clomiphene citrate,19-24,An Insufficiency in Ovulation,fall,5.0,1.0,Female,1.0
 clomiphene citrate,25-34,Low Sperm Count,winter,5.0,5.0,Male,5.0
 clomiphene citrate,25-34,Male Infertility,fall,5.0,5.0,Male,5.0
 clomipramine hcl,25-34,Panic Disorder,summer,5.0,5.0,Male,5.0
@@ -1083,11 +1083,11 @@ clonazepam,19-24,Panic Disorder,summer,5.0,4.0,Female,5.0
 clonazepam,19-24,Panic Disorder,spring,5.0,5.0,Female,4.0
 clonazepam,19-24,Panic Disorder,winter,3.0,3.0,Male,3.0
 clonazepam,19-24,Panic Disorder,summer,5.0,4.0,Female,3.0
-clonazepam,19-24,Panic Disorder,None,5.0,5.0,Female,5.0
+clonazepam,19-24,Panic Disorder,fall,5.0,5.0,Female,5.0
 clonazepam,19-24,Panic Disorder,winter,5.0,5.0,Male,5.0
 clonazepam,19-24,Panic Disorder,summer,5.0,5.0,Female,5.0
 clonazepam,19-24,Panic Disorder,fall,5.0,5.0,Male,4.0
-clonazepam,19-24,Mania associated with Bipolar Disorder, Adjunct Treatment,None,5.0,3.0,Male,4.0
+clonazepam,19-24,Mania associated with Bipolar Disorder, Adjunct Treatment,fall,5.0,3.0,Male,4.0
 clonazepam,25-34,Epileptic Seizure,summer,5.0,5.0,Female,4.0
 clonazepam,25-34,Other,summer,5.0,5.0,Female,5.0
 clonazepam,25-34,Other,summer,5.0,4.0,Female,4.0
@@ -1098,7 +1098,7 @@ clonazepam,25-34,Panic Disorder,spring,5.0,5.0,Male,5.0
 clonazepam,25-34,Other,fall,5.0,5.0,Female,5.0
 clonazepam,25-34,Seizures with Irregular Muscle Contractions,winter,5.0,5.0,Male,5.0
 clonazepam,25-34,Panic Disorder,winter,4.0,5.0,Female,4.0
-clonazepam,25-34,Panic Disorder,None,3.0,5.0,Female,3.0
+clonazepam,25-34,Panic Disorder,fall,3.0,5.0,Female,3.0
 clonazepam,25-34,Mania associated with Bipolar Disorder, Adjunct Treatment,summer,5.0,5.0,Female,5.0
 clonazepam,25-34,Panic Disorder,winter,5.0,5.0,Female,5.0
 clonazepam,25-34,A Feeling of Restlessness with Inability to Sit Still,fall,4.0,4.0,Male,4.0
@@ -1117,7 +1117,7 @@ clonazepam,25-34,Mania associated with Bipolar Disorder, Adjunct Treatment,sprin
 clonazepam,25-34,Panic Disorder,spring,4.0,4.0,Female,4.0
 clonazepam,25-34,Mania associated with Bipolar Disorder, Adjunct Treatment,fall,4.0,4.0,Male,4.0
 clonazepam,25-34,Other,fall,5.0,1.0,Female,2.0
-clonazepam,25-34,Seizures with Irregular Muscle Contractions,None,5.0,5.0,Female,5.0
+clonazepam,25-34,Seizures with Irregular Muscle Contractions,fall,5.0,5.0,Female,5.0
 clonazepam,25-34,Panic Disorder,winter,5.0,4.0,Male,4.0
 clonazepam,25-34,Mania associated with Bipolar Disorder, Adjunct Treatment,winter,5.0,4.0,Female,4.0
 clonazepam,25-34,Other,winter,5.0,4.0,Male,5.0
@@ -1132,9 +1132,9 @@ clonazepam tablet,disintegrating,13-18,Other,winter,2.0,2.0,Male,2.0
 clonazepam tablet,disintegrating,13-18,Panic Disorder,winter,1.0,2.0,Male,2.0
 clonazepam tablet,disintegrating,13-18,Other,spring,4.0,4.0,Female,4.0
 clonazepam tablet,disintegrating,19-24,Panic Disorder,fall,5.0,5.0,Male,4.0
-clonazepam tablet,disintegrating,19-24,Mania associated with Bipolar Disorder, Adjunct Treatment,None,5.0,3.0,Male,4.0
+clonazepam tablet,disintegrating,19-24,Mania associated with Bipolar Disorder, Adjunct Treatment,fall,5.0,3.0,Male,4.0
 clonazepam tablet,disintegrating,19-24,Panic Disorder,summer,5.0,4.0,Female,3.0
-clonazepam tablet,disintegrating,19-24,Panic Disorder,None,5.0,5.0,Female,5.0
+clonazepam tablet,disintegrating,19-24,Panic Disorder,fall,5.0,5.0,Female,5.0
 clonazepam tablet,disintegrating,19-24,Panic Disorder,winter,5.0,5.0,Male,5.0
 clonazepam tablet,disintegrating,19-24,Panic Disorder,summer,5.0,5.0,Female,5.0
 clonazepam tablet,disintegrating,19-24,Panic Disorder,summer,5.0,4.0,Female,5.0
@@ -1147,7 +1147,7 @@ clonazepam tablet,disintegrating,25-34,Panic Disorder,spring,5.0,5.0,Male,5.0
 clonazepam tablet,disintegrating,25-34,Other,fall,5.0,5.0,Female,5.0
 clonazepam tablet,disintegrating,25-34,Seizures with Irregular Muscle Contractions,winter,5.0,5.0,Male,5.0
 clonazepam tablet,disintegrating,25-34,Panic Disorder,winter,4.0,5.0,Female,4.0
-clonazepam tablet,disintegrating,25-34,Panic Disorder,None,3.0,5.0,Female,3.0
+clonazepam tablet,disintegrating,25-34,Panic Disorder,fall,3.0,5.0,Female,3.0
 clonazepam tablet,disintegrating,25-34,Mania associated with Bipolar Disorder, Adjunct Treatment,summer,5.0,5.0,Female,5.0
 clonazepam tablet,disintegrating,25-34,Panic Disorder,winter,5.0,5.0,Female,5.0
 clonazepam tablet,disintegrating,25-34,A Feeling of Restlessness with Inability to Sit Still,fall,4.0,4.0,Male,4.0
@@ -1166,7 +1166,7 @@ clonazepam tablet,disintegrating,25-34,Mania associated with Bipolar Disorder, A
 clonazepam tablet,disintegrating,25-34,Panic Disorder,spring,4.0,4.0,Female,4.0
 clonazepam tablet,disintegrating,25-34,Mania associated with Bipolar Disorder, Adjunct Treatment,fall,4.0,4.0,Male,4.0
 clonazepam tablet,disintegrating,25-34,Other,fall,5.0,1.0,Female,2.0
-clonazepam tablet,disintegrating,25-34,Seizures with Irregular Muscle Contractions,None,5.0,5.0,Female,5.0
+clonazepam tablet,disintegrating,25-34,Seizures with Irregular Muscle Contractions,fall,5.0,5.0,Female,5.0
 clonazepam tablet,disintegrating,25-34,Other,summer,5.0,5.0,Female,5.0
 clonazepam tablet,disintegrating,25-34,Other,summer,5.0,4.0,Female,4.0
 clonazepam tablet,disintegrating,25-34,Other,winter,5.0,5.0,Female,5.0
@@ -1182,27 +1182,27 @@ clonidine hcl,3-6,Attention Deficit Disorder with Hyperactivity,spring,5.0,5.0,F
 clonidine hcl,7-12,Attention Deficit Disorder with Hyperactivity,summer,3.0,1.0,Female,2.0
 clonidine hcl,13-18,Attention Deficit Disorder with Hyperactivity,fall,4.0,3.0,Male,3.0
 clonidine hcl,13-18,High Blood Pressure,winter,5.0,5.0,Male,4.0
-clonidine hcl,19-24,High Blood Pressure,None,5.0,4.0,Male,4.0
+clonidine hcl,19-24,High Blood Pressure,fall,5.0,4.0,Male,4.0
 clonidine hcl,19-24,Attention Deficit Disorder with Hyperactivity,winter,1.0,1.0,Female,1.0
 clonidine hcl,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,2.0,Female,2.0
 clonidine hcl,25-34,High Blood Pressure,summer,4.0,5.0,Female,5.0
 clonidine hcl,25-34,Attention Deficit Disorder with Hyperactivity,winter,3.0,2.0,Female,3.0
-clonidine hcl,25-34,Symptoms from Stopping Treatment with Opioid Drugs,None,5.0,3.0,Male,2.0
+clonidine hcl,25-34,Symptoms from Stopping Treatment with Opioid Drugs,fall,5.0,3.0,Male,2.0
 clonidine hcl,25-34,High Blood Pressure,fall,4.0,3.0,Female,3.0
 clonidine hcl er,65-74,High Blood Pressure,spring,4.0,2.0,Female,4.0
 clonidine hcl er,3-6,Attention Deficit Disorder with Hyperactivity,spring,5.0,5.0,Female,5.0
 clonidine hcl er,7-12,Attention Deficit Disorder with Hyperactivity,summer,3.0,1.0,Female,2.0
 clonidine hcl er,13-18,Attention Deficit Disorder with Hyperactivity,fall,4.0,3.0,Male,3.0
 clonidine hcl er,13-18,High Blood Pressure,winter,5.0,5.0,Male,4.0
-clonidine hcl er,19-24,High Blood Pressure,None,5.0,4.0,Male,4.0
+clonidine hcl er,19-24,High Blood Pressure,fall,5.0,4.0,Male,4.0
 clonidine hcl er,19-24,Attention Deficit Disorder with Hyperactivity,winter,1.0,1.0,Female,1.0
 clonidine hcl er,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,2.0,Female,2.0
 clonidine hcl er,25-34,High Blood Pressure,summer,4.0,5.0,Female,5.0
 clonidine hcl er,25-34,Attention Deficit Disorder with Hyperactivity,winter,3.0,2.0,Female,3.0
-clonidine hcl er,25-34,Symptoms from Stopping Treatment with Opioid Drugs,None,5.0,3.0,Male,2.0
+clonidine hcl er,25-34,Symptoms from Stopping Treatment with Opioid Drugs,fall,5.0,3.0,Male,2.0
 clonidine hcl er,25-34,High Blood Pressure,fall,4.0,3.0,Female,3.0
 clorazepate dipotassium,25-34,Anxious,fall,4.0,5.0,Female,5.0
-clotrimazole troche,19-24,Thrush,None,1.0,1.0,Female,1.0
+clotrimazole troche,19-24,Thrush,fall,1.0,1.0,Female,1.0
 clotrimazole-betamethasone lotion,19-24,Other,winter,5.0,5.0,Female,5.0
 clozapine odt,25-34,Other,spring,4.0,4.0,Female,4.0
 codeine sulfate,13-18,Pain,summer,5.0,4.0,Female,2.0
@@ -1225,7 +1225,7 @@ concept dha,25-34,Other,summer,5.0,5.0,Female,5.0
 concept dha,25-34,Pregnancy,summer,5.0,5.0,Female,5.0
 concept dha,25-34,Pregnancy,summer,5.0,5.0,Female,5.0
 concept dha,25-34,Pregnancy,summer,5.0,5.0,Female,5.0
-concept ob,25-34,Pregnancy,None,5.0,5.0,Female,5.0
+concept ob,25-34,Pregnancy,fall,5.0,5.0,Female,5.0
 concept ob,25-34,Pregnancy,summer,5.0,5.0,Female,5.0
 concept ob,25-34,Pregnancy,summer,5.0,5.0,Female,5.0
 concept ob,25-34,Pregnancy,summer,5.0,5.0,Female,5.0
@@ -1286,16 +1286,16 @@ concerta,25-34,Attention Deficit Disorder with Hyperactivity,spring,5.0,3.0,Fema
 concerta,25-34,Other,summer,5.0,4.0,Female,4.0
 concerta,25-34,Other,fall,4.0,3.0,Female,4.0
 concerta,25-34,Attention Deficit Disorder with Hyperactivity,winter,5.0,1.0,Female,1.0
-concerta,25-34,Attention Deficit Disorder with Hyperactivity,None,4.0,4.0,Female,4.0
-concerta,25-34,Attention Deficit Disorder with Hyperactivity,None,5.0,5.0,Male,5.0
+concerta,25-34,Attention Deficit Disorder with Hyperactivity,fall,4.0,4.0,Female,4.0
+concerta,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Male,5.0
 copaxone syringe,25-34,Multiple Sclerosis Symptoms Return then Become Less Severe,spring,4.0,4.0,Female,3.0
 copaxone syringe,25-34,Multiple Sclerosis Symptoms Return then Become Less Severe,winter,3.0,3.0,Female,3.0
 copaxone syringe,25-34,Multiple Sclerosis Symptoms Return then Become Less Severe,summer,5.0,5.0,Male,5.0
 copaxone syringe,25-34,Multiple Sclerosis Symptoms Return then Become Less Severe,summer,5.0,5.0,Female,5.0
-copaxone syringe,25-34,Multiple Sclerosis Symptoms Return then Become Less Severe,None,3.0,4.0,Male,4.0
+copaxone syringe,25-34,Multiple Sclerosis Symptoms Return then Become Less Severe,fall,3.0,4.0,Male,4.0
 copaxone syringe,25-34,Multiple Sclerosis Symptoms Return then Become Less Severe,summer,5.0,5.0,Male,2.0
 copaxone syringe,25-34,Multiple Sclerosis Symptoms Return then Become Less Severe,winter,5.0,1.0,Female,3.0
-copaxone syringe,25-34,Multiple Sclerosis Symptoms Return then Become Less Severe,None,3.0,2.0,Female,2.0
+copaxone syringe,25-34,Multiple Sclerosis Symptoms Return then Become Less Severe,fall,3.0,2.0,Female,2.0
 cordran ointment,25-34,Reddish Nodules Arranged in a Circle On the Skin,fall,5.0,3.0,Female,3.0
 coricidin hbp 2 mg-15 mg-500 mg tablet,25-34,Flu-Like Symptoms,fall,5.0,5.0,Female,5.0
 coricidin hbp cough and cold 4 mg-30 mg tablet,19-24,Runny Nose,spring,5.0,5.0,Male,5.0
@@ -1307,18 +1307,18 @@ coumadin,19-24,Blood Clot,fall,4.0,5.0,Male,5.0
 coumadin,25-34,Blood Clot in a Deep Vein,fall,4.0,2.0,Female,1.0
 coumadin,25-34,Abnormal Increase in Ability of Blood to Clot,spring,2.0,2.0,Female,2.0
 coumadin,25-34,Blood Clot,summer,4.0,4.0,Female,4.0
-coumadin,25-34,Blood Clot in Lung,None,5.0,5.0,Female,5.0
+coumadin,25-34,Blood Clot in Lung,fall,5.0,5.0,Female,5.0
 crestor,65-74,Combined High Blood Cholesterol and Triglyceride Level,winter,4.0,1.0,Male,3.0
 crestor,75 or over,Combined High Blood Cholesterol and Triglyceride Level,fall,5.0,4.0,Male,5.0
 cryselle,19-24,Birth Control,spring,4.0,1.0,Female,1.0
 cryselle,25-34,Birth Control,summer,3.0,1.0,Female,5.0
 cryselle,25-34,Birth Control,spring,3.0,4.0,Female,5.0
 cryselle,25-34,Birth Control,winter,4.0,4.0,Female,4.0
-cyclafem,19-24,Birth Control,None,4.0,4.0,Female,5.0
+cyclafem,19-24,Birth Control,fall,4.0,4.0,Female,5.0
 cyclobenzaprine hcl er,13-18,Muscle Spasm,spring,2.0,1.0,Male,1.0
 cyclobenzaprine hcl er,19-24,Disorder characterized by Stiff, Tender & Painful Muscles,spring,5.0,3.0,Female,3.0
 cyclobenzaprine hcl er,19-24,Muscle Spasm,fall,3.0,3.0,Male,3.0
-cyclobenzaprine hcl er,19-24,Muscle Spasm,None,4.0,3.0,Male,3.0
+cyclobenzaprine hcl er,19-24,Muscle Spasm,fall,4.0,3.0,Male,3.0
 cyclobenzaprine hcl er,19-24,Other,spring,3.0,1.0,Female,2.0
 cyclobenzaprine hcl er,19-24,Disorder characterized by Stiff, Tender & Painful Muscles,fall,5.0,5.0,Male,5.0
 cyclobenzaprine hcl er,25-34,Muscle Spasm,fall,4.0,4.0,Male,4.0
@@ -1334,7 +1334,7 @@ cymbalta,13-18,Anxiousness associated with Depression,winter,5.0,4.0,Female,4.0
 cymbalta,13-18,Chronic Muscle or Bone Pain,fall,4.0,1.0,Female,1.0
 cymbalta,13-18,Major Depressive Disorder,winter,4.0,4.0,Female,4.0
 cymbalta,13-18,Repeated Episodes of Anxiety,fall,4.0,4.0,Male,4.0
-cymbalta,19-24,Major Depressive Disorder,None,2.0,1.0,Male,1.0
+cymbalta,19-24,Major Depressive Disorder,fall,2.0,1.0,Male,1.0
 cymbalta,19-24,Major Depressive Disorder,winter,5.0,3.0,Female,3.0
 cymbalta,19-24,Major Depressive Disorder,winter,5.0,1.0,Female,1.0
 cymbalta,19-24,Major Depressive Disorder,summer,5.0,5.0,Female,5.0
@@ -1345,7 +1345,7 @@ cymbalta,19-24,Neuropathic Pain,fall,5.0,3.0,Male,2.0
 cymbalta,19-24,Major Depressive Disorder,fall,5.0,5.0,Male,4.0
 cymbalta,19-24,Repeated Episodes of Anxiety,winter,4.0,4.0,Female,4.0
 cymbalta,19-24,Repeated Episodes of Anxiety,fall,5.0,1.0,Male,1.0
-cymbalta,19-24,Other,None,5.0,4.0,Female,4.0
+cymbalta,19-24,Other,fall,5.0,4.0,Female,4.0
 cymbalta,19-24,Other,summer,5.0,4.0,Female,4.0
 cymbalta,19-24,Major Depressive Disorder,fall,5.0,4.0,Male,3.0
 cymbalta,25-34,Major Depressive Disorder,winter,4.0,1.0,Male,1.0
@@ -1354,7 +1354,7 @@ cymbalta,25-34,Major Depressive Disorder,winter,4.0,4.0,Male,4.0
 cymbalta,25-34,Major Depressive Disorder,winter,5.0,5.0,Female,4.0
 cymbalta,25-34,Disorder characterized by Stiff, Tender & Painful Muscles,winter,5.0,5.0,Female,4.0
 cymbalta,25-34,Neuropathic Pain,winter,4.0,3.0,Male,3.0
-cymbalta,25-34,Major Depressive Disorder,None,4.0,4.0,Female,4.0
+cymbalta,25-34,Major Depressive Disorder,fall,4.0,4.0,Female,4.0
 cymbalta,25-34,Disorder characterized by Stiff, Tender & Painful Muscles,spring,3.0,3.0,Female,2.0
 cymbalta,25-34,Repeated Episodes of Anxiety,spring,5.0,4.0,Female,5.0
 cymbalta,25-34,Major Depressive Disorder,spring,4.0,3.0,Female,4.0
@@ -1376,7 +1376,7 @@ cymbalta,25-34,Major Depressive Disorder,fall,4.0,5.0,Female,5.0
 cymbalta,25-34,Major Depressive Disorder,winter,4.0,4.0,Female,5.0
 cymbalta,25-34,Chronic Muscle or Bone Pain,spring,2.0,2.0,Male,2.0
 cymbalta,25-34,Major Depressive Disorder,spring,1.0,1.0,Female,1.0
-cymbalta,25-34,Repeated Episodes of Anxiety,None,5.0,4.0,Female,5.0
+cymbalta,25-34,Repeated Episodes of Anxiety,fall,5.0,4.0,Female,5.0
 cymbalta,25-34,Major Depressive Disorder,fall,5.0,5.0,Female,5.0
 cymbalta,25-34,Major Depressive Disorder,fall,3.0,4.0,Female,5.0
 cymbalta,25-34,Disorder characterized by Stiff, Tender & Painful Muscles,summer,4.0,4.0,Female,4.0
@@ -1384,8 +1384,8 @@ cymbalta,25-34,Major Depressive Disorder,summer,5.0,5.0,Female,5.0
 cymbalta,25-34,Repeated Episodes of Anxiety,fall,5.0,3.0,Female,4.0
 cymbalta,25-34,Major Depressive Disorder,fall,4.0,3.0,Female,3.0
 cymbalta,25-34,Major Depressive Disorder,fall,4.0,3.0,Female,3.0
-cymbalta,25-34,Repeated Episodes of Anxiety,None,4.0,4.0,Male,4.0
-cymbalta,25-34,Neuropathic Pain,None,5.0,4.0,Female,4.0
+cymbalta,25-34,Repeated Episodes of Anxiety,fall,4.0,4.0,Male,4.0
+cymbalta,25-34,Neuropathic Pain,fall,5.0,4.0,Female,4.0
 cymbalta,25-34,Chronic Muscle or Bone Pain,spring,5.0,5.0,Female,5.0
 cymbalta,25-34,Major Depressive Disorder,summer,5.0,3.0,Female,3.0
 cymbalta,25-34,Major Depressive Disorder,fall,3.0,2.0,Female,3.0
@@ -1403,7 +1403,7 @@ cytra-k,25-34,Uric Acid Kidney Stones,fall,5.0,4.0,Male,4.0
 daily multivitamin-minerals tablet,19-24,Other,summer,5.0,5.0,Male,5.0
 danazol,25-34,Endometriosis,fall,4.0,3.0,Female,3.0
 daypro,19-24,Joint Inflammatory Disease in Children and Young Adults,winter,5.0,1.0,Female,2.0
-daypro,25-34,Rheumatic Disease causing Pain & Stiffness in Backbone,None,5.0,4.0,Female,4.0
+daypro,25-34,Rheumatic Disease causing Pain & Stiffness in Backbone,fall,5.0,4.0,Female,4.0
 daysee,25-34,Premenstrual Disorder with a State of Unhappiness,spring,5.0,5.0,Female,5.0
 daytrana patch, transdermal 24 hours,3-6,Attention Deficit Disorder with Hyperactivity,spring,5.0,5.0,Female,5.0
 daytrana patch, transdermal 24 hours,3-6,Attention Deficit Disorder with Hyperactivity,summer,1.0,1.0,Female,1.0
@@ -1427,7 +1427,7 @@ depakote,19-24,Mania associated with Bipolar Disorder,fall,5.0,5.0,Male,5.0
 depakote,19-24,Bipolar Depression,fall,5.0,5.0,Male,5.0
 depakote,19-24,Seizures with Irregular Muscle Contractions,fall,3.0,3.0,Male,4.0
 depakote,25-34,Bipolar I Disorder with Most Recent Episode Mixed,summer,2.0,4.0,Female,3.0
-depakote,25-34,Bipolar I Disorder with Most Recent Episode Mixed,None,5.0,1.0,Female,3.0
+depakote,25-34,Bipolar I Disorder with Most Recent Episode Mixed,fall,5.0,1.0,Female,3.0
 depakote,25-34,Epileptic Seizure,winter,5.0,5.0,Female,5.0
 depakote,25-34,Manic-Depression,winter,4.0,3.0,Male,3.0
 depakote,25-34,Bipolar Depression,winter,5.0,4.0,Female,4.0
@@ -1436,14 +1436,14 @@ depakote,25-34,Bipolar Depression,winter,4.0,4.0,Female,4.0
 depakote,25-34,Bipolar Depression,summer,3.0,3.0,Female,3.0
 depakote,25-34,Multiple Seizure Types,winter,4.0,4.0,Male,4.0
 depakote,25-34,Migraine Prevention,fall,4.0,3.0,Male,3.0
-depakote,25-34,Migraine Prevention,None,5.0,3.0,Female,3.0
+depakote,25-34,Migraine Prevention,fall,5.0,3.0,Female,3.0
 depakote er,13-18,Epileptic Seizure,summer,4.0,4.0,Female,5.0
 depakote er,13-18,Bipolar Depression,summer,4.0,4.0,Female,4.0
 depakote er,19-24,Bipolar Depression,summer,3.0,3.0,Female,3.0
 depakote er,19-24,Bipolar Depression,summer,4.0,5.0,Female,5.0
 depakote er,19-24,Bipolar Disorder in Remission,spring,1.0,1.0,Male,1.0
 depakote er,25-34,Petit Mal Seizures,summer,3.0,4.0,Female,4.0
-depakote er,25-34,Other,None,2.0,2.0,Female,2.0
+depakote er,25-34,Other,fall,2.0,2.0,Female,2.0
 depakote sprinkle,7-12,Petit Mal Seizures,fall,5.0,5.0,Male,5.0
 depo-provera vial contraceptives,13-18,Other,summer,1.0,1.0,Female,2.0
 depo-provera vial contraceptives,19-24,Disease of Ovaries with Cysts,fall,4.0,1.0,Female,5.0
@@ -1471,13 +1471,13 @@ desogen,19-24,Birth Control,spring,4.0,4.0,Female,5.0
 desogestrel-ethinyl estradiol,25-34,Disease of Ovaries with Cysts,summer,5.0,4.0,Female,4.0
 desonide foam,13-18,Other,spring,5.0,3.0,Female,2.0
 desonide foam,19-24,Atopic Dermatitis,summer,5.0,5.0,Female,5.0
-desonide foam,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,None,4.0,4.0,Female,4.0
+desonide foam,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,fall,4.0,4.0,Female,4.0
 desonide lotion,13-18,Other,spring,5.0,3.0,Female,2.0
 desonide lotion,19-24,Atopic Dermatitis,summer,5.0,5.0,Female,5.0
-desonide lotion,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,None,4.0,4.0,Female,4.0
+desonide lotion,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,fall,4.0,4.0,Female,4.0
 desonide ointment,13-18,Other,spring,5.0,3.0,Female,2.0
 desonide ointment,19-24,Atopic Dermatitis,summer,5.0,5.0,Female,5.0
-desonide ointment,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,None,4.0,4.0,Female,4.0
+desonide ointment,19-24,Scaly Oily Skin Problem Primarily On Face and Scalp,fall,4.0,4.0,Female,4.0
 desonide, micronized (bulk) powder,25-34,Other,winter,1.0,1.0,Male,1.0
 desoximetasone ointment,25-34,Psoriasis of Scalp,winter,5.0,5.0,Female,5.0
 desoximetasone spray, non-aerosol,25-34,Psoriasis of Scalp,winter,5.0,5.0,Female,5.0
@@ -1495,13 +1495,13 @@ dextroamphetamine sulfate er,3-6,Attention Deficit Disorder with Hyperactivity,s
 dextroamphetamine sulfate er,19-24,Recurring Sleep Episodes During the Day,spring,5.0,5.0,Female,4.0
 dextroamphetamine-amphet er,3-6,Attention Deficit Disorder with Hyperactivity,fall,5.0,4.0,Male,4.0
 dextroamphetamine-amphet er,19-24,Attention Deficit Disorder with Hyperactivity,fall,3.0,4.0,Male,4.0
-dextroamphetamine-amphet er,19-24,Other,None,5.0,5.0,Male,5.0
+dextroamphetamine-amphet er,19-24,Other,fall,5.0,5.0,Male,5.0
 dextroamphetamine-amphetamine,3-6,Attention Deficit Disorder with Hyperactivity,fall,5.0,4.0,Male,4.0
 dextroamphetamine-amphetamine,19-24,Attention Deficit Disorder with Hyperactivity,fall,3.0,4.0,Male,4.0
-dextroamphetamine-amphetamine,19-24,Other,None,5.0,5.0,Male,5.0
+dextroamphetamine-amphetamine,19-24,Other,fall,5.0,5.0,Male,5.0
 dextrose in lactated ringers solution, intravenous,19-24,Other,summer,3.0,3.0,Female,3.0
 diamox sequels,25-34,Other,fall,5.0,5.0,Female,5.0
-diazepam,19-24,Calming of Pediatric Patient by Administration of Sedative,None,5.0,4.0,Female,5.0
+diazepam,19-24,Calming of Pediatric Patient by Administration of Sedative,fall,5.0,4.0,Female,5.0
 diazepam,19-24,Chronic Trouble Sleeping,spring,4.0,3.0,Male,3.0
 diazepam,19-24,Anxious,fall,4.0,5.0,Female,4.0
 diazepam,25-34,Seizures with Breaks in Consciousness & Other Symptoms,spring,5.0,5.0,Male,5.0
@@ -1513,8 +1513,8 @@ diazepam,25-34,Panic Disorder,spring,2.0,3.0,Male,4.0
 diazepam,25-34,Inducing of a Relaxed Easy State,winter,3.0,3.0,Male,3.0
 diazepam,25-34,Sleep Disturbance with Extreme Anxiety,summer,4.0,4.0,Female,4.0
 diazepam,25-34,Muscle Spasm,spring,5.0,5.0,Male,4.0
-diazepam,25-34,Muscle Spasm,None,5.0,5.0,Female,5.0
-diazepam,25-34,Anxious,None,5.0,5.0,Male,5.0
+diazepam,25-34,Muscle Spasm,fall,5.0,5.0,Female,5.0
+diazepam,25-34,Anxious,fall,5.0,5.0,Male,5.0
 diazepam kit,19-24,Epileptic Seizure,winter,5.0,5.0,Female,5.0
 diclofenac potassium,25-34,Pain,summer,4.0,4.0,Female,4.0
 diclofenac potassium,25-34,Pain,fall,5.0,5.0,Female,5.0
@@ -1544,7 +1544,7 @@ dicyclomine hcl,25-34,Other,fall,5.0,2.0,Female,3.0
 dicyclomine hcl,25-34,Irritable Colon,fall,5.0,4.0,Male,4.0
 dicyclomine hcl vial,25-34,Other,fall,4.0,2.0,Male,2.0
 diethylcarbamazine citrate (bulk) 100 % powder,3-6,Other,spring,5.0,5.0,Female,5.0
-diethylpropion hcl er,25-34,Overweight,None,4.0,4.0,Female,4.0
+diethylpropion hcl er,25-34,Overweight,fall,4.0,4.0,Female,4.0
 differin gel,19-24,Acne,summer,5.0,5.0,Female,5.0
 diflucan,7-12,Presumed Infection in Neutropenic Patient With Fever,winter,5.0,4.0,Female,4.0
 diflucan,13-18,Yeast Infection of Vagina and Vulva,spring,5.0,5.0,Female,5.0
@@ -1564,7 +1564,7 @@ digoxin (bulk) 100 % powder,19-24,Other,spring,1.0,1.0,Male,1.0
 digoxin syringe,0-2,Having a Rapid Heart Action - Supraventricular Tachycardia,summer,3.0,4.0,Female,4.0
 dilantin,25-34,Epileptic Seizure,winter,5.0,5.0,Male,5.0
 dilantin 30 mg capsule,19-24,Simple Partial Seizures,spring,2.0,2.0,Male,3.0
-dilantin 30 mg capsule,19-24,Simple Partial Seizures,None,3.0,3.0,Female,4.0
+dilantin 30 mg capsule,19-24,Simple Partial Seizures,fall,3.0,3.0,Female,4.0
 dilantin 30 mg capsule,25-34,Epileptic Seizure,winter,5.0,1.0,Female,1.0
 dilantin 30 mg capsule,25-34,Tonic-Clonic Epilepsy,summer,5.0,3.0,Female,3.0
 dilantin capsule,19-24,Epileptic Seizure,fall,3.0,1.0,Female,3.0
@@ -1581,7 +1581,7 @@ diovan,75 or over,High Blood Pressure,summer,3.0,4.0,Female,4.0
 diovan,19-24,High Blood Pressure,winter,4.0,4.0,Male,3.0
 diovan,25-34,Prevention of Recurrent Atrial Fibrillation,spring,1.0,1.0,Female,1.0
 diovan,25-34,High Blood Pressure,summer,5.0,5.0,Female,4.0
-diovan,25-34,High Blood Pressure,None,5.0,5.0,Female,5.0
+diovan,25-34,High Blood Pressure,fall,5.0,5.0,Female,5.0
 diovan,25-34,High Blood Pressure,summer,5.0,5.0,Female,5.0
 diovan,25-34,High Blood Pressure,spring,3.0,3.0,Female,3.0
 diovan hct,25-34,High Blood Pressure,summer,5.0,5.0,Female,5.0
@@ -1603,12 +1603,12 @@ divalproex sodium er,25-34,Bipolar Depression,summer,3.0,3.0,Female,3.0
 divalproex sodium er,25-34,Manic-Depression,summer,5.0,5.0,Male,5.0
 dobutamine hcl vial,19-24,Heart Disease from Problems with Part of the Heart Itself,winter,4.0,4.0,Female,4.0
 docusate sodium,19-24,Incomplete or Infrequent Bowel Movements,spring,4.0,2.0,Female,3.0
-docusol enema,25-34,Incomplete or Infrequent Bowel Movements,None,5.0,5.0,Female,5.0
+docusol enema,25-34,Incomplete or Infrequent Bowel Movements,fall,5.0,5.0,Female,5.0
 donnatal,75 or over,Other,fall,5.0,4.0,Female,4.0
 donnatal,25-34,Small and Large Intestine Inflammation,fall,4.0,4.0,Female,4.0
 dopamine hcl vial,25-34,Sudden Drop in Blood Pressure,spring,4.0,4.0,Male,4.0
 doryx,19-24,Acne,spring,4.0,5.0,Female,5.0
-doryx,25-34,Lyme Disease,None,4.0,5.0,Male,5.0
+doryx,25-34,Lyme Disease,fall,4.0,5.0,Male,5.0
 doryx mpc,13-18,Other,winter,2.0,1.0,Female,1.0
 doxepin 6 mg tablet hypnotics,25-34,Depression,winter,4.0,2.0,Female,3.0
 doxepin hcl,25-34,Depression,winter,4.0,2.0,Female,3.0
@@ -1635,14 +1635,14 @@ duac gel,19-24,Acne,fall,5.0,5.0,Female,5.0
 dulcolax,13-18,Emptying of the Bowel,spring,4.0,3.0,Female,4.0
 dulcolax,19-24,Incomplete or Infrequent Bowel Movements,summer,5.0,5.0,Female,5.0
 dulcolax,25-34,Other,summer,4.0,4.0,Male,4.0
-duofilm liquid,25-34,Plantar Warts,None,5.0,5.0,Female,5.0
+duofilm liquid,25-34,Plantar Warts,fall,5.0,5.0,Female,5.0
 duraflu,19-24,Cold Symptoms,fall,5.0,5.0,Female,5.0
 echinacea-goldenseal,25-34,Other,winter,5.0,5.0,Female,5.0
 econazole foam,13-18,Ringworm of the Body,winter,5.0,1.0,Male,1.0
 econazole foam,19-24,Skin Infection due to a Candida Yeast,winter,5.0,5.0,Female,5.0
 econazole nitrate cream,13-18,Ringworm of the Body,winter,5.0,1.0,Male,1.0
 econazole nitrate cream,19-24,Skin Infection due to a Candida Yeast,winter,5.0,5.0,Female,5.0
-efavirenz capsule,25-34,HIV,None,5.0,5.0,Female,5.0
+efavirenz capsule,25-34,HIV,fall,5.0,5.0,Female,5.0
 effexor xr,35-44,Depression,summer,5.0,5.0,Male,5.0
 effexor xr,55-64,Depression,winter,5.0,5.0,Female,5.0
 effexor xr,13-18,Neuropathic Pain,spring,5.0,4.0,Female,3.0
@@ -1660,13 +1660,13 @@ effexor xr,19-24,Depression,winter,5.0,4.0,Female,4.0
 effexor xr,19-24,Repeated Episodes of Anxiety,fall,5.0,4.0,Female,4.0
 effexor xr,19-24,Extreme Apprehension or Fear of Social Interaction,spring,5.0,5.0,Male,5.0
 effexor xr,19-24,Bipolar Depression,summer,5.0,5.0,Female,5.0
-effexor xr,19-24,Neuropathic Pain,None,5.0,5.0,Female,4.0
-effexor xr,19-24,Depression,None,5.0,5.0,Female,5.0
+effexor xr,19-24,Neuropathic Pain,fall,5.0,5.0,Female,4.0
+effexor xr,19-24,Depression,fall,5.0,5.0,Female,5.0
 effexor xr,19-24,Repeated Episodes of Anxiety,fall,5.0,3.0,Female,3.0
 effexor xr,19-24,Panic Disorder,fall,5.0,4.0,Female,5.0
 effexor xr,19-24,Depression,spring,5.0,5.0,Female,5.0
 effexor xr,19-24,Depression,fall,5.0,4.0,Female,4.0
-effexor xr,19-24,Depression,None,3.0,2.0,Female,2.0
+effexor xr,19-24,Depression,fall,3.0,2.0,Female,2.0
 effexor xr,19-24,Depression,spring,5.0,5.0,Male,5.0
 effexor xr,25-34,Bipolar Depression,winter,4.0,4.0,Female,4.0
 effexor xr,25-34,Depression,winter,4.0,3.0,Male,3.0
@@ -1697,16 +1697,16 @@ effexor xr,25-34,Depression,winter,4.0,1.0,Female,3.0
 effexor xr,25-34,Depression,winter,5.0,4.0,Female,5.0
 effexor xr,25-34,Repeated Episodes of Anxiety,spring,3.0,2.0,Female,2.0
 effexor xr,25-34,Repeated Episodes of Anxiety,spring,5.0,3.0,Female,3.0
-effexor xr,25-34,Depression,None,4.0,4.0,Female,4.0
+effexor xr,25-34,Depression,fall,4.0,4.0,Female,4.0
 effexor xr,25-34,Repeated Episodes of Anxiety,winter,5.0,5.0,Female,5.0
 effexor xr,25-34,Panic Disorder,winter,5.0,4.0,Male,4.0
 effexor xr,25-34,Depression,winter,4.0,4.0,Female,5.0
 effexor xr,25-34,Depression,fall,5.0,3.0,Female,3.0
 effexor xr,25-34,Depression,fall,1.0,1.0,Female,1.0
-effexor xr,25-34,Depression,None,4.0,1.0,Female,1.0
+effexor xr,25-34,Depression,fall,4.0,1.0,Female,1.0
 effexor xr,25-34,Repeated Episodes of Anxiety,summer,4.0,4.0,Female,4.0
 effexor xr,25-34,Depression,summer,5.0,4.0,Female,4.0
-effexor xr,25-34,Depression,None,5.0,5.0,Female,4.0
+effexor xr,25-34,Depression,fall,5.0,5.0,Female,4.0
 effexor xr,25-34,Repeated Episodes of Anxiety,summer,4.0,3.0,Female,4.0
 effexor xr,25-34,Extreme Apprehension or Fear of Social Interaction,fall,5.0,5.0,Female,5.0
 effexor xr,25-34,Bipolar Depression,fall,4.0,1.0,Male,1.0
@@ -1720,8 +1720,8 @@ effexor xr,25-34,Repeated Episodes of Anxiety,summer,5.0,5.0,Female,5.0
 effexor xr,25-34,Panic Disorder,fall,5.0,5.0,Female,5.0
 effexor xr,25-34,Depression,fall,5.0,5.0,Male,4.0
 effexor xr,25-34,Repeated Episodes of Anxiety,spring,5.0,5.0,Male,5.0
-elidel cream,13-18,Atopic Dermatitis,None,4.0,4.0,Male,3.0
-elidel cream,25-34,Eczema Skin Condition Resisting Treatment,None,5.0,5.0,Female,5.0
+elidel cream,13-18,Atopic Dermatitis,fall,4.0,4.0,Male,3.0
+elidel cream,25-34,Eczema Skin Condition Resisting Treatment,fall,5.0,5.0,Female,5.0
 elite-ob tablet,25-34,Other,fall,3.0,4.0,Male,3.0
 elmiron,19-24,Bladder Pain,fall,4.0,4.0,Female,4.0
 elmiron,19-24,Bladder Wall Inflammation,fall,5.0,4.0,Female,4.0
@@ -1752,8 +1752,8 @@ entocort ec,19-24,Crohn's Disease,winter,5.0,4.0,Male,4.0
 entocort ec,25-34,Crohn's Disease Maintenance of Remission,fall,3.0,1.0,Female,2.0
 enulose,3-6,Incomplete or Infrequent Bowel Movements,spring,5.0,4.0,Male,4.0
 epiduo forte gel with pump,13-18,Acne,fall,5.0,4.0,Male,5.0
-epiduo gel with pump,13-18,Acne,None,4.0,1.0,Male,1.0
-epiduo gel with pump,25-34,Acne,None,4.0,4.0,Female,4.0
+epiduo gel with pump,13-18,Acne,fall,4.0,1.0,Male,1.0
+epiduo gel with pump,25-34,Acne,fall,4.0,4.0,Female,4.0
 epivir,25-34,HIV,winter,5.0,5.0,Female,5.0
 epivir solution,25-34,HIV,winter,5.0,5.0,Female,5.0
 epsom salt,25-34,Incomplete or Infrequent Bowel Movements,winter,3.0,4.0,Female,5.0
@@ -1780,11 +1780,11 @@ ethosuximide,3-6,Petit Mal Seizures,summer,3.0,1.0,Female,3.0
 ethosuximide,25-34,Petit Mal Seizures,spring,3.0,4.0,Female,4.0
 ethynodiol-ethinyl estradiol,19-24,Other,spring,3.0,2.0,Female,3.0
 etodolac,19-24,Pain,summer,5.0,1.0,Female,1.0
-etodolac,19-24,Pain,None,2.0,1.0,Female,1.0
+etodolac,19-24,Pain,fall,2.0,1.0,Female,1.0
 etodolac,19-24,Pain,winter,4.0,5.0,Female,4.0
 etodolac,25-34,Pain,fall,5.0,4.0,Female,4.0
 etodolac er,19-24,Pain,summer,5.0,1.0,Female,1.0
-etodolac er,19-24,Pain,None,2.0,1.0,Female,1.0
+etodolac er,19-24,Pain,fall,2.0,1.0,Female,1.0
 etodolac er,19-24,Pain,winter,4.0,5.0,Female,4.0
 etodolac er,25-34,Pain,fall,5.0,4.0,Female,4.0
 etonogestrel 0.12 mg-ethinyl estradiol 0.015 mg/24 hr vaginal ring contraceptives,25-34,Birth Control,fall,4.0,4.0,Female,4.0
@@ -1799,7 +1799,7 @@ excedrin migraine,19-24,Migraine Headache,fall,5.0,4.0,Female,4.0
 excedrin migraine,25-34,Migraine Headache,spring,1.0,3.0,Female,3.0
 excedrin migraine,25-34,Migraine Headache,fall,5.0,4.0,Male,4.0
 exforge,25-34,High Blood Pressure,fall,5.0,2.0,Female,2.0
-exforge,25-34,High Blood Pressure,None,5.0,5.0,Female,5.0
+exforge,25-34,High Blood Pressure,fall,5.0,5.0,Female,5.0
 factive,25-34,Pneumonia caused by Bacteria,spring,5.0,4.0,Female,4.0
 falmina,19-24,Birth Control,spring,3.0,1.0,Female,4.0
 falmina,25-34,Birth Control,spring,3.0,3.0,Female,3.0
@@ -1808,13 +1808,13 @@ famotidine (bulk) 100 % powder,19-24,Other,spring,1.0,1.0,Female,1.0
 famotidine suspension, (final dose form) peptic ulcer agents,25-34,Heartburn,summer,4.0,4.0,Female,4.0
 famotidine tablet peptic ulcer agents,25-34,Heartburn,summer,4.0,4.0,Female,4.0
 famvir,25-34,Cold Sore,winter,5.0,5.0,Female,5.0
-fanapt,19-24,Other,None,5.0,2.0,Female,2.0
-fanapt,25-34,Additional Medications to Treat Depression,None,3.0,2.0,Female,3.0
+fanapt,19-24,Other,fall,5.0,2.0,Female,2.0
+fanapt,25-34,Additional Medications to Treat Depression,fall,3.0,2.0,Female,3.0
 fasenra syringe,45-54,Other,winter,1.0,1.0,Male,1.0
 faslodex syringe,25-34,Metastatic Breast Cancer Progression Post-Antiestrogen Therapy,summer,5.0,5.0,Female,5.0
 feldene,13-18,Joint Inflammatory Disease in Children and Young Adults,summer,3.0,3.0,Female,3.0
 fem ph jelly with applicator,25-34,Other,spring,4.0,2.0,Female,3.0
-fem ph jelly with applicator,25-34,Other,None,4.0,5.0,Female,5.0
+fem ph jelly with applicator,25-34,Other,fall,4.0,5.0,Female,5.0
 femara,45-54,Hormone Receptor Positive Postmenopausal Early Breast Cancer,summer,2.0,3.0,Female,3.0
 femara,65-74,Breast Cancer that has Spread to Another Part of the Body,winter,5.0,1.0,Female,5.0
 femcon fe,13-18,Birth Control,winter,5.0,4.0,Female,4.0
@@ -1857,7 +1857,7 @@ fioricet,25-34,Migraine Headache,spring,2.0,2.0,Female,2.0
 fioricet,25-34,Tension Headache,summer,4.0,5.0,Female,5.0
 fiorinal,25-34,Other,spring,4.0,1.0,Male,1.0
 flagyl,25-34,Other,summer,5.0,5.0,Female,5.0
-flagyl,25-34,Infection caused by Trichomoniasis Protozoa,None,5.0,5.0,Female,5.0
+flagyl,25-34,Infection caused by Trichomoniasis Protozoa,fall,5.0,5.0,Female,5.0
 flagyl,25-34,Crohn's Disease,winter,3.0,4.0,Female,4.0
 flecainide acetate,25-34,Atrial Fibrillation,winter,5.0,5.0,Male,5.0
 fleet enema 19 gram-7 gram/118 ml,19-24,Incomplete or Infrequent Bowel Movements,fall,5.0,5.0,Male,5.0
@@ -1868,17 +1868,17 @@ fluconazole,19-24,Yeast Infection of Vagina and Vulva,spring,5.0,1.0,Female,1.0
 fluconazole,25-34,Yeast Infection of Vagina and Vulva,spring,5.0,2.0,Female,1.0
 fluconazole,25-34,Yeast Infection of Vagina and Vulva,winter,4.0,3.0,Female,3.0
 fluconazole,25-34,Yeast Infection of Vagina and Vulva,fall,5.0,3.0,Female,4.0
-fluconazole,25-34,Fungal Meningitis caused by Cryptococcus,None,3.0,4.0,Female,4.0
+fluconazole,25-34,Fungal Meningitis caused by Cryptococcus,fall,3.0,4.0,Female,4.0
 fluconazole,25-34,Yeast Infection of Vagina and Vulva,summer,5.0,5.0,Female,5.0
 fluconazole tablet azole antifungals-systemic,19-24,Yeast Infection of Vagina and Vulva,spring,5.0,5.0,Female,5.0
 fluconazole tablet azole antifungals-systemic,19-24,Yeast Infection of Vagina and Vulva,spring,5.0,1.0,Female,1.0
 fluconazole tablet azole antifungals-systemic,25-34,Yeast Infection of Vagina and Vulva,spring,5.0,2.0,Female,1.0
 fluconazole tablet azole antifungals-systemic,25-34,Yeast Infection of Vagina and Vulva,winter,4.0,3.0,Female,3.0
 fluconazole tablet azole antifungals-systemic,25-34,Yeast Infection of Vagina and Vulva,fall,5.0,3.0,Female,4.0
-fluconazole tablet azole antifungals-systemic,25-34,Fungal Meningitis caused by Cryptococcus,None,3.0,4.0,Female,4.0
+fluconazole tablet azole antifungals-systemic,25-34,Fungal Meningitis caused by Cryptococcus,fall,3.0,4.0,Female,4.0
 fluconazole tablet azole antifungals-systemic,25-34,Yeast Infection of Vagina and Vulva,summer,5.0,5.0,Female,5.0
 fludrocortisone (bulk) powder,13-18,Other,fall,5.0,3.0,Female,2.0
-fludrocortisone acetate,19-24,Blood Pressure Drop Upon Standing with Unknown Cause,None,5.0,5.0,Female,5.0
+fludrocortisone acetate,19-24,Blood Pressure Drop Upon Standing with Unknown Cause,fall,5.0,5.0,Female,5.0
 flunisolide spray, non-aerosol,45-54,Chronic Inflammation of the Nose Not due to Allergies,summer,4.0,4.0,Male,4.0
 fluocinolone acetonide oil,25-34,Skin Rash that Becomes Thick & Discolored From Rubbing It,winter,2.0,1.0,Female,2.0
 fluocinolone acetonide solution, non-,25-34,Skin Rash that Becomes Thick & Discolored From Rubbing It,winter,2.0,1.0,Female,2.0
@@ -1899,17 +1899,17 @@ fluoxetine dr,19-24,Depression,winter,5.0,3.0,Male,3.0
 fluoxetine dr,25-34,Depression,spring,5.0,5.0,Male,5.0
 fluoxetine dr,25-34,Depression,fall,5.0,5.0,Female,5.0
 fluoxetine dr,25-34,Depression,fall,5.0,4.0,Female,5.0
-fluoxetine dr,25-34,Depression,None,4.0,4.0,Female,4.0
+fluoxetine dr,25-34,Depression,fall,4.0,4.0,Female,4.0
 fluoxetine dr,25-34,Panic Disorder,fall,5.0,5.0,Female,5.0
 fluoxetine dr,25-34,Depression,fall,4.0,4.0,Female,4.0
 fluoxetine dr,25-34,Panic Disorder,spring,5.0,4.0,Female,4.0
 fluoxetine dr,25-34,Depression,spring,5.0,5.0,Female,5.0
-fluoxetine dr,25-34,Panic Disorder,None,5.0,5.0,Female,5.0
+fluoxetine dr,25-34,Panic Disorder,fall,5.0,5.0,Female,5.0
 fluoxetine dr,25-34,Depression,summer,4.0,3.0,Female,2.0
 fluoxetine dr,25-34,Premenstrual Disorder with a State of Unhappiness,summer,5.0,5.0,Female,4.0
 fluoxetine dr,25-34,Depression,fall,4.0,3.0,Female,3.0
 fluoxetine dr,25-34,Depression,fall,5.0,4.0,Female,5.0
-fluoxetine dr,25-34,Depression,None,5.0,5.0,Female,5.0
+fluoxetine dr,25-34,Depression,fall,5.0,5.0,Female,5.0
 fluoxetine hcl,7-12,Other,summer,5.0,4.0,Female,4.0
 fluoxetine hcl,13-18,Major Depressive Disorder,spring,4.0,4.0,Female,4.0
 fluoxetine hcl,13-18,Repeated Episodes of Anxiety,spring,4.0,4.0,Female,4.0
@@ -1925,17 +1925,17 @@ fluoxetine hcl,19-24,Depression,winter,5.0,3.0,Male,3.0
 fluoxetine hcl,25-34,Depression,spring,5.0,5.0,Male,5.0
 fluoxetine hcl,25-34,Depression,fall,5.0,5.0,Female,5.0
 fluoxetine hcl,25-34,Depression,fall,5.0,4.0,Female,5.0
-fluoxetine hcl,25-34,Depression,None,4.0,4.0,Female,4.0
+fluoxetine hcl,25-34,Depression,fall,4.0,4.0,Female,4.0
 fluoxetine hcl,25-34,Panic Disorder,fall,5.0,5.0,Female,5.0
 fluoxetine hcl,25-34,Depression,fall,4.0,4.0,Female,4.0
 fluoxetine hcl,25-34,Panic Disorder,spring,5.0,4.0,Female,4.0
 fluoxetine hcl,25-34,Depression,spring,5.0,5.0,Female,5.0
-fluoxetine hcl,25-34,Panic Disorder,None,5.0,5.0,Female,5.0
+fluoxetine hcl,25-34,Panic Disorder,fall,5.0,5.0,Female,5.0
 fluoxetine hcl,25-34,Depression,summer,4.0,3.0,Female,2.0
 fluoxetine hcl,25-34,Premenstrual Disorder with a State of Unhappiness,summer,5.0,5.0,Female,4.0
 fluoxetine hcl,25-34,Depression,fall,4.0,3.0,Female,3.0
 fluoxetine hcl,25-34,Depression,fall,5.0,4.0,Female,5.0
-fluoxetine hcl,25-34,Depression,None,5.0,5.0,Female,5.0
+fluoxetine hcl,25-34,Depression,fall,5.0,5.0,Female,5.0
 flurazepam hcl,75 or over,Chronic Trouble Sleeping,spring,5.0,5.0,Female,4.0
 flurazepam hcl,25-34,Chronic Trouble Sleeping,winter,4.0,1.0,Female,2.0
 fluticasone 50 mcg/actuation blister powder for inhalation,7-12,Allergic Asthma,winter,3.0,3.0,Female,3.0
@@ -1952,10 +1952,10 @@ fluticasone propionate cream,19-24,Atopic Dermatitis,winter,5.0,5.0,Female,5.0
 fluticasone propionate spray, suspension,0-2,Inflammation of the Nose due to an Allergy,spring,5.0,5.0,Male,4.0
 fluticasone propionate spray, suspension,25-34,Inflammation of the Nose due to an Allergy,fall,5.0,4.0,Female,4.0
 fluvoxamine maleate,19-24,Obsessive Compulsive Disorder,spring,5.0,5.0,Female,5.0
-fluvoxamine maleate,25-34,Obsessive Compulsive Disorder,None,5.0,4.0,Female,5.0
+fluvoxamine maleate,25-34,Obsessive Compulsive Disorder,fall,5.0,4.0,Female,5.0
 fluvoxamine maleate,25-34,Obsessive Compulsive Disorder,spring,3.0,1.0,Female,2.0
 fluvoxamine maleate er,19-24,Obsessive Compulsive Disorder,spring,5.0,5.0,Female,5.0
-fluvoxamine maleate er,25-34,Obsessive Compulsive Disorder,None,5.0,4.0,Female,5.0
+fluvoxamine maleate er,25-34,Obsessive Compulsive Disorder,fall,5.0,4.0,Female,5.0
 fluvoxamine maleate er,25-34,Obsessive Compulsive Disorder,spring,3.0,1.0,Female,2.0
 focalin,3-6,Attention Deficit Disorder with Hyperactivity,summer,3.0,2.0,Female,2.0
 focalin,3-6,Other,spring,5.0,4.0,Male,4.0
@@ -1976,9 +1976,9 @@ focalin xr,7-12,Attention Deficit Disorder with Hyperactivity,winter,5.0,5.0,Mal
 focalin xr,7-12,Attention Deficit Disorder with Hyperactivity,winter,4.0,4.0,Male,3.0
 focalin xr,7-12,Attention Deficit Disorder with Hyperactivity,winter,5.0,5.0,Male,5.0
 focalin xr,7-12,Attention Deficit Disorder with Hyperactivity,winter,4.0,4.0,Male,4.0
-focalin xr,7-12,Attention Deficit Disorder with Hyperactivity,None,4.0,3.0,Male,3.0
+focalin xr,7-12,Attention Deficit Disorder with Hyperactivity,fall,4.0,3.0,Male,3.0
 focalin xr,7-12,Attention Deficit Disorder with Hyperactivity,spring,5.0,5.0,Female,5.0
-focalin xr,7-12,Other,None,5.0,5.0,Male,4.0
+focalin xr,7-12,Other,fall,5.0,5.0,Male,4.0
 focalin xr,25-34,Attention Deficit Disorder with Hyperactivity,fall,3.0,3.0,Male,3.0
 focalin xr,25-34,Attention Deficit Disorder with Hyperactivity,spring,5.0,4.0,Female,4.0
 focalin xr,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,4.0,Male,4.0
@@ -1996,7 +1996,7 @@ furosemide solution,25-34,High Blood Pressure,spring,4.0,4.0,Female,2.0
 fusion plus,13-18,Anemia from Inadequate Iron,summer,5.0,5.0,Female,5.0
 gabapentin,55-64,Other,summer,5.0,2.0,Female,3.0
 gabapentin,13-18,Pain Originating From a Nerve,summer,2.0,5.0,Female,5.0
-gabapentin,19-24,Pain Originating From a Nerve,None,4.0,3.0,Female,3.0
+gabapentin,19-24,Pain Originating From a Nerve,fall,4.0,3.0,Female,3.0
 gabapentin,19-24,Other,winter,3.0,3.0,Female,3.0
 gabapentin,19-24,Other,winter,5.0,3.0,Female,3.0
 gabapentin,19-24,Acute Pain Following an Operation,summer,5.0,5.0,Female,5.0
@@ -2007,12 +2007,12 @@ gabapentin,25-34,Simple Partial Seizures,fall,5.0,5.0,Male,5.0
 gabapentin,25-34,Other,summer,5.0,2.0,Female,2.0
 gabapentin,25-34,Other,winter,4.0,2.0,Male,3.0
 gabapentin,25-34,Other,fall,1.0,1.0,Male,1.0
-gabapentin,25-34,Other,None,1.0,1.0,Female,1.0
+gabapentin,25-34,Other,fall,1.0,1.0,Female,1.0
 gabapentin,25-34,Pain Originating From a Nerve,spring,3.0,3.0,Male,3.0
 gabapentin,25-34,Other,winter,5.0,5.0,Male,5.0
 gabapentin solution,55-64,Other,summer,5.0,2.0,Female,3.0
 gabapentin solution,13-18,Pain Originating From a Nerve,summer,2.0,5.0,Female,5.0
-gabapentin solution,19-24,Pain Originating From a Nerve,None,4.0,3.0,Female,3.0
+gabapentin solution,19-24,Pain Originating From a Nerve,fall,4.0,3.0,Female,3.0
 gabapentin solution,19-24,Other,winter,3.0,3.0,Female,3.0
 gabapentin solution,19-24,Other,winter,5.0,3.0,Female,3.0
 gabapentin solution,19-24,Acute Pain Following an Operation,summer,5.0,5.0,Female,5.0
@@ -2021,18 +2021,18 @@ gabapentin solution,25-34,"Change of Life" Signs,summer,4.0,4.0,Male,4.0
 gabapentin solution,25-34,Simple Partial Seizures,fall,5.0,5.0,Male,5.0
 gabapentin solution,25-34,Other,summer,5.0,2.0,Female,2.0
 gabapentin solution,25-34,Other,winter,4.0,2.0,Male,3.0
-gabapentin solution,25-34,Other,None,1.0,1.0,Female,1.0
+gabapentin solution,25-34,Other,fall,1.0,1.0,Female,1.0
 gabapentin solution,25-34,Pain Originating From a Nerve,spring,3.0,3.0,Male,3.0
 gabapentin solution,25-34,Other,winter,5.0,5.0,Male,5.0
 gabapentin solution,25-34,Neuropathic Pain,spring,1.0,2.0,Female,2.0
 gabapentin solution,25-34,Pain Originating From a Nerve,spring,2.0,2.0,Female,3.0
 hydrocodone-acetaminophen,0-2,Pain,fall,3.0,3.0,Female,3.0
-hydrocodone-acetaminophen,13-18,Pain,None,4.0,4.0,Male,3.0
+hydrocodone-acetaminophen,13-18,Pain,fall,4.0,4.0,Male,3.0
 hydrocodone-acetaminophen,13-18,Pain,summer,4.0,4.0,Male,4.0
 hydrocodone-acetaminophen,13-18,Pain,spring,5.0,5.0,Female,5.0
 hydrocodone-acetaminophen,13-18,Pain,summer,5.0,4.0,Female,5.0
 hydrocodone-acetaminophen,19-24,Other,winter,4.0,4.0,Male,4.0
-hydrocodone-acetaminophen,19-24,Pain,None,4.0,1.0,Male,1.0
+hydrocodone-acetaminophen,19-24,Pain,fall,4.0,1.0,Male,1.0
 hydrocodone-acetaminophen,19-24,Pain,fall,5.0,5.0,Female,4.0
 hydrocodone-acetaminophen,19-24,Pain,fall,5.0,3.0,Female,3.0
 hydrocodone-acetaminophen,19-24,Pain,fall,5.0,5.0,Female,5.0
@@ -2079,21 +2079,21 @@ hydrocodone-acetaminophen,25-34,Pain,winter,5.0,4.0,Female,5.0
 hydrocodone-acetaminophen,25-34,Pain,fall,4.0,3.0,Female,2.0
 hydrocodone-acetaminophen,25-34,Pain,fall,5.0,5.0,Female,5.0
 hydrocodone-acetaminophen,25-34,Pain,fall,5.0,4.0,Male,5.0
-hydrocodone-acetaminophen,25-34,Pain,None,2.0,2.0,Female,2.0
-hydrocodone-acetaminophen,25-34,Pain,None,4.0,4.0,Female,4.0
-hydrocodone-acetaminophen,25-34,Pain,None,3.0,3.0,Female,3.0
-hydrocodone-acetaminophen,25-34,Pain,None,3.0,2.0,Female,2.0
+hydrocodone-acetaminophen,25-34,Pain,fall,2.0,2.0,Female,2.0
+hydrocodone-acetaminophen,25-34,Pain,fall,4.0,4.0,Female,4.0
+hydrocodone-acetaminophen,25-34,Pain,fall,3.0,3.0,Female,3.0
+hydrocodone-acetaminophen,25-34,Pain,fall,3.0,2.0,Female,2.0
 hydrocodone-acetaminophen,25-34,Pain,summer,5.0,5.0,Male,5.0
 hydrocodone-acetaminophen,25-34,Pain,fall,5.0,3.0,Male,4.0
 hydrocodone-acetaminophen,25-34,Pain,fall,5.0,4.0,Male,5.0
-hydrocodone-acetaminophen,25-34,Pain,None,1.0,1.0,Female,1.0
+hydrocodone-acetaminophen,25-34,Pain,fall,1.0,1.0,Female,1.0
 hydrocodone-acetaminophen,25-34,Pain,fall,3.0,3.0,Female,3.0
 hydrocodone-acetaminophen,25-34,Pain,fall,3.0,3.0,Female,3.0
 hydrocodone-acetaminophen,25-34,Pain,fall,4.0,4.0,Female,4.0
 hydrocodone-acetaminophen,25-34,Pain,fall,4.0,4.0,Male,5.0
-hydrocodone-acetaminophen,25-34,Pain,None,5.0,1.0,Male,2.0
-hydrocodone-acetaminophen,25-34,Pain,None,5.0,5.0,Female,5.0
-hydrocodone-acetaminophen,25-34,Pain,None,4.0,5.0,Male,5.0
+hydrocodone-acetaminophen,25-34,Pain,fall,5.0,1.0,Male,2.0
+hydrocodone-acetaminophen,25-34,Pain,fall,5.0,5.0,Female,5.0
+hydrocodone-acetaminophen,25-34,Pain,fall,4.0,5.0,Male,5.0
 hydrocodone-acetaminophen,25-34,Pain,summer,5.0,5.0,Female,5.0
 hydrocodone-acetaminophen,25-34,Pain,summer,5.0,4.0,Male,3.0
 hydrocodone-acetaminophen,25-34,Pain,summer,4.0,5.0,Female,3.0
@@ -2137,8 +2137,8 @@ hydrocodone-acetaminophen,25-34,Pain,fall,5.0,2.0,Male,1.0
 hydrocodone-acetaminophen,25-34,Other,fall,5.0,5.0,Male,4.0
 hydrocodone-acetaminophen,25-34,Pain,fall,4.0,4.0,Female,4.0
 hydrocodone-acetaminophen,25-34,Pain,fall,4.0,4.0,Female,3.0
-hydrocodone-acetaminophen,25-34,Pain,None,5.0,3.0,Male,3.0
-hydrocodone-acetaminophen,25-34,Pain,None,4.0,2.0,Female,3.0
+hydrocodone-acetaminophen,25-34,Pain,fall,5.0,3.0,Male,3.0
+hydrocodone-acetaminophen,25-34,Pain,fall,4.0,2.0,Female,3.0
 hydrocodone-acetaminophen,25-34,Pain,spring,5.0,5.0,Female,5.0
 hydrocodone-acetaminophen,25-34,Pain,winter,4.0,4.0,Female,4.0
 hydrocodone-acetaminophen,25-34,Pain,winter,4.0,3.0,Female,2.0
@@ -2153,7 +2153,7 @@ hydrocodone-acetaminophen,25-34,Other,winter,4.0,3.0,Female,3.0
 hydrocodone-acetaminophen,25-34,Pain,winter,4.0,4.0,Male,4.0
 hydrocodone-acetaminophen,25-34,Pain,winter,3.0,2.0,Female,3.0
 hydrocodone-acetaminophen,25-34,Pain,winter,4.0,3.0,Female,3.0
-hydrocodone-acetaminophen,25-34,Pain,None,4.0,3.0,Female,3.0
+hydrocodone-acetaminophen,25-34,Pain,fall,4.0,3.0,Female,3.0
 hydrocodone-acetaminophen,25-34,Pain,winter,3.0,5.0,Female,5.0
 hydrocodone-acetaminophen,25-34,Pain,winter,3.0,2.0,Male,2.0
 hydrocodone-acetaminophen,25-34,Pain,winter,4.0,2.0,Female,4.0
@@ -2193,7 +2193,7 @@ hydrocodone-acetaminophen,25-34,Pain,spring,5.0,5.0,Male,5.0
 hydrocodone-ibuprofen,19-24,Pain,winter,4.0,2.0,Male,3.0
 hydrocodone-ibuprofen,19-24,Pain,winter,3.0,3.0,Female,3.0
 hydrocodone-ibuprofen,19-24,Pain,fall,5.0,5.0,Female,5.0
-hydrocodone-ibuprofen,25-34,Pain,None,2.0,3.0,Female,3.0
+hydrocodone-ibuprofen,25-34,Pain,fall,2.0,3.0,Female,3.0
 hydrocodone-ibuprofen,25-34,Pain,spring,2.0,2.0,Male,2.0
 hydrocodone-ibuprofen,25-34,Pain,winter,5.0,3.0,Female,2.0
 hydrocodone-ibuprofen,25-34,Pain,spring,3.0,2.0,Female,1.0
@@ -2230,11 +2230,11 @@ hydroxyzine hcl,19-24,Anxious,spring,5.0,5.0,Male,4.0
 hydroxyzine hcl,19-24,Inducing of a Relaxed Easy State,summer,5.0,2.0,Male,3.0
 hydroxyzine hcl,19-24,Anxious,spring,5.0,5.0,Female,5.0
 hydroxyzine hcl,19-24,Anxious,fall,5.0,2.0,Male,2.0
-hydroxyzine hcl,25-34,Itching,None,5.0,5.0,Female,5.0
+hydroxyzine hcl,25-34,Itching,fall,5.0,5.0,Female,5.0
 hydroxyzine hcl,25-34,Anxious,summer,3.0,3.0,Female,2.0
 hydroxyzine hcl,25-34,Inflammation of Skin caused by an Allergy,winter,4.0,4.0,Female,4.0
 hydroxyzine hcl,25-34,Hives,summer,5.0,5.0,Female,5.0
-hydroxyzine hcl,25-34,Anxious,None,5.0,5.0,Female,5.0
+hydroxyzine hcl,25-34,Anxious,fall,5.0,5.0,Female,5.0
 hydroxyzine hcl,25-34,Itching,spring,4.0,3.0,Male,3.0
 hydroxyzine hcl,25-34,Anxious,winter,5.0,1.0,Female,2.0
 hydroxyzine hcl,25-34,Itching,summer,4.0,3.0,Female,3.0
@@ -2253,7 +2253,7 @@ ibuprofen,3-6,Fever,spring,3.0,3.0,Female,3.0
 ibuprofen,13-18,Migraine Headache,winter,5.0,5.0,Male,5.0
 ibuprofen,13-18,Pain,summer,5.0,3.0,Male,3.0
 ibuprofen,19-24,Pain,fall,3.0,3.0,Female,3.0
-ibuprofen,25-34,Pain,None,1.0,1.0,Male,1.0
+ibuprofen,25-34,Pain,fall,1.0,1.0,Male,1.0
 ibuprofen,25-34,Migraine Headache,summer,4.0,5.0,Female,4.0
 ibuprofen,25-34,Pain,fall,3.0,3.0,Male,3.0
 ibuprofen,25-34,Pain,fall,5.0,1.0,Female,1.0
@@ -2263,7 +2263,7 @@ ibuprofen suspension, (final dose form),3-6,Fever,spring,3.0,3.0,Female,3.0
 ibuprofen suspension, (final dose form),13-18,Migraine Headache,winter,5.0,5.0,Male,5.0
 ibuprofen suspension, (final dose form),13-18,Pain,summer,5.0,3.0,Male,3.0
 ibuprofen suspension, (final dose form),19-24,Pain,fall,3.0,3.0,Female,3.0
-ibuprofen suspension, (final dose form),25-34,Pain,None,1.0,1.0,Male,1.0
+ibuprofen suspension, (final dose form),25-34,Pain,fall,1.0,1.0,Male,1.0
 ibuprofen suspension, (final dose form),25-34,Migraine Headache,summer,4.0,5.0,Female,4.0
 ibuprofen suspension, (final dose form),25-34,Pain,fall,3.0,3.0,Male,3.0
 ibuprofen suspension, (final dose form),25-34,Pain,fall,5.0,1.0,Female,1.0
@@ -2273,7 +2273,7 @@ ibuprofen tablet, chewable,3-6,Fever,spring,3.0,3.0,Female,3.0
 ibuprofen tablet, chewable,13-18,Migraine Headache,winter,5.0,5.0,Male,5.0
 ibuprofen tablet, chewable,13-18,Pain,summer,5.0,3.0,Male,3.0
 ibuprofen tablet, chewable,19-24,Pain,fall,3.0,3.0,Female,3.0
-ibuprofen tablet, chewable,25-34,Pain,None,1.0,1.0,Male,1.0
+ibuprofen tablet, chewable,25-34,Pain,fall,1.0,1.0,Male,1.0
 ibuprofen tablet, chewable,25-34,Migraine Headache,summer,4.0,5.0,Female,4.0
 ibuprofen tablet, chewable,25-34,Pain,fall,3.0,3.0,Male,3.0
 ibuprofen tablet, chewable,25-34,Pain,fall,5.0,1.0,Female,1.0
@@ -2306,7 +2306,7 @@ infants ibuprofen,3-6,Fever,spring,3.0,3.0,Female,3.0
 infants ibuprofen,13-18,Migraine Headache,winter,5.0,5.0,Male,5.0
 infants ibuprofen,13-18,Pain,summer,5.0,3.0,Male,3.0
 infants ibuprofen,19-24,Pain,fall,3.0,3.0,Female,3.0
-infants ibuprofen,25-34,Pain,None,1.0,1.0,Male,1.0
+infants ibuprofen,25-34,Pain,fall,1.0,1.0,Male,1.0
 infants ibuprofen,25-34,Migraine Headache,summer,4.0,5.0,Female,4.0
 infants ibuprofen,25-34,Pain,fall,3.0,3.0,Male,3.0
 infants ibuprofen,25-34,Pain,fall,5.0,1.0,Female,1.0
@@ -2316,9 +2316,9 @@ innopran xl,25-34,Essential Tremor,fall,5.0,5.0,Female,5.0
 insulin aspar prt-insulin aspart 100 unit/ml (70-30) subcutaneous soln intermediate-, long-acting, and combination insulins,25-34,High Blood Sugar,summer,3.0,4.0,Male,3.0
 insulin regular human solution,19-24,Diabetic Ketoacidosis,spring,5.0,5.0,Female,5.0
 integra,19-24,Anemia from Inadequate Iron,summer,5.0,5.0,Female,5.0
-integra,25-34,Anemia from Inadequate Iron,None,5.0,5.0,Female,5.0
+integra,25-34,Anemia from Inadequate Iron,fall,5.0,5.0,Female,5.0
 integra f,19-24,Anemia from Inadequate Iron,spring,4.0,4.0,Female,2.0
-integra f,25-34,Anemia from Inadequate Iron,None,5.0,5.0,Female,5.0
+integra f,25-34,Anemia from Inadequate Iron,fall,5.0,5.0,Female,5.0
 intuniv,7-12,Attention Deficit Disorder with Hyperactivity,summer,5.0,5.0,Male,5.0
 intuniv,13-18,Attention Deficit Disorder with Hyperactivity,summer,3.0,2.0,Male,2.0
 invega,7-12,Manic-Depression,spring,4.0,3.0,Female,3.0
@@ -2333,12 +2333,12 @@ invega sustenna syringe,25-34,Other,winter,1.0,1.0,Male,1.0
 invokana,25-34,Type 2 Diabetes Mellitus,winter,5.0,5.0,Male,5.0
 iodine liquid,25-34,Other,fall,3.0,3.0,Male,3.0
 irenka,25-34,Anxiousness associated with Depression,fall,4.0,4.0,Female,5.0
-iron,13-18,Anemia from Inadequate Iron,None,3.0,2.0,Female,2.0
+iron,13-18,Anemia from Inadequate Iron,fall,3.0,2.0,Female,2.0
 iron (dried) 160 mg (50 iron) tablet,extended release,55-64,Anemia from Inadequate Iron,summer,2.0,1.0,Female,3.0
 iron 100 plus,25-34,Anemia from Inadequate Iron,winter,3.0,2.0,Female,2.0
 isibloom,19-24,Other,summer,5.0,5.0,Female,4.0
-isomethept-dichloralp-acetamin,25-34,Headache caused by Disorder of Cranial Blood Vessels,None,1.0,1.0,Female,2.0
-isometheptene 65 mg-caffeine 20 mg-acetaminophen 325 mg tablet non-opioid analgesic/antipyretic, non-salicylate,0-2,Other,None,2.0,2.0,Female,3.0
+isomethept-dichloralp-acetamin,25-34,Headache caused by Disorder of Cranial Blood Vessels,fall,1.0,1.0,Female,2.0
+isometheptene 65 mg-caffeine 20 mg-acetaminophen 325 mg tablet non-opioid analgesic/antipyretic, non-salicylate,0-2,Other,fall,2.0,2.0,Female,3.0
 isoniazid,13-18,Inactive Tuberculosis,spring,4.0,4.0,Female,4.0
 isoniazid,25-34,Inactive Tuberculosis,fall,3.0,5.0,Female,5.0
 isotretinoin capsule,13-18,Severe Difficult to Treat Nodular Acne,summer,5.0,4.0,Male,4.0
@@ -2371,7 +2371,7 @@ kariva,13-18,Birth Control,winter,5.0,5.0,Female,5.0
 kariva,13-18,Birth Control,spring,1.0,1.0,Female,1.0
 kariva,19-24,Birth Control,spring,4.0,4.0,Female,4.0
 kariva,19-24,Birth Control,fall,2.0,2.0,Female,3.0
-kariva,25-34,Birth Control,None,5.0,3.0,Female,5.0
+kariva,25-34,Birth Control,fall,5.0,3.0,Female,5.0
 keflex,7-12,Other,fall,2.0,4.0,Male,1.0
 keflex,25-34,Skin Infection,summer,5.0,5.0,Female,5.0
 keflex,25-34,Urinary Tract Infection caused by Klebsiella Bacteria,spring,5.0,4.0,Female,4.0
@@ -2380,7 +2380,7 @@ kenalog aerosol,25-34,Contact Dermatitis,spring,5.0,4.0,Female,4.0
 keppra,3-6,Other,winter,5.0,3.0,Female,3.0
 keppra,13-18,Convulsive Seizures,spring,5.0,5.0,Female,4.0
 keppra,13-18,Simple Partial Seizures,summer,5.0,5.0,Female,5.0
-keppra,13-18,Simple Partial Seizures,None,3.0,3.0,Female,3.0
+keppra,13-18,Simple Partial Seizures,fall,3.0,3.0,Female,3.0
 keppra,13-18,Other,winter,5.0,3.0,Male,1.0
 keppra,19-24,Additional Medication to Treat Partial Seizures,winter,5.0,5.0,Female,5.0
 keppra,19-24,Simple Partial Seizures,spring,5.0,5.0,Female,5.0
@@ -2391,7 +2391,7 @@ keppra,25-34,Simple Partial Seizures,spring,5.0,5.0,Male,5.0
 keppra,25-34,Convulsive Seizures,winter,5.0,5.0,Female,5.0
 keppra,25-34,Convulsive Seizures,fall,5.0,3.0,Male,3.0
 keppra,25-34,Simple Partial Seizures,fall,5.0,5.0,Female,4.0
-keppra,25-34,Convulsive Seizures,None,3.0,3.0,Female,3.0
+keppra,25-34,Convulsive Seizures,fall,3.0,3.0,Female,3.0
 keppra,25-34,Simple Partial Seizures,fall,4.0,4.0,Female,3.0
 keppra,25-34,Additional Medication for Myoclonic Epilepsy,fall,5.0,4.0,Male,4.0
 keppra,25-34,Other,fall,4.0,1.0,Female,3.0
@@ -2406,10 +2406,10 @@ ketoconazole gel,25-34,Skin Infection due to a Candida Yeast,spring,3.0,3.0,Male
 ketoconazole shampoo,3-6,Ringworm of Scalp,fall,2.0,1.0,Female,1.0
 ketoconazole shampoo,25-34,Skin Infection due to a Candida Yeast,spring,3.0,3.0,Male,3.0
 ketoprofen,13-18,Painful Periods,spring,5.0,5.0,Female,5.0
-ketoprofen,25-34,Pain,None,1.0,1.0,Female,1.0
+ketoprofen,25-34,Pain,fall,1.0,1.0,Female,1.0
 ketoprofen,25-34,Pain,fall,4.0,1.0,Male,2.0
 ketoprofen capsule, extended release pellets 24 hr,13-18,Painful Periods,spring,5.0,5.0,Female,5.0
-ketoprofen capsule, extended release pellets 24 hr,25-34,Pain,None,1.0,1.0,Female,1.0
+ketoprofen capsule, extended release pellets 24 hr,25-34,Pain,fall,1.0,1.0,Female,1.0
 ketoprofen capsule, extended release pellets 24 hr,25-34,Pain,fall,4.0,1.0,Male,2.0
 ketorolac tromethamine,13-18,Severe Pain,summer,3.0,1.0,Female,2.0
 ketorolac tromethamine,13-18,Acute Pain Following an Operation,winter,4.0,3.0,Male,3.0
@@ -2418,7 +2418,7 @@ ketorolac tromethamine,25-34,Pain,winter,1.0,1.0,Male,1.0
 ketorolac tromethamine,25-34,Pain,winter,4.0,4.0,Female,4.0
 khedezla,25-34,Major Depressive Disorder,winter,5.0,5.0,Female,5.0
 klonopin,65-74,Other,summer,3.0,2.0,Female,3.0
-klonopin,13-18,Other,None,3.0,3.0,Female,3.0
+klonopin,13-18,Other,fall,3.0,3.0,Female,3.0
 klonopin,19-24,Panic Disorder,winter,5.0,5.0,Female,5.0
 klonopin,19-24,Panic Disorder,summer,3.0,3.0,Female,3.0
 klonopin,19-24,Panic Disorder,winter,5.0,5.0,Male,5.0
@@ -2442,7 +2442,7 @@ klonopin,25-34,Panic Disorder,summer,5.0,5.0,Female,5.0
 klonopin,25-34,Panic Disorder,spring,4.0,3.0,Female,4.0
 klonopin,25-34,Panic Disorder,fall,4.0,1.0,Female,2.0
 klonopin,25-34,Panic Disorder,fall,5.0,5.0,Female,5.0
-klonopin,25-34,Panic Disorder,None,3.0,3.0,Female,3.0
+klonopin,25-34,Panic Disorder,fall,3.0,3.0,Female,3.0
 klonopin,25-34,Panic Disorder,summer,5.0,5.0,Female,4.0
 klonopin,25-34,Other,spring,4.0,4.0,Female,3.0
 klonopin,25-34,Panic Disorder,winter,5.0,5.0,Female,5.0
@@ -2457,28 +2457,28 @@ labetalol hcl,25-34,High Blood Pressure,winter,3.0,5.0,Female,4.0
 lactaid fast act,25-34,Inability of Body to Handle Lactose or Milk Sugar,fall,5.0,5.0,Female,5.0
 lactic acid lotion,25-34,Other,summer,5.0,4.0,Female,5.0
 lactinex,3-6,Diarrhea,summer,3.0,3.0,Female,3.0
-lactinex,25-34,Diarrhea,None,4.0,3.0,Female,3.0
+lactinex,25-34,Diarrhea,fall,4.0,3.0,Female,3.0
 lactinex tablet, chewable,3-6,Diarrhea,summer,3.0,3.0,Female,3.0
-lactinex tablet, chewable,25-34,Diarrhea,None,4.0,3.0,Female,3.0
+lactinex tablet, chewable,25-34,Diarrhea,fall,4.0,3.0,Female,3.0
 lamictal,7-12,Epileptic Seizure,winter,5.0,4.0,Female,4.0
 lamictal,13-18,Epileptic Seizure,fall,4.0,4.0,Female,4.0
 lamictal,13-18,Epileptic Seizure,winter,5.0,3.0,Female,3.0
 lamictal,13-18,Epileptic Seizure,spring,5.0,3.0,Female,5.0
-lamictal,13-18,Manic-Depression,None,5.0,5.0,Female,5.0
-lamictal,13-18,Bipolar Depression,None,2.0,4.0,Female,4.0
+lamictal,13-18,Manic-Depression,fall,5.0,5.0,Female,5.0
+lamictal,13-18,Bipolar Depression,fall,2.0,4.0,Female,4.0
 lamictal,19-24,Bipolar Depression,winter,4.0,4.0,Female,5.0
 lamictal,19-24,Bipolar Depression,spring,5.0,4.0,Female,5.0
 lamictal,19-24,Bipolar Depression,spring,5.0,4.0,Female,4.0
 lamictal,19-24,Other,winter,3.0,4.0,Female,4.0
 lamictal,19-24,Bipolar Depression,spring,2.0,3.0,Male,5.0
 lamictal,19-24,Bipolar Depression,fall,5.0,4.0,Female,5.0
-lamictal,19-24,Bipolar Depression,None,4.0,4.0,Male,3.0
+lamictal,19-24,Bipolar Depression,fall,4.0,4.0,Male,3.0
 lamictal,19-24,Epileptic Seizure,spring,5.0,4.0,Female,4.0
 lamictal,19-24,Manic-Depression,spring,4.0,5.0,Female,5.0
 lamictal,19-24,Bipolar Depression,spring,5.0,5.0,Female,5.0
-lamictal,25-34,Bipolar Depression,None,5.0,5.0,Female,5.0
+lamictal,25-34,Bipolar Depression,fall,5.0,5.0,Female,5.0
 lamictal,25-34,Other,fall,5.0,3.0,Female,3.0
-lisinopril,55-64,High Blood Pressure,None,5.0,2.0,Male,4.0
+lisinopril,55-64,High Blood Pressure,fall,5.0,2.0,Male,4.0
 lisinopril,45-54,Migraine Prevention,winter,4.0,4.0,Female,4.0
 lisinopril,7-12,High Blood Pressure,fall,4.0,4.0,Female,4.0
 lisinopril,19-24,High Blood Pressure,winter,5.0,3.0,Male,3.0
@@ -2492,9 +2492,9 @@ lisinopril,25-34,High Blood Pressure,spring,5.0,4.0,Female,5.0
 lisinopril,25-34,High Blood Pressure,winter,3.0,3.0,Female,3.0
 lisinopril,25-34,Chronic Heart Failure,spring,3.0,3.0,Female,3.0
 lisinopril,25-34,High Blood Pressure,fall,4.0,4.0,Male,4.0
-lisinopril,25-34,High Blood Pressure,None,5.0,2.0,Male,5.0
+lisinopril,25-34,High Blood Pressure,fall,5.0,2.0,Male,5.0
 lisinopril,25-34,High Blood Pressure,winter,5.0,5.0,Male,5.0
-lisinopril,25-34,High Blood Pressure,None,1.0,1.0,Male,1.0
+lisinopril,25-34,High Blood Pressure,fall,1.0,1.0,Male,1.0
 lisinopril,25-34,High Blood Pressure,spring,4.0,4.0,Female,4.0
 lisinopril,25-34,Heart Attack,spring,5.0,5.0,Female,5.0
 lisinopril,25-34,High Blood Pressure,winter,3.0,3.0,Female,3.0
@@ -2503,8 +2503,8 @@ lisinopril,25-34,High Blood Pressure,winter,5.0,5.0,Female,5.0
 lisinopril,25-34,High Blood Pressure,winter,4.0,3.0,Female,3.0
 lisinopril,25-34,High Blood Pressure,winter,5.0,5.0,Female,5.0
 lisinopril,25-34,High Blood Pressure,fall,4.0,4.0,Female,4.0
-lisinopril solution,65-74,High Blood Pressure,None,4.0,3.0,Male,3.0
-lisinopril solution,55-64,High Blood Pressure,None,5.0,2.0,Male,4.0
+lisinopril solution,65-74,High Blood Pressure,fall,4.0,3.0,Male,3.0
+lisinopril solution,55-64,High Blood Pressure,fall,5.0,2.0,Male,4.0
 lisinopril solution,45-54,Migraine Prevention,winter,4.0,4.0,Female,4.0
 lisinopril solution,7-12,High Blood Pressure,fall,4.0,4.0,Female,4.0
 lisinopril solution,19-24,High Blood Pressure,winter,5.0,3.0,Male,3.0
@@ -2519,18 +2519,18 @@ lisinopril solution,25-34,High Blood Pressure,winter,5.0,5.0,Male,5.0
 lisinopril solution,25-34,High Blood Pressure,winter,3.0,3.0,Female,3.0
 lisinopril solution,25-34,Chronic Heart Failure,spring,3.0,3.0,Female,3.0
 lisinopril solution,25-34,High Blood Pressure,fall,4.0,4.0,Male,4.0
-lisinopril solution,25-34,High Blood Pressure,None,1.0,1.0,Male,1.0
+lisinopril solution,25-34,High Blood Pressure,fall,1.0,1.0,Male,1.0
 lisinopril solution,25-34,High Blood Pressure,winter,5.0,4.0,Female,3.0
 lisinopril solution,25-34,High Blood Pressure,winter,5.0,5.0,Female,5.0
 lisinopril solution,25-34,High Blood Pressure,winter,3.0,3.0,Female,3.0
-lisinopril solution,25-34,High Blood Pressure,None,5.0,2.0,Male,5.0
+lisinopril solution,25-34,High Blood Pressure,fall,5.0,2.0,Male,5.0
 lisinopril solution,25-34,High Blood Pressure,fall,4.0,4.0,Female,4.0
 lisinopril solution,25-34,High Blood Pressure,winter,4.0,3.0,Female,3.0
 lisinopril solution,25-34,High Blood Pressure,winter,5.0,5.0,Female,5.0
 lisinopril solution,25-34,High Blood Pressure,summer,5.0,5.0,Male,4.0
 lisinopril solution,25-34,High Blood Pressure,spring,5.0,5.0,Male,5.0
 lisinopril-hydrochlorothiazide,25-34,High Blood Pressure,fall,5.0,5.0,Male,5.0
-lisinopril-hydrochlorothiazide,25-34,High Blood Pressure,None,4.0,3.0,Female,3.0
+lisinopril-hydrochlorothiazide,25-34,High Blood Pressure,fall,4.0,3.0,Female,3.0
 lisinopril-hydrochlorothiazide,25-34,High Blood Pressure,winter,5.0,5.0,Female,5.0
 lisinopril-hydrochlorothiazide,25-34,High Blood Pressure,winter,5.0,4.0,Female,4.0
 lithium,19-24,Bipolar Depression,fall,5.0,5.0,Female,5.0
@@ -2539,9 +2539,9 @@ lithium carbonate,7-12,Manic-Depression,fall,5.0,5.0,Male,5.0
 lithium carbonate,13-18,Manic-Depression,spring,4.0,4.0,Female,4.0
 lithium carbonate,19-24,Bipolar Depression,winter,5.0,5.0,Female,5.0
 lithium carbonate,19-24,Bipolar Depression,winter,1.0,1.0,Female,3.0
-lithium carbonate,19-24,Bipolar Depression,None,5.0,4.0,Male,4.0
+lithium carbonate,19-24,Bipolar Depression,fall,5.0,4.0,Male,4.0
 lithium carbonate,25-34,Mania associated with Bipolar Disorder,fall,4.0,4.0,Male,4.0
-lithium carbonate,25-34,Rapid Cycle Manic-Depression,None,5.0,5.0,Female,5.0
+lithium carbonate,25-34,Rapid Cycle Manic-Depression,fall,5.0,5.0,Female,5.0
 lithium carbonate,25-34,Bipolar Depression,spring,1.0,1.0,Female,1.0
 lithium carbonate,25-34,Bipolar Disorder in Remission,spring,4.0,4.0,Male,3.0
 lithium carbonate,25-34,Bipolar Depression,winter,4.0,5.0,Female,5.0
@@ -2568,7 +2568,7 @@ lyrica,25-34,Disorder characterized by Stiff, Tender & Painful Muscles,fall,4.0,
 lyrica,25-34,Neuropathic Pain,fall,3.0,4.0,Female,4.0
 lyrica,25-34,Other,winter,5.0,5.0,Male,5.0
 lyrica,25-34,Other,fall,5.0,3.0,Female,2.0
-lyrica,25-34,Other,None,5.0,5.0,Female,5.0
+lyrica,25-34,Other,fall,5.0,5.0,Female,5.0
 lyrica,25-34,Neuropathic Pain,winter,5.0,1.0,Female,1.0
 lyrica,25-34,Neuropathic Pain,summer,5.0,4.0,Female,4.0
 lyrica,25-34,Neuropathic Pain,summer,5.0,3.0,Female,3.0
@@ -2580,7 +2580,7 @@ lyrica,25-34,Disorder characterized by Stiff, Tender & Painful Muscles,spring,5.
 lyrica,25-34,Other,winter,5.0,3.0,Female,3.0
 lyrica,25-34,Disorder characterized by Stiff, Tender & Painful Muscles,winter,5.0,5.0,Female,5.0
 lyrica,25-34,Neuropathic Pain,winter,2.0,4.0,Female,3.0
-macrobid,25-34,Urinary Tract Infection due to E. Coli Bacteria,None,3.0,1.0,Female,1.0
+macrobid,25-34,Urinary Tract Infection due to E. Coli Bacteria,fall,3.0,1.0,Female,1.0
 macrobid,25-34,Urinary Tract Infection due to E. Coli Bacteria,spring,5.0,3.0,Female,3.0
 macrobid,25-34,Urinary Tract Infection Prevention,winter,4.0,4.0,Female,4.0
 macrobid,25-34,Infection of the Urinary Tract caused by Enterococcus,fall,2.0,3.0,Female,4.0
@@ -2588,7 +2588,7 @@ macrobid,25-34,Bladder Infection caused by Enterobacter,fall,4.0,4.0,Female,4.0
 macrobid,25-34,Bladder Infection caused by Enterobacter,fall,4.0,4.0,Female,4.0
 macrobid,25-34,Urinary Tract Infection Prevention,summer,4.0,4.0,Female,4.0
 macrobid,25-34,Other,summer,5.0,5.0,Female,5.0
-macrodantin,7-12,Urinary Tract Infection Prevention,None,3.0,3.0,Female,3.0
+macrodantin,7-12,Urinary Tract Infection Prevention,fall,3.0,3.0,Female,3.0
 macrodantin,7-12,Urinary Tract Infection due to E. Coli Bacteria,winter,5.0,5.0,Female,5.0
 mag-al plus xs,25-34,Conditions of Excess Stomach Acid Secretion,winter,5.0,5.0,Female,5.0
 maginex,25-34,Emptying of the Bowel,fall,3.0,3.0,Male,3.0
@@ -2606,8 +2606,8 @@ maxalt,25-34,Other,spring,5.0,5.0,Female,5.0
 maxalt,25-34,Migraine Headache,winter,5.0,5.0,Female,4.0
 maxalt,25-34,Migraine Headache,summer,4.0,3.0,Female,3.0
 maxalt,25-34,Migraine Headache,winter,5.0,4.0,Female,4.0
-maxalt,25-34,Migraine Headache,None,5.0,5.0,Female,5.0
-maxalt mlt,25-34,Migraine Headache,None,5.0,1.0,Female,2.0
+maxalt,25-34,Migraine Headache,fall,5.0,5.0,Female,5.0
+maxalt mlt,25-34,Migraine Headache,fall,5.0,1.0,Female,2.0
 maxalt mlt,25-34,Migraine Headache,spring,5.0,5.0,Female,5.0
 maxfe,19-24,Other,winter,5.0,5.0,Female,5.0
 maxitrol ointment,25-34,Inflammation of Eyelid Edges and the Lining of the Eye,winter,5.0,4.0,Female,5.0
@@ -2629,7 +2629,7 @@ medroxyprogesterone acetate,25-34,Absence of Menstrual Periods in Woman Who Has 
 medroxyprogesterone acetate,25-34,Disease of Ovaries with Cysts,spring,5.0,5.0,Female,5.0
 medroxyprogesterone acetate,25-34,Abnormal Uterine Bleeding caused by Imbalance of Hormones,winter,5.0,4.0,Female,3.0
 megace,25-34,Cancer in the Lining of the Uterus,spring,4.0,4.0,Female,4.0
-megestrol acetate, micronized  (bulk) 100 % powder,55-64,Other,None,5.0,5.0,Female,5.0
+megestrol acetate, micronized  (bulk) 100 % powder,55-64,Other,fall,5.0,5.0,Female,5.0
 megestrol acetate, micronized  (bulk) 100 % powder,25-34,Other,summer,1.0,1.0,Female,1.0
 melatonin tablet,19-24,Other,winter,5.0,5.0,Female,5.0
 melatonin tablet,disintegrating,3-6,Other,spring,4.0,5.0,Female,4.0
@@ -2649,7 +2649,7 @@ mesalamine 400 mg capsule (with delayed release tablets inside) inflammatory bow
 mesalamine capsule, extended release,25-34,Ulcerative Colitis currently Without Symptoms,fall,5.0,4.0,Female,4.0
 mesalamine er 0.375 gram capsule,extended release 24 hr inflammatory bowel agents,25-34,Ulcerative Colitis currently Without Symptoms,fall,5.0,4.0,Female,4.0
 mesalamine tablet, delayed release (enteric coated),25-34,Ulcerative Colitis currently Without Symptoms,fall,5.0,4.0,Female,4.0
-mestinon tablet,13-18,Myasthenia Gravis,None,4.0,4.0,Female,4.0
+mestinon tablet,13-18,Myasthenia Gravis,fall,4.0,4.0,Female,4.0
 metadate cd,7-12,Attention Deficit Disorder with Hyperactivity,summer,5.0,4.0,Male,3.0
 metadate cd,7-12,Attention Deficit Disorder with Hyperactivity,summer,5.0,5.0,Male,5.0
 metadate er,7-12,Attention Deficit Disorder with Hyperactivity,winter,5.0,4.0,Female,3.0
@@ -2711,7 +2711,7 @@ methadone hcl,25-34,Pain,summer,3.0,4.0,Male,4.0
 methadone hcl,25-34,Pain,winter,4.0,3.0,Female,3.0
 methadone hcl solution,45-54,Other,spring,4.0,4.0,Female,4.0
 methadone hcl solution,19-24,Pain,summer,1.0,1.0,Male,1.0
-methadone hcl solution,19-24,Other,None,5.0,5.0,Female,5.0
+methadone hcl solution,19-24,Other,fall,5.0,5.0,Female,5.0
 methadone hcl solution,25-34,Narcotic Addiction,fall,5.0,5.0,Male,5.0
 methadone hcl solution,25-34,Other,fall,4.0,5.0,Female,2.0
 methadone hcl solution,25-34,Pain,summer,5.0,4.0,Male,4.0
@@ -2723,7 +2723,7 @@ methadone hcl solution,25-34,Narcotic Addiction,summer,5.0,3.0,Female,5.0
 methadone hcl solution,25-34,Severe Pain,summer,5.0,5.0,Female,5.0
 methadone hcl solution,25-34,Narcotic Addiction,fall,3.0,3.0,Male,4.0
 methadone hcl solution,25-34,Pain,spring,5.0,5.0,Female,4.0
-methadone hcl solution,25-34,Narcotic Addiction,None,4.0,4.0,Male,5.0
+methadone hcl solution,25-34,Narcotic Addiction,fall,4.0,4.0,Male,5.0
 methadone hcl solution,25-34,Prevention of Opiate Drug Abuse,fall,5.0,5.0,Female,5.0
 methadone hcl solution,25-34,Pain,summer,4.0,4.0,Female,5.0
 methadone hcl solution,25-34,Symptoms from Stopping Treatment with Opioid Drugs,summer,5.0,5.0,Female,5.0
@@ -2740,7 +2740,7 @@ methadone hcl solution,25-34,Pain,summer,3.0,4.0,Male,4.0
 methadone hcl solution,25-34,Pain,winter,4.0,3.0,Female,3.0
 methadone hcl syringe,25-34,Narcotic Addiction,summer,5.0,5.0,Male,5.0
 methadone hcl tablet, soluble,45-54,Other,spring,4.0,4.0,Female,4.0
-methadone hcl tablet, soluble,19-24,Other,None,5.0,5.0,Female,5.0
+methadone hcl tablet, soluble,19-24,Other,fall,5.0,5.0,Female,5.0
 methadone hcl tablet, soluble,19-24,Pain,summer,1.0,1.0,Male,1.0
 methadone hcl tablet, soluble,25-34,Narcotic Addiction,fall,5.0,5.0,Male,5.0
 methadone hcl tablet, soluble,25-34,Other,fall,4.0,5.0,Female,2.0
@@ -2751,7 +2751,7 @@ methadone hcl tablet, soluble,25-34,Narcotic Addiction,summer,5.0,5.0,Female,5.0
 methadone hcl tablet, soluble,25-34,Narcotic Addiction,summer,5.0,3.0,Female,5.0
 methadone hcl tablet, soluble,25-34,Severe Pain,summer,5.0,5.0,Female,5.0
 methadone hcl tablet, soluble,25-34,Pain,spring,5.0,5.0,Female,4.0
-methadone hcl tablet, soluble,25-34,Narcotic Addiction,None,4.0,4.0,Male,5.0
+methadone hcl tablet, soluble,25-34,Narcotic Addiction,fall,4.0,4.0,Male,5.0
 methadone hcl tablet, soluble,25-34,Prevention of Opiate Drug Abuse,fall,5.0,5.0,Female,5.0
 methadone hcl tablet, soluble,25-34,Pain,summer,4.0,4.0,Female,5.0
 methadone hcl tablet, soluble,25-34,Symptoms from Stopping Treatment with Opioid Drugs,summer,5.0,5.0,Female,5.0
@@ -2777,7 +2777,7 @@ methamphetamine hcl,25-34,Other,spring,5.0,3.0,Male,3.0
 methamphetamine hcl,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,5.0,Male,5.0
 methazolamide,35-44,High Eye Pressure or Glaucoma that May Worsen without Treatment,spring,5.0,3.0,Female,5.0
 methergine,19-24,Incomplete Abortion,summer,1.0,1.0,Female,1.0
-methergine,25-34,Hemorrhage Following Delivery of Baby,None,5.0,5.0,Female,5.0
+methergine,25-34,Hemorrhage Following Delivery of Baby,fall,5.0,5.0,Female,5.0
 methocarbamol,45-54,Muscle Spasm,spring,3.0,1.0,Male,2.0
 methocarbamol,3-6,Muscle Spasm,summer,5.0,5.0,Male,5.0
 methocarbamol,19-24,Muscle Spasm,fall,4.0,3.0,Female,4.0
@@ -2787,7 +2787,7 @@ methocarbamol,25-34,Muscle Spasm,fall,5.0,5.0,Female,4.0
 methocarbamol,25-34,Muscle Spasm,spring,4.0,1.0,Female,2.0
 methocarbamol,25-34,Muscle Spasm,spring,5.0,5.0,Female,5.0
 methocarbamol,25-34,Other,spring,3.0,2.0,Male,2.0
-methocarbamol,25-34,Other,None,3.0,4.0,Male,4.0
+methocarbamol,25-34,Other,fall,3.0,4.0,Male,4.0
 methocarbamol,25-34,Muscle Spasm,spring,4.0,4.0,Female,4.0
 methocarbamol,25-34,Muscle Spasm,spring,5.0,4.0,Male,3.0
 methocarbamol,25-34,Muscle Spasm,fall,4.0,4.0,Male,4.0
@@ -2796,7 +2796,7 @@ methocarbamol,25-34,Other,spring,2.0,2.0,Male,2.0
 methocarbamol,25-34,Muscle Spasm,winter,1.0,1.0,Female,1.0
 methocarbamol 100 mg/ml injection solution central muscle relaxants,13-18,Muscle Spasm,fall,4.0,3.0,Female,2.0
 methotrexate,55-64,Rheumatoid Arthritis,summer,4.0,3.0,Female,3.0
-methotrexate,19-24,Psoriasis,None,4.0,5.0,Female,5.0
+methotrexate,19-24,Psoriasis,fall,4.0,5.0,Female,5.0
 methotrexate,25-34,Rheumatoid Arthritis,fall,5.0,5.0,Female,5.0
 methotrexate,25-34,Psoriasis associated with Arthritis,spring,5.0,3.0,Female,3.0
 methotrexate sodium vial,25-34,Rheumatoid Arthritis,fall,3.0,4.0,Female,4.0
@@ -2808,7 +2808,7 @@ morphine tablet,oral only, extended release,13-18,Pain,fall,3.0,2.0,Female,2.0
 morphine tablet,oral only, extended release,19-24,Chronic Pain with Narcotic Drug Tolerance,winter,2.0,3.0,Male,3.0
 morphine tablet,oral only, extended release,19-24,Pain,fall,5.0,5.0,Male,5.0
 morphine tablet,oral only, extended release,25-34,Other,spring,2.0,1.0,Female,2.0
-morphine tablet,oral only, extended release,25-34,Pain,None,5.0,5.0,Female,5.0
+morphine tablet,oral only, extended release,25-34,Pain,fall,5.0,5.0,Female,5.0
 morphine tablet,oral only, extended release,25-34,Pain,spring,5.0,5.0,Female,5.0
 morphine tablet,oral only, extended release,25-34,Pain,spring,5.0,5.0,Male,5.0
 morphine tablet,oral only, extended release,25-34,Pain,winter,5.0,3.0,Male,1.0
@@ -2817,7 +2817,7 @@ morphine tablet,oral only, extended release,25-34,Pain,summer,5.0,4.0,Female,3.0
 morphine tablet,oral only, extended release,25-34,Pain,summer,5.0,4.0,Female,5.0
 morphine tablet,oral only, extended release,25-34,Pain,winter,4.0,4.0,Female,3.0
 morphine tablet,oral only, extended release,25-34,Pain,winter,5.0,4.0,Male,4.0
-morphine tablet,oral only, extended release,25-34,Pain,None,4.0,1.0,Female,1.0
+morphine tablet,oral only, extended release,25-34,Pain,fall,4.0,1.0,Female,1.0
 motion sickness,19-24,Sensation of Spinning or Whirling,winter,5.0,2.0,Male,3.0
 motrin ib,25-34,Fever,summer,3.0,3.0,Female,3.0
 motrin ib,25-34,Pain,fall,5.0,4.0,Male,4.0
@@ -2837,7 +2837,7 @@ ms contin,25-34,Severe Pain,summer,4.0,1.0,Female,1.0
 msm,35-44,Other,summer,5.0,1.0,Female,1.0
 mucinex,19-24,Cold Symptoms,winter,5.0,2.0,Female,2.0
 mucinex,25-34,Cough,winter,3.0,2.0,Female,1.0
-mucinex cough,3-6,Cold Symptoms,None,2.0,2.0,Male,2.0
+mucinex cough,3-6,Cold Symptoms,fall,2.0,2.0,Male,2.0
 mucinex d tablet, extended release 12 hr,13-18,Cold Symptoms,spring,5.0,1.0,Female,1.0
 mucinex d tablet, extended release 12 hr,25-34,Cold Symptoms,winter,5.0,5.0,Female,5.0
 mucinex dm,25-34,Cough,fall,5.0,4.0,Female,4.0
@@ -2850,8 +2850,8 @@ multigen,25-34,Anemia from Inadequate Iron,spring,4.0,4.0,Female,4.0
 mupirocin ointment,3-6,Atopic Dermatitis,summer,5.0,5.0,Female,5.0
 mupirocin ointment,19-24,Other,fall,5.0,5.0,Female,5.0
 mupirocin ointment,25-34,Type of Skin Infection - Impetigo,fall,5.0,1.0,Female,1.0
-muro 128 2 % eye drops,25-34,Fluid Accumulation in Cornea of the Eye causing Swelling,None,5.0,5.0,Female,5.0
-muro 128 5 % eye ointment,25-34,Fluid Accumulation in Cornea of the Eye causing Swelling,None,5.0,5.0,Female,5.0
+muro 128 2 % eye drops,25-34,Fluid Accumulation in Cornea of the Eye causing Swelling,fall,5.0,5.0,Female,5.0
+muro 128 5 % eye ointment,25-34,Fluid Accumulation in Cornea of the Eye causing Swelling,fall,5.0,5.0,Female,5.0
 mycophenolate mofetil,25-34,Other,spring,3.0,4.0,Female,3.0
 mycophenolate mofetil suspension, reconstituted,25-34,Other,spring,3.0,4.0,Female,3.0
 mydriacyl drops,25-34,Dilated Pupils Before or After Surgery,spring,5.0,3.0,Male,3.0
@@ -2948,9 +2948,9 @@ naproxen tablet,25-34,Pain,fall,4.0,2.0,Female,2.0
 nardil,25-34,Depression,spring,5.0,5.0,Male,5.0
 nasal spray (oxymetazoline) 0.05 %,25-34,Stuffy Nose,fall,5.0,5.0,Male,5.0
 nasal spray (sodium chloride) 0.65 % aerosol,13-18,Other,fall,5.0,5.0,Female,5.0
-nasonex aerosol, spray with pump,19-24,Allergic Rhinitis Prevention,None,5.0,5.0,Female,5.0
+nasonex aerosol, spray with pump,19-24,Allergic Rhinitis Prevention,fall,5.0,5.0,Female,5.0
 nasonex aerosol, spray with pump,25-34,Chronic Inflammation of the Nose Not due to Allergies,winter,5.0,1.0,Male,2.0
-nasonex aerosol, spray with pump,25-34,Allergic Rhinitis Prevention,None,5.0,4.0,Female,4.0
+nasonex aerosol, spray with pump,25-34,Allergic Rhinitis Prevention,fall,5.0,4.0,Female,4.0
 natazia,25-34,Birth Control,spring,4.0,4.0,Female,5.0
 necon,19-24,Birth Control,spring,5.0,5.0,Female,5.0
 necon 0.5/35 (28) 0.5 mg-35 mcg tablet,25-34,Birth Control,winter,5.0,5.0,Female,5.0
@@ -2966,7 +2966,7 @@ neurontin,55-64,Pain Originating From a Nerve,spring,4.0,5.0,Male,5.0
 neurontin,45-54,Acute Pain Following an Operation,winter,3.0,3.0,Female,3.0
 neurontin,19-24,Pain Originating From a Nerve,spring,3.0,4.0,Female,3.0
 neurontin,19-24,Epileptic Seizure,summer,3.0,1.0,Female,2.0
-neurontin,19-24,Pain Originating From a Nerve,None,5.0,5.0,Female,4.0
+neurontin,19-24,Pain Originating From a Nerve,fall,5.0,5.0,Female,4.0
 neurontin,25-34,Pain Originating From a Nerve,winter,5.0,5.0,Female,5.0
 neurontin,25-34,Other,summer,5.0,3.0,Female,3.0
 neurontin,25-34,Pain Originating From a Nerve,spring,5.0,5.0,Male,4.0
@@ -2992,7 +2992,7 @@ neurontin capsule,55-64,Pain Originating From a Nerve,spring,4.0,5.0,Male,5.0
 neurontin capsule,45-54,Acute Pain Following an Operation,winter,3.0,3.0,Female,3.0
 neurontin capsule,19-24,Epileptic Seizure,summer,3.0,1.0,Female,2.0
 neurontin capsule,19-24,Pain Originating From a Nerve,spring,3.0,4.0,Female,3.0
-neurontin capsule,19-24,Pain Originating From a Nerve,None,5.0,5.0,Female,4.0
+neurontin capsule,19-24,Pain Originating From a Nerve,fall,5.0,5.0,Female,4.0
 neurontin capsule,25-34,Neuropathic Pain,winter,2.0,1.0,Female,2.0
 neurontin capsule,25-34,Essential Tremor,spring,4.0,3.0,Female,3.0
 neurontin capsule,25-34,Extreme Discomfort in Calves when Sitting or Lying Down,summer,5.0,5.0,Female,5.0
@@ -3014,7 +3014,7 @@ neurontin capsule,25-34,Pain Originating From a Nerve,fall,5.0,2.0,Female,3.0
 neurontin capsule,25-34,Neuropathic Pain,winter,5.0,3.0,Female,3.0
 neutrogena t-gel 0.5 % shampoo,25-34,Psoriasis,spring,5.0,5.0,Female,5.0
 neutrogena t-gel 0.5 % shampoo,25-34,Other,summer,3.0,1.0,Female,1.0
-nevanac suspension, drops (final dose form),19-24,Postoperative Pain in Eye,None,5.0,5.0,Female,5.0
+nevanac suspension, drops (final dose form),19-24,Postoperative Pain in Eye,fall,5.0,5.0,Female,5.0
 nexplanon implant,19-24,Birth Control,spring,5.0,5.0,Female,5.0
 nexterone plastic bag, injection,19-24,Ventricular Fibrillation,summer,3.0,4.0,Female,4.0
 nikki,25-34,Birth Control,spring,5.0,1.0,Female,5.0
@@ -3035,8 +3035,8 @@ norco,25-34,Pain,summer,5.0,5.0,Female,4.0
 norco,25-34,Pain,spring,5.0,4.0,Female,4.0
 norco,25-34,Pain,fall,1.0,1.0,Female,1.0
 norco,25-34,Pain,winter,3.0,1.0,Male,2.0
-norco,25-34,Pain,None,4.0,5.0,Female,4.0
-norethindrone ac (lupaneta),13-18,Other,None,5.0,5.0,Female,5.0
+norco,25-34,Pain,fall,4.0,5.0,Female,4.0
+norethindrone ac (lupaneta),13-18,Other,fall,5.0,5.0,Female,5.0
 norgesic forte 50 mg-770 mg-60 mg tablet antiplatelet drugs-excluding asa 325 and below,19-24,Muscle Spasm,summer,5.0,5.0,Male,5.0
 norgestrel-ethiny estra,19-24,Painful Periods,winter,3.0,1.0,Female,1.0
 norinyl 1+35,25-34,Birth Control,spring,5.0,5.0,Female,5.0
@@ -3049,7 +3049,7 @@ nortriptyline hcl,25-34,Neuropathic Pain,spring,5.0,4.0,Female,4.0
 norvasc,25-34,High Blood Pressure,spring,4.0,4.0,Male,4.0
 norvasc,25-34,High Blood Pressure,spring,5.0,5.0,Male,4.0
 norvasc,25-34,High Blood Pressure,winter,5.0,5.0,Female,5.0
-norvasc,25-34,High Blood Pressure,None,2.0,3.0,Female,4.0
+norvasc,25-34,High Blood Pressure,fall,2.0,3.0,Female,4.0
 norvasc,25-34,High Blood Pressure,spring,5.0,4.0,Male,4.0
 novolog flexpen insulin pen,19-24,Type 1 Diabetes Mellitus,winter,5.0,3.0,Male,3.0
 novolog vial,25-34,Diabetes,summer,5.0,4.0,Male,4.0
@@ -3060,29 +3060,29 @@ nuvaring ring, vaginal,45-54,Birth Control,fall,3.0,1.0,Female,4.0
 nuvaring ring, vaginal,19-24,Birth Control,fall,5.0,5.0,Female,5.0
 nuvaring ring, vaginal,19-24,Birth Control,fall,5.0,5.0,Female,4.0
 nuvaring ring, vaginal,19-24,Birth Control,winter,4.0,5.0,Female,5.0
-nuvaring ring, vaginal,19-24,Birth Control,None,5.0,5.0,Female,5.0
+nuvaring ring, vaginal,19-24,Birth Control,fall,5.0,5.0,Female,5.0
 nuvaring ring, vaginal,19-24,Birth Control,summer,4.0,5.0,Female,5.0
 nuvaring ring, vaginal,19-24,Birth Control,winter,3.0,4.0,Female,5.0
 nuvaring ring, vaginal,25-34,Birth Control,summer,5.0,5.0,Female,5.0
 nuvaring ring, vaginal,25-34,Birth Control,fall,5.0,5.0,Female,5.0
 nuvaring ring, vaginal,25-34,Birth Control,fall,5.0,5.0,Female,5.0
-nuvaring ring, vaginal,25-34,Birth Control,None,5.0,4.0,Female,5.0
+nuvaring ring, vaginal,25-34,Birth Control,fall,5.0,4.0,Female,5.0
 nuvaring ring, vaginal,25-34,Birth Control,winter,4.0,4.0,Female,4.0
 nuvaring ring, vaginal,25-34,Birth Control,winter,5.0,5.0,Female,5.0
 nuvaring ring, vaginal,25-34,Other,winter,5.0,4.0,Female,5.0
-nuvigil,19-24,Recurring Sleep Episodes During the Day,None,5.0,5.0,Male,5.0
+nuvigil,19-24,Recurring Sleep Episodes During the Day,fall,5.0,5.0,Male,5.0
 nystatin,0-2,Thrush,fall,4.0,4.0,Female,4.0
 nystatin,25-34,Thrush,summer,4.0,4.0,Female,4.0
 nystatin suspension, (final dose form),0-2,Thrush,fall,4.0,4.0,Female,4.0
 nystatin suspension, (final dose form),25-34,Thrush,summer,4.0,4.0,Female,4.0
 nystatin-triamcinolone cream,25-34,Other,winter,4.0,2.0,Female,2.0
-ocella,13-18,Other,None,4.0,4.0,Female,4.0
+ocella,13-18,Other,fall,4.0,4.0,Female,4.0
 ocella,19-24,Birth Control,spring,5.0,5.0,Female,5.0
 ocella,19-24,Birth Control,spring,4.0,1.0,Female,5.0
 ocella,19-24,Birth Control,spring,5.0,3.0,Female,5.0
 ocella,25-34,Birth Control,winter,5.0,5.0,Female,5.0
 ocella,25-34,Disease of Ovaries with Cysts,winter,1.0,3.0,Female,3.0
-ocella,25-34,Birth Control,None,2.0,1.0,Female,3.0
+ocella,25-34,Birth Control,fall,2.0,1.0,Female,3.0
 ofloxacin 0.3 % ear drops,25-34,Acute Outer Ear Bacterial Infection due to Staphylococcus Aureus,spring,4.0,5.0,Female,4.0
 olanzapine,19-24,Schizophrenia,winter,5.0,3.0,Male,5.0
 olanzapine,25-34,Mania associated with Bipolar Disorder,summer,5.0,5.0,Male,5.0
@@ -3095,7 +3095,7 @@ olux foam,25-34,Skin Disease of the Scalp,winter,4.0,3.0,Female,3.0
 olux foam,25-34,Atopic Dermatitis,spring,3.0,5.0,Female,5.0
 omeclamox-pak,25-34,Ulcer of Duodenum caused by Bacteria Helicobacter Pylori,summer,5.0,5.0,Female,5.0
 omega 3-6-9 complex,25-34,Other,fall,4.0,5.0,Female,4.0
-omeprazole,55-64,Ulcer of the Duodenum,None,1.0,1.0,Male,1.0
+omeprazole,55-64,Ulcer of the Duodenum,fall,1.0,1.0,Male,1.0
 omeprazole,75 or over,Ulcer of Duodenum caused by Bacteria Helicobacter Pylori,spring,4.0,4.0,Male,4.0
 omeprazole,13-18,Heartburn,summer,3.0,2.0,Female,2.0
 omeprazole,25-34,Other,fall,1.0,1.0,Male,1.0
@@ -3104,7 +3104,7 @@ omeprazole,25-34,Other,spring,4.0,4.0,Male,5.0
 omeprazole,25-34,Conditions of Excess Stomach Acid Secretion,winter,5.0,3.0,Male,4.0
 omeprazole,25-34,Other,fall,5.0,1.0,Female,1.0
 omeprazole,25-34,Stomach Ulcer,winter,3.0,4.0,Female,4.0
-omeprazole capsule,delayed release (enteric coated),55-64,Ulcer of the Duodenum,None,1.0,1.0,Male,1.0
+omeprazole capsule,delayed release (enteric coated),55-64,Ulcer of the Duodenum,fall,1.0,1.0,Male,1.0
 omeprazole capsule,delayed release (enteric coated),75 or over,Ulcer of Duodenum caused by Bacteria Helicobacter Pylori,spring,4.0,4.0,Male,4.0
 omeprazole capsule,delayed release (enteric coated),13-18,Heartburn,summer,3.0,2.0,Female,2.0
 omeprazole capsule,delayed release (enteric coated),25-34,Other,fall,1.0,1.0,Male,1.0
@@ -3124,8 +3124,8 @@ ondansetron odt,19-24,Excessive Vomiting in Pregnancy,winter,5.0,4.0,Female,3.0
 ondansetron odt,25-34,Excessive Vomiting in Pregnancy,spring,5.0,5.0,Female,5.0
 ondansetron odt,25-34,Excessive Vomiting in Pregnancy,spring,5.0,5.0,Female,4.0
 ondansetron odt,25-34,Nausea and Vomiting,spring,4.0,3.0,Female,3.0
-one a day women's prenatal dha,19-24,Other,None,5.0,5.0,Female,5.0
-one a day women's prenatal dha,25-34,Pregnancy,None,5.0,5.0,Female,5.0
+one a day women's prenatal dha,19-24,Other,fall,5.0,5.0,Female,5.0
+one a day women's prenatal dha,25-34,Pregnancy,fall,5.0,5.0,Female,5.0
 one-a-day men's,25-34,Treatment to Prevent Mineral Deficiency,summer,2.0,3.0,Male,2.0
 opana,25-34,Pain,summer,5.0,5.0,Male,4.0
 opana,25-34,Pain,summer,5.0,4.0,Female,3.0
@@ -3144,12 +3144,12 @@ orasep spray, non-aerosol,25-34,Sore Mouth due to Dentures or Poor Oral Hygiene,
 orencia vial,13-18,Rheumatoid Arthritis,fall,3.0,2.0,Female,2.0
 orphenadrine citrate,25-34,Muscle Spasm,summer,5.0,5.0,Male,5.0
 orphenadrine citrate,25-34,Muscle Spasm,summer,4.0,1.0,Male,1.0
-orphenadrine citrate,25-34,Muscle Spasm,None,5.0,2.0,Female,2.0
+orphenadrine citrate,25-34,Muscle Spasm,fall,5.0,2.0,Female,2.0
 orsythia,19-24,Painful Periods,spring,5.0,5.0,Female,5.0
 ortho micronor,19-24,Birth Control,fall,3.0,2.0,Female,3.0
 ortho tri-cyclen,19-24,Birth Control,summer,4.0,2.0,Female,4.0
 ortho tri-cyclen,19-24,Birth Control,winter,5.0,5.0,Female,4.0
-ortho tri-cyclen,25-34,Birth Control,None,5.0,5.0,Female,5.0
+ortho tri-cyclen,25-34,Birth Control,fall,5.0,5.0,Female,5.0
 ortho tri-cyclen,25-34,Birth Control,summer,5.0,3.0,Female,5.0
 ortho tri-cyclen lo,13-18,Birth Control,summer,5.0,5.0,Female,5.0
 ortho tri-cyclen lo,19-24,Abnormally Long or Heavy Periods,spring,5.0,5.0,Female,5.0
@@ -3164,7 +3164,7 @@ ortho-cyclen,19-24,Birth Control,fall,5.0,5.0,Female,5.0
 ortho-cyclen,25-34,Birth Control,winter,5.0,5.0,Female,5.0
 ortho-cyclen,25-34,Birth Control,fall,5.0,5.0,Female,5.0
 ortho-cyclen,25-34,Birth Control,spring,3.0,4.0,Female,4.0
-ortho-novum,19-24,Birth Control,None,5.0,5.0,Female,5.0
+ortho-novum,19-24,Birth Control,fall,5.0,5.0,Female,5.0
 ortho-novum tablet,19-24,Absence of Menstrual Periods,fall,5.0,3.0,Female,2.0
 ortho-novum tablet,25-34,Birth Control,summer,4.0,4.0,Female,4.0
 ovcon-35,19-24,Birth Control,spring,5.0,5.0,Female,5.0
@@ -3172,26 +3172,26 @@ ovcon-35,25-34,Abnormally Long or Heavy Periods,spring,4.0,4.0,Female,5.0
 oxandrin,25-34,Other,fall,5.0,5.0,Male,5.0
 oxaprozin,13-18,Joint Inflammatory Disease in Children and Young Adults,spring,5.0,5.0,Female,5.0
 oxaprozin,25-34,Other,fall,5.0,1.0,Female,1.0
-oxaprozin,25-34,Other,None,3.0,4.0,Female,4.0
-oxcarbazepine,25-34,Convulsive Seizures,None,2.0,1.0,Male,1.0
-oxcarbazepine tablet,25-34,Convulsive Seizures,None,2.0,1.0,Male,1.0
-oxcarbazepine tablet, extended release 24 hr,25-34,Convulsive Seizures,None,2.0,1.0,Male,1.0
+oxaprozin,25-34,Other,fall,3.0,4.0,Female,4.0
+oxcarbazepine,25-34,Convulsive Seizures,fall,2.0,1.0,Male,1.0
+oxcarbazepine tablet,25-34,Convulsive Seizures,fall,2.0,1.0,Male,1.0
+oxcarbazepine tablet, extended release 24 hr,25-34,Convulsive Seizures,fall,2.0,1.0,Male,1.0
 oxybutynin chloride er,25-34,Overactive Bladder,winter,5.0,4.0,Female,4.0
 oxybutynin patch, transdermal semiweekly,3-6,A Condition of Bladder Dysfunction from Nerve Disorder,summer,2.0,4.0,Male,4.0
 oxycodone (bulk) 100 % powder,25-34,Other,fall,4.0,4.0,Female,4.0
 oxycodone (bulk) 100 % powder,25-34,Other,winter,3.0,4.0,Male,5.0
-oxycodone hcl,45-54,Chronic Pain,None,5.0,5.0,Male,5.0
+oxycodone hcl,45-54,Chronic Pain,fall,5.0,5.0,Male,5.0
 oxycodone hcl,13-18,Pain,spring,4.0,3.0,Male,5.0
-oxycodone hcl,19-24,Pain,None,4.0,5.0,Female,5.0
+oxycodone hcl,19-24,Pain,fall,4.0,5.0,Female,5.0
 oxycodone hcl,19-24,Pain,winter,4.0,4.0,Female,4.0
 oxycodone hcl,19-24,Pain,summer,1.0,1.0,Male,1.0
 oxycodone hcl,19-24,Pain,spring,5.0,5.0,Male,5.0
 oxycodone hcl,19-24,Pain,spring,4.0,4.0,Male,4.0
-oxycodone hcl,19-24,Neuropathic Pain,None,5.0,5.0,Female,5.0
+oxycodone hcl,19-24,Neuropathic Pain,fall,5.0,5.0,Female,5.0
 oxycodone hcl,19-24,Neuropathic Pain,winter,4.0,4.0,Male,4.0
 oxycodone hcl,19-24,Pain,fall,5.0,5.0,Male,5.0
 oxycodone hcl,19-24,Neuropathic Pain,fall,5.0,5.0,Male,5.0
-oxycodone hcl,19-24,Pain,None,5.0,4.0,Female,4.0
+oxycodone hcl,19-24,Pain,fall,5.0,4.0,Female,4.0
 oxycodone hcl,19-24,Pain,summer,1.0,3.0,Male,4.0
 oxycodone hcl,19-24,Pain,fall,5.0,4.0,Female,5.0
 oxycodone hcl,19-24,Pain,fall,5.0,4.0,Female,4.0
@@ -3227,7 +3227,7 @@ oxycodone hcl,25-34,Pain,winter,5.0,5.0,Male,4.0
 oxycodone hcl,25-34,Pain,winter,5.0,5.0,Male,5.0
 oxycodone hcl,25-34,Pain,winter,5.0,5.0,Female,5.0
 oxycodone hcl,25-34,Pain,winter,5.0,5.0,Male,4.0
-oxycodone hcl,25-34,Pain,None,5.0,5.0,Male,4.0
+oxycodone hcl,25-34,Pain,fall,5.0,5.0,Male,4.0
 oxycodone hcl,25-34,Pain,summer,5.0,5.0,Male,4.0
 oxycodone hcl,25-34,Pain,summer,4.0,4.0,Female,5.0
 oxycodone hcl,25-34,Other,summer,5.0,3.0,Female,3.0
@@ -3241,23 +3241,23 @@ oxycodone hcl,25-34,Pain,winter,4.0,4.0,Female,4.0
 oxycodone hcl,25-34,Pain,winter,5.0,5.0,Female,5.0
 oxycodone hcl,25-34,Pain,fall,5.0,5.0,Female,5.0
 oxycodone hcl,25-34,Neuropathic Pain,fall,3.0,3.0,Female,3.0
-oxycodone hcl,25-34,Pain,None,5.0,5.0,Male,4.0
+oxycodone hcl,25-34,Pain,fall,5.0,5.0,Male,4.0
 oxycodone hcl,25-34,Other,summer,3.0,3.0,Male,2.0
 oxycodone hcl,25-34,Pain,summer,3.0,4.0,Female,4.0
 oxycodone hcl,25-34,Neuropathic Pain,summer,5.0,4.0,Male,4.0
 oxycodone hcl,25-34,Pain,summer,5.0,4.0,Female,3.0
-oxycodone hcl er,45-54,Chronic Pain,None,5.0,5.0,Male,5.0
+oxycodone hcl er,45-54,Chronic Pain,fall,5.0,5.0,Male,5.0
 oxycodone hcl er,13-18,Pain,spring,4.0,3.0,Male,5.0
-oxycodone hcl er,19-24,Pain,None,5.0,4.0,Female,4.0
+oxycodone hcl er,19-24,Pain,fall,5.0,4.0,Female,4.0
 oxycodone hcl er,19-24,Pain,summer,1.0,3.0,Male,4.0
 oxycodone hcl er,19-24,Pain,fall,5.0,4.0,Female,5.0
 oxycodone hcl er,19-24,Pain,fall,5.0,4.0,Female,4.0
 oxycodone hcl er,19-24,Pain,summer,1.0,1.0,Male,1.0
 oxycodone hcl er,19-24,Pain,spring,5.0,5.0,Male,5.0
-oxycodone hcl er,19-24,Pain,None,4.0,5.0,Female,5.0
+oxycodone hcl er,19-24,Pain,fall,4.0,5.0,Female,5.0
 oxycodone hcl er,19-24,Pain,winter,4.0,4.0,Female,4.0
 oxycodone hcl er,19-24,Pain,spring,4.0,4.0,Male,4.0
-oxycodone hcl er,19-24,Neuropathic Pain,None,5.0,5.0,Female,5.0
+oxycodone hcl er,19-24,Neuropathic Pain,fall,5.0,5.0,Female,5.0
 oxycodone hcl er,19-24,Neuropathic Pain,winter,4.0,4.0,Male,4.0
 oxycodone hcl er,19-24,Pain,fall,5.0,5.0,Male,5.0
 oxycodone hcl er,19-24,Neuropathic Pain,fall,5.0,5.0,Male,5.0
@@ -3270,7 +3270,7 @@ oxycodone hcl er,19-24,Pain,fall,5.0,5.0,Male,5.0
 oxycodone hcl er,19-24,Neuropathic Pain,summer,3.0,4.0,Male,5.0
 oxycodone hcl er,25-34,Pain,fall,5.0,1.0,Female,1.0
 oxycodone hcl er,25-34,Neuropathic Pain,fall,5.0,5.0,Female,5.0
-oxycodone hcl er,25-34,Pain,None,5.0,5.0,Male,4.0
+oxycodone hcl er,25-34,Pain,fall,5.0,5.0,Male,4.0
 oxycodone hcl er,25-34,Pain,summer,5.0,5.0,Male,4.0
 oxycodone hcl er,25-34,Pain,summer,4.0,4.0,Female,5.0
 oxycodone hcl er,25-34,Other,summer,5.0,3.0,Female,3.0
@@ -3307,24 +3307,24 @@ oxycodone hcl er,25-34,Pain,winter,4.0,4.0,Female,4.0
 oxycodone hcl er,25-34,Pain,winter,5.0,5.0,Female,5.0
 oxycodone hcl er,25-34,Pain,fall,5.0,5.0,Female,5.0
 oxycodone hcl er,25-34,Neuropathic Pain,fall,3.0,3.0,Female,3.0
-oxycodone hcl er,25-34,Pain,None,5.0,5.0,Male,4.0
+oxycodone hcl er,25-34,Pain,fall,5.0,5.0,Male,4.0
 oxycodone hcl er,25-34,Other,summer,3.0,3.0,Male,2.0
 oxycodone hcl er,25-34,Pain,summer,3.0,4.0,Female,4.0
 oxycodone hcl er,25-34,Neuropathic Pain,summer,5.0,4.0,Male,4.0
 oxycodone hcl er,25-34,Pain,summer,5.0,4.0,Female,3.0
-oxycodone hcl solution,45-54,Chronic Pain,None,5.0,5.0,Male,5.0
+oxycodone hcl solution,45-54,Chronic Pain,fall,5.0,5.0,Male,5.0
 oxycodone hcl solution,13-18,Pain,spring,4.0,3.0,Male,5.0
 oxycodone hcl solution,19-24,Other,fall,5.0,5.0,Female,5.0
 oxycodone hcl solution,19-24,Pain,fall,5.0,5.0,Male,5.0
-oxycodone hcl solution,19-24,Neuropathic Pain,None,5.0,5.0,Female,5.0
+oxycodone hcl solution,19-24,Neuropathic Pain,fall,5.0,5.0,Female,5.0
 oxycodone hcl solution,19-24,Pain,summer,1.0,1.0,Male,1.0
 oxycodone hcl solution,19-24,Pain,spring,5.0,5.0,Male,5.0
 oxycodone hcl solution,19-24,Pain,fall,5.0,4.0,Female,5.0
 oxycodone hcl solution,19-24,Pain,fall,5.0,4.0,Female,4.0
-oxycodone hcl solution,19-24,Pain,None,4.0,5.0,Female,5.0
+oxycodone hcl solution,19-24,Pain,fall,4.0,5.0,Female,5.0
 oxycodone hcl solution,19-24,Pain,winter,4.0,4.0,Female,4.0
 oxycodone hcl solution,19-24,Pain,spring,4.0,4.0,Male,4.0
-oxycodone hcl solution,19-24,Pain,None,5.0,4.0,Female,4.0
+oxycodone hcl solution,19-24,Pain,fall,5.0,4.0,Female,4.0
 oxycodone hcl solution,19-24,Pain,summer,1.0,3.0,Male,4.0
 oxycodone hcl solution,19-24,Other,spring,5.0,5.0,Female,5.0
 oxycodone hcl solution,19-24,Pain,spring,3.0,3.0,Male,3.0
@@ -3366,10 +3366,10 @@ paxil suspension, (final dose form),55-64,Other,fall,5.0,1.0,Male,1.0
 paxil suspension, (final dose form),13-18,Bipolar Depression,fall,5.0,3.0,Female,3.0
 paxil suspension, (final dose form),13-18,Depression,spring,5.0,2.0,Female,3.0
 paxil suspension, (final dose form),13-18,Depression,spring,4.0,3.0,Female,4.0
-paxil suspension, (final dose form),19-24,Major Depressive Disorder,None,2.0,1.0,Male,1.0
+paxil suspension, (final dose form),19-24,Major Depressive Disorder,fall,2.0,1.0,Male,1.0
 paxil suspension, (final dose form),19-24,Depression,fall,5.0,5.0,Female,5.0
 paxil suspension, (final dose form),25-34,Posttraumatic Stress Syndrome,fall,5.0,5.0,Female,5.0
-paxil suspension, (final dose form),25-34,Repeated Episodes of Anxiety,None,4.0,3.0,Male,3.0
+paxil suspension, (final dose form),25-34,Repeated Episodes of Anxiety,fall,4.0,3.0,Male,3.0
 paxil suspension, (final dose form),25-34,Panic Disorder,summer,5.0,5.0,Male,5.0
 paxil suspension, (final dose form),25-34,Repeated Episodes of Anxiety,summer,4.0,5.0,Female,4.0
 paxil suspension, (final dose form),25-34,Depression,summer,2.0,3.0,Male,4.0
@@ -3391,7 +3391,7 @@ penicillin v potassium,25-34,Inflammation of the Gums and Mouth,summer,1.0,3.0,F
 pentam 300 vial,25-34,Chronic Infectious Disease due to Organism L. Donovani,winter,5.0,5.0,Male,5.0
 pentasa,25-34,Crohn's Disease,winter,4.0,4.0,Female,4.0
 pentosan polysulfate sodium capsule,25-34,Bladder Pain,winter,5.0,1.0,Female,1.0
-pentosan polysulfate sodium capsule,25-34,Urinary Tract Irritation,None,4.0,1.0,Female,2.0
+pentosan polysulfate sodium capsule,25-34,Urinary Tract Irritation,fall,4.0,1.0,Female,2.0
 pentoxifylline,25-34,Peripheral Vascular Disease,summer,5.0,2.0,Female,2.0
 pepto-bismol tablet, chewable,25-34,Indigestion,summer,5.0,5.0,Female,5.0
 peramivir (pf) solution,13-18,A Type of Flu - Influenza A,winter,5.0,4.0,Male,5.0
@@ -3425,19 +3425,19 @@ phentermine hcl,25-34,Overweight,winter,5.0,4.0,Female,4.0
 phentermine hcl,25-34,Overweight,winter,5.0,4.0,Female,4.0
 phentermine hcl,25-34,Overweight,winter,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Overweight,winter,4.0,3.0,Female,4.0
-phentermine hcl,25-34,Overweight,None,5.0,5.0,Female,5.0
+phentermine hcl,25-34,Overweight,fall,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Overweight,winter,5.0,5.0,Female,5.0
-phentermine hcl,25-34,Weight Gain,None,5.0,5.0,Female,5.0
+phentermine hcl,25-34,Weight Gain,fall,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Adjunct Treatment of Obesity in a Comprehensive Weight Reduction Regimen,summer,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Weight Gain,spring,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Overweight,winter,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Overweight,summer,4.0,3.0,Female,4.0
 phentermine hcl,25-34,Overweight,summer,5.0,5.0,Female,5.0
-phentermine hcl,25-34,Overweight,None,5.0,5.0,Male,5.0
-phentermine hcl,25-34,Overweight,None,5.0,5.0,Female,5.0
+phentermine hcl,25-34,Overweight,fall,5.0,5.0,Male,5.0
+phentermine hcl,25-34,Overweight,fall,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Overweight,summer,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Overweight,fall,5.0,5.0,Female,5.0
-phentermine hcl,25-34,Overweight,None,5.0,5.0,Female,5.0
+phentermine hcl,25-34,Overweight,fall,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Overweight,fall,4.0,4.0,Female,4.0
 phentermine hcl,25-34,Overweight,summer,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Overweight,spring,5.0,5.0,Female,5.0
@@ -3447,7 +3447,7 @@ phentermine hcl,25-34,Other,fall,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Overweight,spring,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Overweight,winter,5.0,4.0,Female,3.0
 phentermine hcl,25-34,Overweight,fall,5.0,5.0,Female,5.0
-phentermine hcl,25-34,Overweight,None,5.0,5.0,Female,5.0
+phentermine hcl,25-34,Overweight,fall,5.0,5.0,Female,5.0
 phentermine hcl,25-34,Overweight,summer,4.0,4.0,Female,5.0
 phentermine hcl,25-34,Other,spring,3.0,4.0,Female,5.0
 phenylephrine hcl tablet, chewable,19-24,Stuffy Nose,winter,4.0,4.0,Female,4.0
@@ -3462,7 +3462,7 @@ piroxicam,25-34,Other,winter,3.0,3.0,Male,2.0
 piroxicam,25-34,Other,summer,3.0,1.0,Female,1.0
 piroxicam,25-34,Other,winter,5.0,3.0,Female,3.0
 pitocin vial,19-24,Use of Drugs or Surgical Procedures to Begin Labor Process,spring,1.0,2.0,Female,4.0
-pitocin vial,25-34,Hemorrhage Following Delivery of Baby,None,1.0,1.0,Female,4.0
+pitocin vial,25-34,Hemorrhage Following Delivery of Baby,fall,1.0,1.0,Female,4.0
 pitocin vial,25-34,Use of Drugs or Surgical Procedures to Begin Labor Process,winter,1.0,1.0,Female,1.0
 plan b one-step,13-18,Postcoital Contraception,spring,1.0,1.0,Female,1.0
 plaquenil,13-18,Other,spring,5.0,4.0,Female,4.0
@@ -3470,7 +3470,7 @@ plaquenil,19-24,Systemic Lupus Erythematosus,winter,1.0,2.0,Female,2.0
 plaquenil,19-24,Systemic Lupus Erythematosus,fall,5.0,5.0,Female,5.0
 plaquenil,19-24,Systemic Lupus Erythematosus,spring,5.0,4.0,Female,4.0
 plaquenil,19-24,Systemic Lupus Erythematosus,fall,5.0,5.0,Female,5.0
-plaquenil,25-34,Systemic Lupus Erythematosus,None,5.0,5.0,Female,5.0
+plaquenil,25-34,Systemic Lupus Erythematosus,fall,5.0,5.0,Female,5.0
 plaquenil,25-34,Rheumatoid Arthritis,summer,4.0,3.0,Female,3.0
 plaquenil,25-34,Rheumatoid Arthritis,fall,1.0,1.0,Female,1.0
 plaquenil,25-34,Systemic Lupus Erythematosus,winter,4.0,3.0,Female,4.0
@@ -3495,7 +3495,7 @@ potassium citrate er,19-24,Calcium Oxalate Kidney Stones,summer,4.0,4.0,Female,3
 potassium cl-calcium phos-mag tablet,19-24,Other,winter,3.0,3.0,Female,2.0
 potassium phosphate vial,25-34,Other,summer,3.0,3.0,Female,3.0
 pr benzoyl peroxide cleanser,19-24,Acne,summer,5.0,5.0,Female,5.0
-praziquantel tablet,25-34,A Tapeworm Infection - Taeniasis,None,2.0,3.0,Male,5.0
+praziquantel tablet,25-34,A Tapeworm Infection - Taeniasis,fall,2.0,3.0,Male,5.0
 prednisolone,3-6,Asthma,winter,5.0,1.0,Male,1.0
 prednisolone,25-34,Liver Problems,winter,4.0,5.0,Female,5.0
 prednisolone sod phos (bulk) powder,0-2,Other,winter,1.0,3.0,Female,3.0
@@ -3506,7 +3506,7 @@ prednisolone tablet,25-34,Liver Problems,winter,4.0,5.0,Female,5.0
 prednisone,7-12,Asthma,winter,3.0,3.0,Male,2.0
 prednisone,7-12,Asthma,winter,4.0,4.0,Female,4.0
 prednisone,7-12,Asthma,spring,5.0,2.0,Female,3.0
-prednisone,13-18,Skin Condition,None,3.0,3.0,Male,5.0
+prednisone,13-18,Skin Condition,fall,3.0,3.0,Male,5.0
 prednisone,13-18,Allergic Reaction causing Serum Sickness,summer,5.0,5.0,Female,5.0
 prednisone,13-18,Skin Condition,summer,5.0,5.0,Male,5.0
 prednisone,13-18,Skin Condition,spring,5.0,5.0,Male,5.0
@@ -3519,10 +3519,10 @@ prednisone,19-24,Asthma,fall,5.0,5.0,Female,5.0
 prednisone,19-24,Other,spring,5.0,5.0,Female,5.0
 prednisone,19-24,Asthma,fall,5.0,4.0,Female,4.0
 prednisone,19-24,Other,winter,2.0,2.0,Female,4.0
-prednisone,25-34,Inflammatory Bowel Disease,None,5.0,5.0,Female,5.0
-prednisone,25-34,Addison's Disease,None,2.0,3.0,Female,4.0
+prednisone,25-34,Inflammatory Bowel Disease,fall,5.0,5.0,Female,5.0
+prednisone,25-34,Addison's Disease,fall,2.0,3.0,Female,4.0
 prednisone,25-34,Other,summer,1.0,1.0,Female,4.0
-prednisone,25-34,Rheumatoid Arthritis,None,5.0,3.0,Female,2.0
+prednisone,25-34,Rheumatoid Arthritis,fall,5.0,3.0,Female,2.0
 prednisone,25-34,Asthma,winter,5.0,5.0,Female,5.0
 prednisone,25-34,Joint Inflammatory Disease in Children and Young Adults,spring,4.0,4.0,Female,4.0
 prednisone,25-34,Disease in which Body has Immune Response Against Itself,winter,1.0,1.0,Female,2.0
@@ -3537,8 +3537,8 @@ prednisone,25-34,Worsening of Asthma,spring,5.0,5.0,Female,5.0
 prednisone,25-34,Crohn's Disease,winter,2.0,2.0,Male,1.0
 prednisone,25-34,Giant Hives,winter,4.0,1.0,Male,2.0
 prednisone,25-34,Crohn's Disease,fall,3.0,3.0,Male,4.0
-prednisone,25-34,Disease in which Body has Immune Response Against Itself,None,3.0,3.0,Male,3.0
-prednisone,25-34,Sarcoidosis,None,4.0,2.0,Female,4.0
+prednisone,25-34,Disease in which Body has Immune Response Against Itself,fall,3.0,3.0,Male,3.0
+prednisone,25-34,Sarcoidosis,fall,4.0,2.0,Female,4.0
 prednisone,25-34,Muscle Pain and Stiffness in Shoulder, Neck and Pelvis,fall,5.0,5.0,Female,5.0
 prednisone concentrate,7-12,Asthma,winter,3.0,3.0,Male,2.0
 prednisone concentrate,7-12,Asthma,winter,4.0,4.0,Female,4.0
@@ -3547,7 +3547,7 @@ prednisone concentrate,13-18,Allergic Reaction causing Serum Sickness,summer,5.0
 prednisone concentrate,13-18,Skin Condition,summer,5.0,5.0,Male,5.0
 prednisone concentrate,13-18,Skin Condition,spring,5.0,5.0,Male,5.0
 prednisone concentrate,13-18,Other,winter,5.0,5.0,Female,5.0
-prednisone concentrate,13-18,Skin Condition,None,3.0,3.0,Male,5.0
+prednisone concentrate,13-18,Skin Condition,fall,3.0,3.0,Male,5.0
 prednisone concentrate,13-18,Rheumatic Disease causing Pain & Stiffness in Backbone,spring,1.0,1.0,Male,1.0
 prednisone concentrate,19-24,Crohn's Disease,winter,5.0,5.0,Male,5.0
 prednisone concentrate,19-24,Inflammatory Bowel Disease,winter,5.0,5.0,Female,5.0
@@ -3563,9 +3563,9 @@ prednisone concentrate,25-34,Systemic Lupus Erythematosus,fall,5.0,3.0,Female,5.
 prednisone concentrate,25-34,Asthma,fall,5.0,2.0,Female,5.0
 prednisone concentrate,25-34,Asthma,fall,4.0,2.0,Female,5.0
 prednisone concentrate,25-34,Other,summer,1.0,1.0,Female,4.0
-prednisone concentrate,25-34,Rheumatoid Arthritis,None,5.0,3.0,Female,2.0
-prednisone concentrate,25-34,Inflammatory Bowel Disease,None,5.0,5.0,Female,5.0
-prednisone concentrate,25-34,Addison's Disease,None,2.0,3.0,Female,4.0
+prednisone concentrate,25-34,Rheumatoid Arthritis,fall,5.0,3.0,Female,2.0
+prednisone concentrate,25-34,Inflammatory Bowel Disease,fall,5.0,5.0,Female,5.0
+prednisone concentrate,25-34,Addison's Disease,fall,2.0,3.0,Female,4.0
 prednisone concentrate,25-34,Allergic Reaction caused by a Drug,spring,5.0,5.0,Female,5.0
 prednisone concentrate,25-34,Atopic Dermatitis,spring,3.0,3.0,Female,4.0
 prednisone concentrate,25-34,Asthma,spring,4.0,4.0,Male,4.0
@@ -3574,8 +3574,8 @@ prednisone concentrate,25-34,Worsening of Asthma,spring,5.0,5.0,Female,5.0
 prednisone concentrate,25-34,Crohn's Disease,winter,2.0,2.0,Male,1.0
 prednisone concentrate,25-34,Giant Hives,winter,4.0,1.0,Male,2.0
 prednisone concentrate,25-34,Crohn's Disease,fall,3.0,3.0,Male,4.0
-prednisone concentrate,25-34,Disease in which Body has Immune Response Against Itself,None,3.0,3.0,Male,3.0
-prednisone concentrate,25-34,Sarcoidosis,None,4.0,2.0,Female,4.0
+prednisone concentrate,25-34,Disease in which Body has Immune Response Against Itself,fall,3.0,3.0,Male,3.0
+prednisone concentrate,25-34,Sarcoidosis,fall,4.0,2.0,Female,4.0
 prednisone concentrate,25-34,Muscle Pain and Stiffness in Shoulder, Neck and Pelvis,fall,5.0,5.0,Female,5.0
 prednisone tablet, delayed release (enteric coated),7-12,Asthma,winter,3.0,3.0,Male,2.0
 prednisone tablet, delayed release (enteric coated),7-12,Asthma,winter,4.0,4.0,Female,4.0
@@ -3584,7 +3584,7 @@ prednisone tablet, delayed release (enteric coated),13-18,Other,winter,5.0,5.0,F
 prednisone tablet, delayed release (enteric coated),13-18,Allergic Reaction causing Serum Sickness,summer,5.0,5.0,Female,5.0
 prednisone tablet, delayed release (enteric coated),13-18,Skin Condition,summer,5.0,5.0,Male,5.0
 prednisone tablet, delayed release (enteric coated),13-18,Skin Condition,spring,5.0,5.0,Male,5.0
-prednisone tablet, delayed release (enteric coated),13-18,Skin Condition,None,3.0,3.0,Male,5.0
+prednisone tablet, delayed release (enteric coated),13-18,Skin Condition,fall,3.0,3.0,Male,5.0
 prednisone tablet, delayed release (enteric coated),13-18,Rheumatic Disease causing Pain & Stiffness in Backbone,spring,1.0,1.0,Male,1.0
 prednisone tablet, delayed release (enteric coated),19-24,Crohn's Disease,winter,5.0,5.0,Male,5.0
 prednisone tablet, delayed release (enteric coated),19-24,Inflammatory Bowel Disease,winter,5.0,5.0,Female,5.0
@@ -3600,9 +3600,9 @@ prednisone tablet, delayed release (enteric coated),25-34,Systemic Lupus Erythem
 prednisone tablet, delayed release (enteric coated),25-34,Asthma,fall,5.0,2.0,Female,5.0
 prednisone tablet, delayed release (enteric coated),25-34,Asthma,fall,4.0,2.0,Female,5.0
 prednisone tablet, delayed release (enteric coated),25-34,Other,summer,1.0,1.0,Female,4.0
-prednisone tablet, delayed release (enteric coated),25-34,Rheumatoid Arthritis,None,5.0,3.0,Female,2.0
-prednisone tablet, delayed release (enteric coated),25-34,Inflammatory Bowel Disease,None,5.0,5.0,Female,5.0
-prednisone tablet, delayed release (enteric coated),25-34,Addison's Disease,None,2.0,3.0,Female,4.0
+prednisone tablet, delayed release (enteric coated),25-34,Rheumatoid Arthritis,fall,5.0,3.0,Female,2.0
+prednisone tablet, delayed release (enteric coated),25-34,Inflammatory Bowel Disease,fall,5.0,5.0,Female,5.0
+prednisone tablet, delayed release (enteric coated),25-34,Addison's Disease,fall,2.0,3.0,Female,4.0
 prednisone tablet, delayed release (enteric coated),25-34,Allergic Reaction caused by a Drug,spring,5.0,5.0,Female,5.0
 prednisone tablet, delayed release (enteric coated),25-34,Atopic Dermatitis,spring,3.0,3.0,Female,4.0
 prednisone tablet, delayed release (enteric coated),25-34,Asthma,spring,4.0,4.0,Male,4.0
@@ -3611,8 +3611,8 @@ prednisone tablet, delayed release (enteric coated),25-34,Worsening of Asthma,sp
 prednisone tablet, delayed release (enteric coated),25-34,Crohn's Disease,winter,2.0,2.0,Male,1.0
 prednisone tablet, delayed release (enteric coated),25-34,Giant Hives,winter,4.0,1.0,Male,2.0
 prednisone tablet, delayed release (enteric coated),25-34,Crohn's Disease,fall,3.0,3.0,Male,4.0
-prednisone tablet, delayed release (enteric coated),25-34,Disease in which Body has Immune Response Against Itself,None,3.0,3.0,Male,3.0
-prednisone tablet, delayed release (enteric coated),25-34,Sarcoidosis,None,4.0,2.0,Female,4.0
+prednisone tablet, delayed release (enteric coated),25-34,Disease in which Body has Immune Response Against Itself,fall,3.0,3.0,Male,3.0
+prednisone tablet, delayed release (enteric coated),25-34,Sarcoidosis,fall,4.0,2.0,Female,4.0
 prednisone tablet, delayed release (enteric coated),25-34,Muscle Pain and Stiffness in Shoulder, Neck and Pelvis,fall,5.0,5.0,Female,5.0
 prefera ob,25-34,Other,spring,5.0,5.0,Female,4.0
 prefera ob,25-34,Pregnancy,spring,4.0,5.0,Female,5.0
@@ -3621,7 +3621,7 @@ pregnyl vial,19-24,An Insufficiency in Ovulation,spring,3.0,3.0,Female,3.0
 premarin,25-34,Primary Ovarian Failure,winter,5.0,4.0,Female,3.0
 premarin,25-34,Other,fall,5.0,4.0,Female,4.0
 premsyn pms,25-34,Painful Periods,fall,5.0,5.0,Female,5.0
-prenatabs fa,25-34,Pregnancy,None,3.0,3.0,Female,4.0
+prenatabs fa,25-34,Pregnancy,fall,3.0,3.0,Female,4.0
 prenatabs rx,25-34,Pregnancy,summer,5.0,5.0,Female,5.0
 prenatal multivitamins,25-34,Other,fall,3.0,3.0,Female,3.0
 prenatal plus,19-24,Pregnancy,fall,4.0,4.0,Female,4.0
@@ -3644,7 +3644,7 @@ previfem,25-34,Birth Control,summer,5.0,5.0,Female,5.0
 prezista,25-34,HIV,summer,5.0,5.0,Male,5.0
 prezista,25-34,HIV,summer,5.0,4.0,Female,5.0
 priftin,19-24,TB involving the Lungs,winter,1.0,1.0,Male,1.0
-prilosec,19-24,Conditions of Excess Stomach Acid Secretion,None,5.0,4.0,Male,4.0
+prilosec,19-24,Conditions of Excess Stomach Acid Secretion,fall,5.0,4.0,Male,4.0
 prilosec,25-34,Stomach Ulcer,fall,5.0,5.0,Female,5.0
 prilosec otc,25-34,Treatment to Prevent Heartburn,winter,4.0,5.0,Female,5.0
 prilosec otc,25-34,Treatment to Prevent Heartburn,winter,5.0,5.0,Male,5.0
@@ -3668,10 +3668,10 @@ pristiq,25-34,Depression,fall,4.0,5.0,Male,4.0
 pristiq,25-34,Depression,fall,4.0,5.0,Male,4.0
 pristiq,25-34,Panic Disorder,fall,5.0,4.0,Female,4.0
 pristiq,25-34,Panic Disorder,summer,5.0,4.0,Female,4.0
-pristiq,25-34,Depression,None,5.0,3.0,Female,3.0
+pristiq,25-34,Depression,fall,5.0,3.0,Female,3.0
 pristiq,25-34,Depression,spring,5.0,4.0,Female,4.0
 pristiq,25-34,Depression,spring,4.0,4.0,Male,4.0
-pristiq,25-34,Other,None,5.0,3.0,Female,3.0
+pristiq,25-34,Other,fall,5.0,3.0,Female,3.0
 proair hfa aerosol with adapter,7-12,Bronchitis,summer,3.0,3.0,Female,1.0
 proair respiclick 90 mcg/actuation breath activated,13-18,Bronchospasm,winter,4.0,5.0,Female,4.0
 procardia,25-34,Early Labor,summer,3.0,1.0,Female,1.0
@@ -3730,13 +3730,13 @@ protonix,25-34,Conditions of Excess Stomach Acid Secretion,fall,4.0,3.0,Female,3
 protonix,25-34,Conditions of Excess Stomach Acid Secretion,summer,5.0,3.0,Female,4.0
 protonix,25-34,Other,summer,5.0,4.0,Female,4.0
 protonix,25-34,Stomach Ulcer from Aspirin/Ibuprofen-Like Drugs Prevention,winter,5.0,3.0,Female,4.0
-proventil hfa aerosol with adapter,19-24,Bronchospasm,None,5.0,5.0,Female,5.0
+proventil hfa aerosol with adapter,19-24,Bronchospasm,fall,5.0,5.0,Female,5.0
 provida ob,25-34,Pregnancy,summer,5.0,5.0,Female,5.0
 provigil,13-18,Other,fall,5.0,5.0,Male,5.0
 provigil,19-24,Other,winter,4.0,5.0,Male,4.0
-provigil,19-24,Sleepiness Due To Shift Work Sleep Disorder,None,5.0,4.0,Male,4.0
+provigil,19-24,Sleepiness Due To Shift Work Sleep Disorder,fall,5.0,4.0,Male,4.0
 provigil,25-34,Other,fall,3.0,2.0,Female,2.0
-provigil,25-34,Recurring Sleep Episodes During the Day,None,4.0,3.0,Female,2.0
+provigil,25-34,Recurring Sleep Episodes During the Day,fall,4.0,3.0,Female,2.0
 provigil,25-34,Other,fall,5.0,3.0,Male,3.0
 provigil,25-34,Other,fall,4.0,5.0,Female,4.0
 provigil,25-34,Other,summer,5.0,4.0,Male,5.0
@@ -3749,7 +3749,7 @@ prozac,13-18,Depression,spring,5.0,3.0,Female,4.0
 prozac,13-18,Depression,spring,5.0,3.0,Female,4.0
 prozac,13-18,Depression,winter,5.0,4.0,Female,3.0
 prozac,13-18,Depression,fall,5.0,5.0,Female,5.0
-prozac,13-18,Panic Disorder,None,5.0,4.0,Female,4.0
+prozac,13-18,Panic Disorder,fall,5.0,4.0,Female,4.0
 prozac,13-18,Depression,winter,5.0,5.0,Female,4.0
 prozac,13-18,Depressed Mood Disorder Occurring Every Year at the Same Time,spring,3.0,2.0,Female,3.0
 prozac,13-18,Depression,winter,5.0,5.0,Female,5.0
@@ -3768,7 +3768,7 @@ strattera,7-12,Attention Deficit Disorder with Hyperactivity,spring,1.0,1.0,Male
 strattera,7-12,Attention Deficit Disorder with Hyperactivity,winter,4.0,1.0,Male,2.0
 strattera,7-12,Attention Deficit Disorder with Hyperactivity,spring,4.0,4.0,Male,5.0
 strattera,7-12,Attention Deficit Disorder with Hyperactivity,spring,1.0,4.0,Male,4.0
-strattera,13-18,Attention Deficit Disorder with Hyperactivity,None,4.0,4.0,Male,4.0
+strattera,13-18,Attention Deficit Disorder with Hyperactivity,fall,4.0,4.0,Male,4.0
 strattera,13-18,Attention Deficit Disorder with Hyperactivity,spring,5.0,5.0,Female,5.0
 strattera,13-18,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Male,4.0
 strattera,13-18,Other,spring,5.0,4.0,Female,4.0
@@ -3784,7 +3784,7 @@ strattera,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,5.0,Mal
 strattera,25-34,Attention Deficit Disorder with Hyperactivity,winter,5.0,3.0,Male,3.0
 strattera,25-34,Attention Deficit Disorder with Hyperactivity,fall,3.0,2.0,Female,2.0
 strattera,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,4.0,Male,3.0
-strattera,25-34,Attention Deficit Disorder with Hyperactivity,None,3.0,1.0,Male,2.0
+strattera,25-34,Attention Deficit Disorder with Hyperactivity,fall,3.0,1.0,Male,2.0
 stribild,25-34,HIV,spring,5.0,5.0,Female,5.0
 subsys spray, non-aerosol,25-34,Other,spring,4.0,3.0,Female,2.0
 succinylcholine chloride vial,19-24,Decreased Muscle Tone,fall,1.0,1.0,Male,1.0
@@ -3813,16 +3813,16 @@ supress-dx,25-34,Cold Symptoms,winter,5.0,5.0,Female,5.0
 syeda,25-34,Birth Control,fall,4.0,1.0,Female,5.0
 symbicort hfa aerosol with adapter,45-54,Asthma,summer,5.0,1.0,Female,2.0
 symbicort hfa aerosol with adapter,13-18,Asthma,fall,4.0,4.0,Male,4.0
-symbicort hfa aerosol with adapter,19-24,Other,None,3.0,3.0,Male,3.0
+symbicort hfa aerosol with adapter,19-24,Other,fall,3.0,3.0,Male,3.0
 symbicort hfa aerosol with adapter,25-34,Asthma,fall,5.0,5.0,Female,5.0
 symbicort hfa aerosol with adapter,25-34,Asthma,spring,1.0,1.0,Female,1.0
 symbicort hfa aerosol with adapter,25-34,Asthma,spring,5.0,5.0,Female,5.0
 symbicort hfa aerosol with adapter,25-34,Asthma,summer,5.0,5.0,Female,5.0
 symbicort hfa aerosol with adapter,25-34,Prevention of Bronchospasms with Emphysema,spring,5.0,2.0,Female,3.0
-symbicort hfa aerosol with adapter,25-34,COPD with Chronic Bronchitis,None,5.0,2.0,Male,2.0
+symbicort hfa aerosol with adapter,25-34,COPD with Chronic Bronchitis,fall,5.0,2.0,Male,2.0
 symbicort hfa aerosol with adapter,25-34,COPD with Chronic Bronchitis,summer,5.0,5.0,Male,5.0
 symbicort hfa aerosol with adapter,25-34,Asthma,fall,4.0,4.0,Female,3.0
-symbyax,13-18,Major Depressive Disorder,None,5.0,5.0,Female,5.0
+symbyax,13-18,Major Depressive Disorder,fall,5.0,5.0,Female,5.0
 symbyax,19-24,Major Depressive Disorder,spring,2.0,2.0,Female,2.0
 symbyax,19-24,Other,spring,4.0,3.0,Male,3.0
 symbyax,25-34,Bipolar Depression,fall,5.0,4.0,Female,4.0
@@ -3846,7 +3846,7 @@ synthroid,25-34,Underactive Thyroid,summer,5.0,2.0,Female,2.0
 synthroid,25-34,Decreased Thyroid Function existing from Birth,winter,5.0,5.0,Male,5.0
 synthroid,25-34,Enlarged Thyroid Gland,winter,5.0,4.0,Female,4.0
 synthroid,25-34,Thyroid Cancer,fall,4.0,3.0,Male,4.0
-synthroid,25-34,Underactive Thyroid,None,4.0,1.0,Female,2.0
+synthroid,25-34,Underactive Thyroid,fall,4.0,1.0,Female,2.0
 synthroid,25-34,Underactive Thyroid,spring,4.0,2.0,Female,2.0
 synthroid,25-34,Serious Decrease in Thyroid Function,winter,4.0,3.0,Female,4.0
 synthroid,25-34,Underactive Thyroid,fall,5.0,4.0,Female,5.0
@@ -3859,9 +3859,9 @@ tacrolimus tablet, extended release 24 hr,25-34,Prevention of Lung Transplant Re
 take action,19-24,Postcoital Contraception,fall,5.0,5.0,Male,5.0
 take action,25-34,Other,winter,5.0,5.0,Female,5.0
 tamiflu,25-34,The Flu,fall,4.0,5.0,Male,5.0
-tamiflu,25-34,The Flu,None,4.0,4.0,Female,3.0
+tamiflu,25-34,The Flu,fall,4.0,4.0,Female,3.0
 tamiflu suspension, reconstituted,25-34,The Flu,fall,4.0,5.0,Male,5.0
-tamiflu suspension, reconstituted,25-34,The Flu,None,4.0,4.0,Female,3.0
+tamiflu suspension, reconstituted,25-34,The Flu,fall,4.0,4.0,Female,3.0
 tamoxifen citrate,55-64,Breast Cancer that has Spread to Another Part of the Body,summer,4.0,1.0,Female,1.0
 tamoxifen citrate,25-34,Breast Cancer,spring,5.0,5.0,Female,5.0
 tamoxifen citrate,25-34,Breast Cancer that has Spread to Another Part of the Body,fall,3.0,3.0,Female,3.0
@@ -3874,14 +3874,14 @@ tandem dual action,25-34,Anemia from Inadequate Iron,spring,5.0,5.0,Female,5.0
 tandem plus,25-34,Lack in Minerals,summer,5.0,5.0,Male,5.0
 taron-c dha,19-24,Pregnancy,fall,5.0,5.0,Female,5.0
 tazorac gel,13-18,Psoriasis,summer,3.0,4.0,Female,4.0
-tegretol tablet,7-12,Epileptic Seizure,None,5.0,5.0,Male,4.0
+tegretol tablet,7-12,Epileptic Seizure,fall,5.0,5.0,Male,4.0
 tegretol tablet,7-12,Bipolar I Disorder with Most Recent Episode Mixed,spring,4.0,3.0,Female,3.0
 tegretol tablet,13-18,Multiple Seizure Types,winter,5.0,5.0,Male,5.0
 tegretol tablet,19-24,Other,spring,5.0,2.0,Female,2.0
 tegretol tablet,19-24,Mania associated with Bipolar Disorder,winter,5.0,3.0,Male,2.0
 tegretol tablet,25-34,Bipolar Disorder in Remission,spring,3.0,3.0,Male,3.0
 tegretol tablet,25-34,Epileptic Seizure,fall,5.0,5.0,Female,5.0
-tegretol tablet,25-34,Bipolar I Disorder with Most Recent Episode Mixed,None,4.0,4.0,Female,4.0
+tegretol tablet,25-34,Bipolar I Disorder with Most Recent Episode Mixed,fall,4.0,4.0,Female,4.0
 tegretol tablet,25-34,Epileptic Seizure,winter,5.0,3.0,Male,4.0
 tegretol xr,25-34,Epileptic Seizure,winter,4.0,3.0,Female,3.0
 tegretol xr,25-34,Prevention of Seizures following Head Injury or Surgery,winter,5.0,3.0,Female,4.0
@@ -3894,7 +3894,7 @@ terazol 7 cream with applicator,13-18,Yeast Infection of Vagina and Vulva,summer
 terazol 7 cream with applicator,25-34,Yeast Infection of Vagina and Vulva,spring,4.0,4.0,Female,5.0
 terbinafine hcl,25-34,Fungal Infection of Toenails,spring,5.0,3.0,Female,3.0
 terbinafine hcl,25-34,Ringworm of Scalp,summer,3.0,4.0,Female,4.0
-terconazole cream with applicator,25-34,Yeast Infection of Vagina and Vulva,None,5.0,3.0,Female,3.0
+terconazole cream with applicator,25-34,Yeast Infection of Vagina and Vulva,fall,5.0,3.0,Female,3.0
 terconazole cream with applicator,25-34,Yeast Infection of Vagina and Vulva,fall,5.0,5.0,Female,5.0
 tessalon perle,7-12,Cough,winter,5.0,1.0,Male,1.0
 tessalon perle,25-34,Cough,fall,5.0,2.0,Female,2.0
@@ -3903,11 +3903,11 @@ tessalon perle,25-34,Cough,spring,5.0,4.0,Female,4.0
 tessalon perle,25-34,Cough,winter,4.0,4.0,Female,4.0
 tessalon perle,25-34,Cough,fall,2.0,2.0,Female,2.0
 tessalon perle,25-34,Cough,fall,5.0,5.0,Male,5.0
-tessalon perle,25-34,Cough,None,2.0,1.0,Female,1.0
+tessalon perle,25-34,Cough,fall,2.0,1.0,Female,1.0
 testosterone (bulk) powder,25-34,Other,fall,4.0,3.0,Male,4.0
 tetracaine 0.5 % eye drops,25-34,Anesthesia of the Cornea of the Eye,fall,5.0,5.0,Female,5.0
 tetracaine 0.5 % eye drops,25-34,Other,summer,5.0,5.0,Female,5.0
-tetracycline hcl,19-24,Acne,None,4.0,5.0,Male,5.0
+tetracycline hcl,19-24,Acne,fall,4.0,5.0,Male,5.0
 tetracycline hcl,25-34,Inflammation of the Gums and Mouth,fall,5.0,5.0,Male,5.0
 tetracycline ointment,13-18,Minor Skin Infection caused by Bacteria,fall,1.0,1.0,Male,1.0
 tetracycline ointment,25-34,Other,winter,4.0,4.0,Female,4.0
@@ -3916,14 +3916,14 @@ theraflu nighttime severe cold-cough 25 mg-10 mg-650 mg powder packet,19-24,Flu-
 theragran-m premier 50 plus,19-24,Lack in Vitamins,summer,5.0,4.0,Male,3.0
 tindamax,25-34,Vaginosis caused by Bacteria,fall,5.0,5.0,Female,5.0
 tizanidine hcl,19-24,Muscle Spasms caused by a Spinal Disease,fall,3.0,3.0,Male,3.0
-tizanidine hcl,25-34,Muscle Spasms caused by a Spinal Disease,None,4.0,4.0,Female,5.0
+tizanidine hcl,25-34,Muscle Spasms caused by a Spinal Disease,fall,4.0,4.0,Female,5.0
 tizanidine hcl,25-34,Muscle Spasm,fall,5.0,3.0,Male,3.0
 tizanidine hcl,25-34,Muscle Spasm,summer,2.0,2.0,Male,2.0
 tizanidine hcl,25-34,Muscle Spasm,winter,4.0,4.0,Female,4.0
 tizanidine hcl,25-34,Muscle Spasms caused by a Spinal Disease,fall,4.0,4.0,Female,4.0
 tizanidine hcl,25-34,Muscle Spasm,winter,4.0,2.0,Female,3.0
 tizanidine hcl,25-34,Other,fall,5.0,5.0,Female,4.0
-tobramycin-lotepred drops, suspension,25-34,Inflammation of the Eye,None,3.0,1.0,Male,1.0
+tobramycin-lotepred drops, suspension,25-34,Inflammation of the Eye,fall,3.0,1.0,Male,1.0
 tolterodine tartrate,19-24,Overactive Bladder,spring,5.0,5.0,Female,5.0
 tolterodine tartrate er,19-24,Overactive Bladder,spring,5.0,5.0,Female,5.0
 topamax,65-74,Essential Tremor,winter,4.0,3.0,Female,3.0
@@ -3932,7 +3932,7 @@ topamax,13-18,Other,spring,3.0,1.0,Male,2.0
 topamax,13-18,Migraine Prevention,spring,5.0,5.0,Female,5.0
 topamax,13-18,Simple Partial Seizures,spring,5.0,5.0,Female,5.0
 topamax,19-24,Migraine Prevention,fall,4.0,4.0,Female,4.0
-topamax,19-24,Migraine Prevention,None,5.0,4.0,Female,5.0
+topamax,19-24,Migraine Prevention,fall,5.0,4.0,Female,5.0
 topamax,19-24,Migraine Prevention,fall,4.0,1.0,Male,1.0
 topamax,19-24,Migraine Prevention,summer,4.0,4.0,Male,4.0
 topamax,19-24,Convulsive Seizures,summer,5.0,5.0,Male,5.0
@@ -3942,7 +3942,7 @@ topamax,19-24,Migraine Prevention,winter,4.0,4.0,Female,3.0
 topamax,19-24,Migraine Prevention,spring,5.0,3.0,Female,3.0
 topamax,19-24,Migraine Prevention,spring,3.0,3.0,Female,4.0
 topamax,19-24,Other,summer,5.0,5.0,Female,5.0
-topamax,25-34,Tonic-Clonic Epilepsy,None,1.0,1.0,Female,1.0
+topamax,25-34,Tonic-Clonic Epilepsy,fall,1.0,1.0,Female,1.0
 topamax,25-34,Migraine Prevention,spring,5.0,4.0,Female,3.0
 topamax,25-34,Migraine Prevention,spring,4.0,1.0,Female,2.0
 topamax,25-34,Migraine Prevention,fall,5.0,5.0,Female,5.0
@@ -4030,15 +4030,15 @@ tramadol hcl-acetaminophen,0-2,Pain,winter,4.0,4.0,Male,4.0
 tramadol hcl-acetaminophen,13-18,Pain,winter,4.0,3.0,Male,4.0
 tramadol hcl-acetaminophen,19-24,Disorder characterized by Stiff, Tender & Painful Muscles,fall,4.0,2.0,Female,1.0
 trazodone hcl,25-34,Chronic Trouble Sleeping,summer,5.0,4.0,Female,4.0
-trazodone hcl,75 or over,Chronic Trouble Sleeping,None,5.0,5.0,Male,5.0
-trazodone hcl,35-44,Chronic Trouble Sleeping,None,5.0,5.0,Female,5.0
+trazodone hcl,75 or over,Chronic Trouble Sleeping,fall,5.0,5.0,Male,5.0
+trazodone hcl,35-44,Chronic Trouble Sleeping,fall,5.0,5.0,Female,5.0
 trazodone hcl,7-12,Major Depressive Disorder,summer,5.0,5.0,Female,5.0
 trazodone hcl,7-12,Chronic Trouble Sleeping,summer,5.0,3.0,Female,3.0
 trazodone hcl,13-18,Chronic Trouble Sleeping,summer,5.0,5.0,Female,5.0
 trazodone hcl,13-18,Chronic Trouble Sleeping,fall,5.0,5.0,Female,4.0
 trazodone hcl,13-18,Chronic Trouble Sleeping,spring,3.0,2.0,Female,5.0
 trazodone hcl,13-18,Chronic Trouble Sleeping,summer,3.0,3.0,Male,2.0
-trazodone hcl,19-24,insomnia associated with depression,None,4.0,2.0,Male,3.0
+trazodone hcl,19-24,insomnia associated with depression,fall,4.0,2.0,Male,3.0
 trazodone hcl,19-24,Chronic Trouble Sleeping,fall,4.0,4.0,Female,4.0
 trazodone hcl,19-24,Depression,fall,5.0,5.0,Female,5.0
 trazodone hcl,19-24,Chronic Trouble Sleeping,fall,5.0,5.0,Female,5.0
@@ -4050,7 +4050,7 @@ trazodone hcl,19-24,Chronic Trouble Sleeping,summer,5.0,5.0,Female,5.0
 trazodone hcl,25-34,Chronic Trouble Sleeping,winter,4.0,3.0,Female,3.0
 trazodone hcl,25-34,Chronic Trouble Sleeping,winter,4.0,2.0,Female,3.0
 trazodone hcl,25-34,Chronic Trouble Sleeping,fall,1.0,1.0,Female,1.0
-trazodone hcl,25-34,Chronic Trouble Sleeping,None,3.0,3.0,Female,3.0
+trazodone hcl,25-34,Chronic Trouble Sleeping,fall,3.0,3.0,Female,3.0
 trazodone hcl,25-34,Depression,summer,3.0,3.0,Male,3.0
 trazodone hcl,25-34,Depression,spring,4.0,1.0,Female,1.0
 trazodone hcl,25-34,Chronic Trouble Sleeping,spring,5.0,5.0,Female,5.0
@@ -4067,7 +4067,7 @@ trazodone hcl,25-34,Chronic Trouble Sleeping,spring,5.0,4.0,Male,4.0
 trazodone hcl,25-34,Chronic Trouble Sleeping,fall,4.0,2.0,Female,3.0
 trazodone hcl,25-34,Chronic Trouble Sleeping,fall,5.0,4.0,Female,4.0
 trazodone hcl,25-34,Chronic Trouble Sleeping,fall,5.0,1.0,Male,1.0
-trazodone hcl,25-34,Depression,None,4.0,3.0,Female,4.0
+trazodone hcl,25-34,Depression,fall,4.0,3.0,Female,4.0
 trazodone hcl,25-34,Chronic Trouble Sleeping,fall,5.0,5.0,Female,5.0
 trazodone hcl,25-34,Depression,summer,4.0,1.0,Female,1.0
 trazodone hcl,25-34,Depression,summer,4.0,4.0,Female,4.0
@@ -4082,7 +4082,7 @@ tri-legest fe,19-24,Birth Control,summer,5.0,5.0,Female,5.0
 tri-linyah,25-34,Birth Control,summer,5.0,4.0,Female,5.0
 tri-previfem,13-18,Birth Control,summer,5.0,1.0,Female,5.0
 tri-previfem,13-18,Absence of Menstrual Periods,winter,5.0,5.0,Female,5.0
-tri-previfem,19-24,Birth Control,None,5.0,5.0,Female,5.0
+tri-previfem,19-24,Birth Control,fall,5.0,5.0,Female,5.0
 tri-previfem,25-34,Acne,fall,5.0,4.0,Female,5.0
 tri-previfem,25-34,Birth Control,winter,4.0,5.0,Female,4.0
 tri-previfem,25-34,Birth Control,winter,4.0,3.0,Female,5.0
@@ -4095,7 +4095,7 @@ tri-sprintec,19-24,Birth Control,summer,5.0,3.0,Female,5.0
 tri-sprintec,19-24,Absence of Menstrual Periods,spring,3.0,4.0,Female,5.0
 tri-sprintec,19-24,Birth Control,winter,5.0,5.0,Female,5.0
 tri-sprintec,19-24,Birth Control,winter,4.0,4.0,Female,4.0
-tri-sprintec,19-24,Absence of Menstrual Periods,None,3.0,3.0,Female,3.0
+tri-sprintec,19-24,Absence of Menstrual Periods,fall,3.0,3.0,Female,3.0
 tri-sprintec,19-24,Birth Control,winter,2.0,5.0,Female,5.0
 tri-sprintec,25-34,Birth Control,spring,5.0,5.0,Female,5.0
 tri-sprintec,25-34,Birth Control,winter,5.0,5.0,Female,5.0
@@ -4106,7 +4106,7 @@ tri-sprintec,25-34,Birth Control,winter,4.0,1.0,Female,4.0
 tri-sprintec,25-34,Other,winter,5.0,5.0,Female,5.0
 triamcinolone acetonide cream,45-54,Skin Condition,fall,3.0,1.0,Male,2.0
 triamcinolone acetonide cream,7-12,Plaque Psoriasis,spring,5.0,5.0,Male,5.0
-triamcinolone acetonide vial,19-24,Skin Disease Characterized by Swollen Itching Lesions,None,5.0,4.0,Female,4.0
+triamcinolone acetonide vial,19-24,Skin Disease Characterized by Swollen Itching Lesions,fall,5.0,4.0,Female,4.0
 triaminic daytime cold-cough,3-6,Cough,winter,3.0,1.0,Female,1.0
 triamterene-hydrochlorothiazid,25-34,High Blood Pressure,spring,5.0,5.0,Female,4.0
 tribenzor,45-54,High Blood Pressure,summer,2.0,1.0,Male,3.0
@@ -4135,7 +4135,7 @@ trileptal suspension, (final dose form),25-34,Other,summer,5.0,1.0,Female,1.0
 trileptal suspension, (final dose form),25-34,Other,spring,5.0,1.0,Female,2.0
 vicodin,25-34,Pain,winter,3.0,2.0,Female,3.0
 vicodin,25-34,Pain,winter,5.0,5.0,Male,5.0
-vicodin,25-34,Pain,None,3.0,3.0,Female,3.0
+vicodin,25-34,Pain,fall,3.0,3.0,Female,3.0
 vicodin,25-34,Pain,summer,5.0,5.0,Male,4.0
 vicodin,25-34,Pain,winter,4.0,3.0,Male,4.0
 vicodin,25-34,Pain,fall,5.0,5.0,Female,5.0
@@ -4176,13 +4176,13 @@ vistaril,25-34,Additional Medication for Calming,winter,5.0,5.0,Female,5.0
 vistaril,25-34,Itching,fall,5.0,5.0,Female,4.0
 vistaril,25-34,Anxious,winter,4.0,4.0,Female,4.0
 vistaril,25-34,Anxious,fall,4.0,5.0,Female,4.0
-vistaril,25-34,Anxious,None,4.0,2.0,Female,4.0
+vistaril,25-34,Anxious,fall,4.0,2.0,Female,4.0
 vistaril,25-34,Itching,spring,3.0,3.0,Female,3.0
 vistaril,25-34,Other,spring,3.0,1.0,Female,1.0
 vistaril,25-34,Anxious,spring,4.0,4.0,Female,4.0
 vistaril,25-34,Anxious,fall,1.0,1.0,Female,1.0
-vistaril,25-34,Anxious,None,3.0,3.0,Female,3.0
-vistaril,25-34,Inducing of a Relaxed Easy State,None,4.0,3.0,Female,4.0
+vistaril,25-34,Anxious,fall,3.0,3.0,Female,3.0
+vistaril,25-34,Inducing of a Relaxed Easy State,fall,4.0,3.0,Female,4.0
 vistaril,25-34,Anxious,spring,4.0,1.0,Female,1.0
 vistaril,25-34,Anxious,winter,3.0,2.0,Female,2.0
 vistaril,25-34,Anxious,winter,3.0,3.0,Female,4.0
@@ -4199,7 +4199,7 @@ vistaril,25-34,Anxious,spring,5.0,1.0,Female,1.0
 vistaril,25-34,Anxious,winter,3.0,3.0,Female,3.0
 vistaril,25-34,Itching,winter,5.0,5.0,Female,4.0
 vistaril,25-34,Anxious,winter,5.0,5.0,Female,5.0
-vistaril,25-34,Anxious,None,5.0,5.0,Female,5.0
+vistaril,25-34,Anxious,fall,5.0,5.0,Female,5.0
 vitafol-ob,25-34,Pregnancy,summer,5.0,4.0,Female,4.0
 vitafol-ob,25-34,Pregnancy,spring,4.0,4.0,Female,5.0
 vitafol-ob,25-34,Other,winter,5.0,5.0,Female,5.0
@@ -4221,15 +4221,15 @@ vyvanse,19-24,Attention Deficit Disorder with Hyperactivity,winter,3.0,2.0,Femal
 vyvanse,35-44,Attention Deficit Disorder with Hyperactivity,spring,5.0,4.0,Female,5.0
 vyvanse,3-6,Attention Deficit Disorder with Hyperactivity,spring,5.0,4.0,Female,4.0
 vyvanse,3-6,Attention Deficit Disorder with Hyperactivity,fall,3.0,2.0,Male,4.0
-vyvanse,3-6,Attention Deficit Disorder with Hyperactivity,None,3.0,3.0,Male,3.0
+vyvanse,3-6,Attention Deficit Disorder with Hyperactivity,fall,3.0,3.0,Male,3.0
 vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,winter,4.0,5.0,Male,5.0
 vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Male,3.0
-vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,None,5.0,5.0,Male,5.0
+vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Male,5.0
 vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,spring,1.0,1.0,Female,1.0
 vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,spring,5.0,4.0,Male,4.0
 vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,winter,4.0,3.0,Male,2.0
 vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,winter,3.0,3.0,Male,3.0
-vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,None,3.0,3.0,Male,3.0
+vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,fall,3.0,3.0,Male,3.0
 vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,winter,4.0,3.0,Female,3.0
 vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,fall,5.0,4.0,Male,4.0
 vyvanse,7-12,Attention Deficit Disorder with Hyperactivity,winter,3.0,3.0,Male,2.0
@@ -4255,7 +4255,7 @@ vyvanse,19-24,Attention Deficit Disorder with Hyperactivity,spring,5.0,5.0,Femal
 vyvanse,19-24,Attention Deficit Disorder with Hyperactivity,spring,3.0,2.0,Male,4.0
 vyvanse,19-24,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,5.0
 vyvanse,19-24,Attention Deficit Disorder with Hyperactivity,winter,5.0,4.0,Female,4.0
-vyvanse,19-24,Other,None,5.0,5.0,Male,5.0
+vyvanse,19-24,Other,fall,5.0,5.0,Male,5.0
 vyvanse,19-24,Other,fall,4.0,4.0,Female,3.0
 vyvanse,19-24,Attention Deficit Disorder with Hyperactivity,fall,5.0,1.0,Male,3.0
 vyvanse,19-24,Attention Deficit Disorder with Hyperactivity,winter,5.0,3.0,Female,3.0
@@ -4265,14 +4265,14 @@ vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,4.0,Female,
 vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,5.0
 vyvanse,25-34,Other,winter,5.0,4.0,Female,5.0
 vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,spring,4.0,4.0,Female,4.0
-vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,None,5.0,4.0,Female,5.0
+vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,4.0,Female,5.0
 vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,4.0,Male,4.0
 vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,summer,5.0,5.0,Female,5.0
 vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,fall,4.0,5.0,Female,2.0
 vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,winter,4.0,4.0,Male,5.0
 vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,winter,3.0,3.0,Female,3.0
 vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,3.0
-vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,None,5.0,5.0,Female,5.0
+vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,fall,5.0,5.0,Female,5.0
 vyvanse,25-34,Attention Deficit Disorder with Hyperactivity,winter,5.0,5.0,Female,5.0
 vyvanse,25-34,Other,winter,5.0,5.0,Female,5.0
 wal-dram,25-34,Other,summer,5.0,1.0,Female,5.0
@@ -4294,11 +4294,11 @@ zoloft,13-18,Depression,spring,5.0,3.0,Female,3.0
 zoloft,13-18,Depression,winter,4.0,1.0,Male,1.0
 zoloft,13-18,Depression,spring,5.0,3.0,Female,3.0
 zoloft,13-18,Depression,fall,5.0,5.0,Male,4.0
-zoloft,13-18,Depression,None,3.0,2.0,Female,2.0
+zoloft,13-18,Depression,fall,3.0,2.0,Female,2.0
 zoloft,13-18,Other,fall,2.0,4.0,Female,4.0
 zoloft,13-18,Depression,summer,5.0,2.0,Female,2.0
 zoloft,13-18,Extreme Apprehension or Fear of Social Interaction,fall,4.0,2.0,Female,3.0
-zoloft,13-18,Depression,None,5.0,1.0,Female,1.0
+zoloft,13-18,Depression,fall,5.0,1.0,Female,1.0
 zoloft,13-18,Depression,fall,3.0,1.0,Male,2.0
 zoloft,19-24,Panic Disorder,winter,3.0,4.0,Female,4.0
 zoloft,19-24,Depression,winter,5.0,4.0,Female,4.0
@@ -4309,13 +4309,13 @@ zoloft,19-24,Bipolar Depression,spring,5.0,5.0,Female,4.0
 zoloft,19-24,Bipolar Depression,winter,5.0,4.0,Female,4.0
 zoloft,19-24,Depression,fall,4.0,4.0,Female,4.0
 zoloft,19-24,Obsessive Compulsive Disorder,fall,5.0,5.0,Female,5.0
-zoloft,19-24,Extreme Apprehension or Fear of Social Interaction,None,2.0,1.0,Female,2.0
+zoloft,19-24,Extreme Apprehension or Fear of Social Interaction,fall,2.0,1.0,Female,2.0
 zoloft,19-24,Depression,winter,5.0,4.0,Female,4.0
 zoloft,19-24,Depression,winter,4.0,3.0,Female,3.0
 zoloft,19-24,Bipolar Depression,fall,5.0,3.0,Female,5.0
 zoloft,19-24,Bipolar Depression,fall,5.0,5.0,Female,5.0
 zoloft,19-24,Depression,fall,5.0,5.0,Female,5.0
-zoloft,19-24,Depression,None,5.0,4.0,Male,4.0
+zoloft,19-24,Depression,fall,5.0,4.0,Male,4.0
 zoloft,19-24,Depression,fall,5.0,4.0,Male,5.0
 zoloft,19-24,Depression,fall,4.0,4.0,Female,4.0
 zoloft,19-24,Obsessive Compulsive Disorder,fall,4.0,5.0,Female,3.0
@@ -4331,7 +4331,7 @@ zoloft,25-34,Depression,winter,4.0,5.0,Female,5.0
 zoloft,25-34,Panic Disorder,summer,4.0,4.0,Female,3.0
 zoloft,25-34,Depression,spring,4.0,3.0,Female,4.0
 zoloft,25-34,Depression,spring,4.0,4.0,Male,4.0
-zoloft,25-34,Depressed Mood Disorder Occurring Every Year at the Same Time,None,4.0,5.0,Male,4.0
+zoloft,25-34,Depressed Mood Disorder Occurring Every Year at the Same Time,fall,4.0,5.0,Male,4.0
 zoloft,25-34,Extreme Apprehension or Fear of Social Interaction,winter,5.0,2.0,Male,2.0
 zoloft,25-34,Extreme Apprehension or Fear of Social Interaction,spring,5.0,5.0,Female,5.0
 zoloft,25-34,Depression,winter,4.0,4.0,Female,4.0
@@ -4343,8 +4343,8 @@ zoloft,25-34,Depression,winter,5.0,4.0,Female,4.0
 zoloft,25-34,Depression,winter,4.0,2.0,Male,2.0
 zoloft,25-34,Other,winter,4.0,3.0,Male,3.0
 zoloft,25-34,Panic Disorder,winter,5.0,4.0,Male,4.0
-zoloft,25-34,Depression,None,5.0,5.0,Female,5.0
-zoloft,25-34,Depression,None,5.0,4.0,Male,4.0
+zoloft,25-34,Depression,fall,5.0,5.0,Female,5.0
+zoloft,25-34,Depression,fall,5.0,4.0,Male,4.0
 zoloft,25-34,Depression,summer,4.0,3.0,Female,4.0
 zoloft,25-34,Depression,winter,5.0,4.0,Female,5.0
 zoloft,25-34,Depression,winter,5.0,1.0,Female,1.0
@@ -4364,8 +4364,8 @@ zoloft,25-34,Depression,spring,3.0,1.0,Male,4.0
 zoloft,25-34,Depression,fall,5.0,5.0,Female,5.0
 zoloft,25-34,Depression,fall,5.0,4.0,Female,4.0
 zoloft,25-34,Panic Disorder,fall,5.0,5.0,Female,5.0
-zoloft,25-34,Depression,None,5.0,5.0,Female,5.0
-zoloft,25-34,Depression,None,4.0,5.0,Female,5.0
+zoloft,25-34,Depression,fall,5.0,5.0,Female,5.0
+zoloft,25-34,Depression,fall,4.0,5.0,Female,5.0
 zoloft,25-34,Other,spring,5.0,5.0,Female,4.0
 zoloft,25-34,Premenstrual Disorder with a State of Unhappiness,winter,5.0,5.0,Female,5.0
 zoloft,25-34,Premature Ejection of Semen,summer,5.0,2.0,Male,3.0
@@ -4375,20 +4375,20 @@ zoloft,25-34,Panic Disorder,fall,3.0,3.0,Female,3.0
 zoloft,25-34,Other,fall,5.0,5.0,Female,4.0
 zolpidem spray, non-aerosol,19-24,Chronic Trouble Sleeping,summer,5.0,5.0,Female,5.0
 zolpidem spray, non-aerosol,19-24,Other,fall,3.0,3.0,Female,4.0
-zolpidem spray, non-aerosol,19-24,Other,None,4.0,4.0,Female,4.0
+zolpidem spray, non-aerosol,19-24,Other,fall,4.0,4.0,Female,4.0
 zolpidem spray, non-aerosol,25-34,Chronic Trouble Sleeping,fall,5.0,5.0,Male,5.0
 zolpidem spray, non-aerosol,25-34,Chronic Trouble Sleeping,spring,4.0,4.0,Female,4.0
 zolpidem spray, non-aerosol,25-34,Difficulty Falling Asleep,summer,5.0,5.0,Female,5.0
 zolpidem spray, non-aerosol,25-34,Difficulty Falling Asleep,spring,3.0,3.0,Female,4.0
 zolpidem tartrate,19-24,Chronic Trouble Sleeping,summer,5.0,5.0,Female,5.0
 zolpidem tartrate,19-24,Other,fall,3.0,3.0,Female,4.0
-zolpidem tartrate,19-24,Other,None,4.0,4.0,Female,4.0
+zolpidem tartrate,19-24,Other,fall,4.0,4.0,Female,4.0
 zolpidem tartrate,25-34,Chronic Trouble Sleeping,fall,5.0,5.0,Male,5.0
 zolpidem tartrate,25-34,Chronic Trouble Sleeping,spring,4.0,4.0,Female,4.0
 zolpidem tartrate,25-34,Difficulty Falling Asleep,summer,5.0,5.0,Female,5.0
 zolpidem tartrate,25-34,Difficulty Falling Asleep,spring,3.0,3.0,Female,4.0
 zolpidem tartrate er,19-24,Other,fall,3.0,3.0,Female,4.0
-zolpidem tartrate er,19-24,Other,None,4.0,4.0,Female,4.0
+zolpidem tartrate er,19-24,Other,fall,4.0,4.0,Female,4.0
 zolpidem tartrate er,19-24,Chronic Trouble Sleeping,summer,5.0,5.0,Female,5.0
 zolpidem tartrate er,25-34,Chronic Trouble Sleeping,spring,4.0,4.0,Female,4.0
 zolpidem tartrate er,25-34,Difficulty Falling Asleep,summer,5.0,5.0,Female,5.0
@@ -4401,7 +4401,7 @@ zonegran,13-18,Simple Partial Seizures,spring,5.0,5.0,Female,4.0
 zonegran,13-18,Convulsive Seizures,summer,5.0,5.0,Female,5.0
 zonegran,25-34,Convulsive Seizures,fall,4.0,4.0,Female,4.0
 zonegran,25-34,Convulsive Seizures,spring,3.0,5.0,Female,3.0
-zonegran,25-34,Convulsive Seizures,None,5.0,5.0,Female,4.0
+zonegran,25-34,Convulsive Seizures,fall,5.0,5.0,Female,4.0
 zonisamide,7-12,Simple Partial Seizures,spring,5.0,5.0,Female,5.0
 zonisamide,19-24,Convulsive Seizures,spring,3.0,3.0,Female,3.0
 zorvolex,25-34,Other,fall,5.0,4.0,Female,4.0
@@ -4429,7 +4429,7 @@ zyrtec,13-18,Non-Seasonal Allergic Runny Nose,winter,4.0,4.0,Male,4.0
 zyrtec,19-24,Hives,winter,5.0,5.0,Female,5.0
 zyrtec,19-24,Seasonal Runny Nose,winter,4.0,4.0,Female,4.0
 zyrtec,25-34,Non-Seasonal Allergic Runny Nose,winter,5.0,5.0,Female,4.0
-zyrtec,25-34,Seasonal Runny Nose,None,5.0,5.0,Male,5.0
+zyrtec,25-34,Seasonal Runny Nose,fall,5.0,5.0,Male,5.0
 zyrtec-d,25-34,Other,summer,5.0,1.0,Female,5.0
 zyrtec-d,19-24,Stuffy Nose,summer,5.0,5.0,Male,5.0
 zyvox,25-34,Complicated Skin Infection due to Staphyloccus Aureus Bacteria,winter,2.0,4.0,Female,4.0
@@ -4437,4 +4437,4 @@ zyvox solution, intravenous,7-12,Bacterial Pneumonia caused by Staphylococcus,wi
 zyvox suspension, reconstituted,25-34,Complicated Skin Infection due to Staphyloccus Aureus Bacteria,winter,2.0,4.0,Female,4.0
 zzzquil,19-24,Chronic Trouble Sleeping,summer,3.0,3.0,Female,3.0
 zzzquil,25-34,Chronic Trouble Sleeping,spring,5.0,1.0,Female,1.0
-zzzquil,25-34,Chronic Trouble Sleeping,None,5.0,5.0,Male,5.0
+zzzquil,25-34,Chronic Trouble Sleeping,fall,5.0,5.0,Male,5.0

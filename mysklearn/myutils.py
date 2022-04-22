@@ -102,7 +102,7 @@ def season_discretize(val):
         return 'spring'
     elif month >= 6 and month <= 8:
         return 'summer'
-    elif month >= 10 and month <= 11:
+    elif month >= 9 and month <= 11:
         return 'fall'
     elif month == 12 or month <=2:
         return 'winter'
