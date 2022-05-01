@@ -59,6 +59,7 @@ def group_by(table, header, groupby_col_name):
 
 def get_column(table, header, col_name):
     col_index = header.index(col_name)
+    print("index:", col_index)
     col = []
     for row in table:
         value = row[col_index]
@@ -96,6 +97,7 @@ def get_most_frequent(list):
     most_freq = max(set(list), key=list.count)
     return most_freq
 
+
 def season_discretize(val):
     month = int(val[0:val.index('/')])
     if month >= 3 and month <= 5:
@@ -104,8 +106,9 @@ def season_discretize(val):
         return 'summer'
     elif month >= 9 and month <= 11:
         return 'fall'
-    elif month == 12 or month <=2:
+    elif month == 12 or month <= 2:
         return 'winter'
+
 
 def continuous_to_categorical(con_attr):
     """Creates a categorical attribute from a continuous attribute
@@ -118,26 +121,16 @@ def continuous_to_categorical(con_attr):
     """
     cat_attr = []
     for item in con_attr:
-        if item >= 45:
-            cat_attr.append(10)
-        elif item >= 37:
-            cat_attr.append(9)
-        elif item >= 31:
-            cat_attr.append(8)
-        elif item >= 27:
-            cat_attr.append(7)
-        elif item >= 24:
-            cat_attr.append(6)
-        elif item >= 20:
-            cat_attr.append(5)
-        elif item >= 17:
-            cat_attr.append(4)
-        elif item >= 15:
-            cat_attr.append(3)
-        elif item == 14:
-            cat_attr.append(2)
+        if item >= 0 and item <= 1:
+            cat_attr.append("NE")  # not effective
+        elif item > 1 and item <= 2:
+            cat_attr.append("SE")  # slightly effective
+        elif item > 2 and item <= 3:
+            cat_attr.append("ME")  # moderately effective
+        elif item > 3 and item <= 4:
+            cat_attr.append("E")  # effective
         else:
-            cat_attr.append(1)
+            cat_attr.append("VE")  # very effective
     return cat_attr
 
 
