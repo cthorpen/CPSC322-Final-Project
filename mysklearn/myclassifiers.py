@@ -6,7 +6,11 @@ import operator
 import copy
 
 # TODO: copy your myclassifiers.py solution from PA4-6 here (BELOW)
-
+class MyRandomForestClassifier:
+    def __init__(self):
+        self.X_train = None
+        self.y_train = None
+    pass
 
 class MyDecisionTreeClassifier:
     """Represents a decision tree classifier.
