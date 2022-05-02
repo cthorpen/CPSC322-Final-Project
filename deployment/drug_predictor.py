@@ -1,7 +1,7 @@
 import requests  # HTTP requests
 import json  # parsing strings/JSON objects
 
-url = "https://name-of-our-app.herokuapp.com/predict?"
+url = "https://drug-effectiveness.herokuapp.com/predict?"
 # url = "http://127.0.0.1:5001/predict?"
 # query items
 url += "Drug=zyrtec-d&Age=19-24&Condition=Other&Season=summer&EaseofUse=5.0&Satisfaction=3.0&Sex=Female"
