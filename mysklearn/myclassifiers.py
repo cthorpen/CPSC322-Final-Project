@@ -81,6 +81,7 @@ class MyDecisionTreeClassifier:
         Returns:
             y_predicted(list of obj): The predicted target y values (parallel to X_test)
         """
+
         y_predicted = []
         # append each prediction to y_predicted
         for instance in X_test:
