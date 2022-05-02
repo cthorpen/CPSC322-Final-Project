@@ -1,0 +1,5 @@
+# might need to take the files out of /deployment and put in CWD
+build:
+  docker:
+    web: Dockerfile
+    
