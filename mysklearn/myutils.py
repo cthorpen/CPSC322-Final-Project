@@ -59,7 +59,7 @@ def group_by(table, header, groupby_col_name):
 
 def get_column(table, header, col_name):
     col_index = header.index(col_name)
-    print("index:", col_index)
+    #print("index:", col_index)
     col = []
     for row in table:
         value = row[col_index]
