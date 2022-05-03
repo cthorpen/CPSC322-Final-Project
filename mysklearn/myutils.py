@@ -188,7 +188,7 @@ def all_same_class(att_partition):
     return True
 
 
-def fit_predict_classification(X_train_sets, y_train_sets, X_test_sets, y_test_sets, classifier, name, labels):
+def fit_predict_classification(X_train_sets, y_train_sets, X_test_sets, y_test_sets, classifier, name, labels, header=None):
     # metric variables
     dm_acc, dm_prec, dm_rcl, dm_f1 = 0, 0, 0, 0
     # create empty matrix
@@ -197,7 +197,10 @@ def fit_predict_classification(X_train_sets, y_train_sets, X_test_sets, y_test_s
     # fit and predict for all training and testing sets
     for i in range(len(X_train_sets)):
         # fit model
-        classifier.fit(X_train_sets[i], y_train_sets[i])
+        if name == "Forest":
+            classifier.fit(X_train_sets[i], y_train_sets[i], header)
+        else:
+            classifier.fit(X_train_sets[i], y_train_sets[i])
         # predict
         y_pred = classifier.predict(X_test_sets[i])
         # metrics

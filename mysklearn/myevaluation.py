@@ -273,6 +273,8 @@ def confusion_matrix(y_true, y_pred, labels):
             matrix[i].append(0)
     # increment item in matrix based on pred vs actual
     for i in range(len(y_true)):
+        # print("len y true[i]", len(y_true[i]))
+        # print("len y pred[i]", len(y_pred[i]))
         matrix[labels.index(y_true[i])][labels.index(y_pred[i])] += 1
 
     return matrix

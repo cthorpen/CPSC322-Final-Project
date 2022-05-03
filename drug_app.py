@@ -2,6 +2,8 @@ import os
 import pickle
 from flask import Flask, jsonify, request
 
+from mysklearn import myutils
+
 # create app
 app = Flask(__name__)
 
@@ -24,6 +26,7 @@ def predict():
     ease_of_use = request.args.get("EaseofUse", "")
     satisfaction = request.args.get("Satisfaction", "")
     sex = request.args.get("Sex", "")
+    print(drug, age, condition, season, ease_of_use, satisfaction, sex)
     # print values for debugging
     prediction = predict_effectiveness(
         [drug, age, condition, season, ease_of_use, satisfaction, sex])
@@ -38,7 +41,41 @@ def predict_effectiveness(instance):
     # TODO: do this
     # unpickle our ML model here
     # then next is TDB. depends on the model we use
-    return
+    infile = open("drug.p", "rb")
+    header, trees = pickle.load(infile)
+    print("header:", header)
+    for tree in trees:
+        print("tree", tree)
+    try:
+        predictions = []
+        for tree in trees:
+            predictions.append(tdidt_predict(header, trees, instance))
+        # find most common value for prediction
+        # return myutils.get_most_frequent(predictions)
+        return predictions[-1]
+    except:
+        print("ERROR")
+        return None
+
+
+def tdidt_predict(header, tree, instance):
+    # recursively traverse the tree
+    # we need to know where we are in the tree...
+    # are we at a leaf node? (base case) or attribute node
+    info_type = tree[0]
+    if info_type == "Leaf":
+        return tree[1]
+    # we need to match the attribute's value in the
+    # instance with the appropriate value list in the tree
+    # a for loop that traverses thru each value list
+    # recurse on match with instance's value
+    att_index = header.index(tree[1])
+    for i in range(2, len(tree)):
+        # grab ref to current value list
+        value_list = tree[i]
+        if value_list[1] == instance[att_index]:
+            # we have a match, recurse
+            return tdidt_predict(header, value_list[2], instance)
 
 
 if __name__ == "__main__":
