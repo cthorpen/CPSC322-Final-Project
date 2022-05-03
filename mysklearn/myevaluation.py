@@ -36,6 +36,9 @@ def train_test_split(X, y, test_size=0.33, random_state=None, shuffle=True):
     X_test = []
     y_train = []
     y_test = []
+
+    # print('maybe:', random_state)
+
     # random number seed with random_state
     if random_state is not None:
         np.random.seed(random_state)
