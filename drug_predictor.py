@@ -3,9 +3,10 @@ import json  # parsing strings/JSON objects
 
 # url = "https://drug-effectiveness.herokuapp.com/predict?"
 # url = "http://127.0.0.1:5001/predict?"
-url = " http://172.17.0.2:5001/predict?"
+url = " http://localhost:5001/predict?"
 # query items
-url += "Drug=zyrtec-d&Age=19-24&Condition=Other&Season=summer&EaseofUse=VE&Satisfaction=ME&Sex=Female"
+url += "Drug=benzonatate&Age=0-2&Condition=Cough&Season=summer&EaseofUse=E&Satisfaction=E&Sex=Female"
+
 # make the GET request
 # links to Mozilla documentation in Gina's notes
 response = requests.get(url)

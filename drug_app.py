@@ -20,7 +20,7 @@ def index():
 @app.route("/predict", methods=["GET"])
 def predict():
     drug = request.args.get("Drug", "")
-    age = request.args.get("Ags", "")
+    age = request.args.get("Age", "")
     condition = request.args.get("Condition", "")
     season = request.args.get("Season", "")
     ease_of_use = request.args.get("EaseofUse", "")
@@ -30,6 +30,7 @@ def predict():
     # print values for debugging
     prediction = predict_effectiveness(
         [drug, age, condition, season, ease_of_use, satisfaction, sex])
+    # prediction = predict_effectiveness( [age, season, ease_of_use, satisfaction, sex])
     # if anything goes wrong in predict_interviewed_well, it'll return None
     if prediction is not None:
         result = {"prediction": prediction}
@@ -46,13 +47,15 @@ def predict_effectiveness(instance):
     print("header:", header)
     for tree in trees:
         print("tree", tree)
+    print("TREE LENGTH:", len(trees))
     try:
         predictions = []
         for tree in trees:
-            predictions.append(tdidt_predict(header, trees, instance))
+            predictions.append(tdidt_predict(header, tree, instance))
+            print(predictions)
         # find most common value for prediction
         # return myutils.get_most_frequent(predictions)
-        return predictions[-1]
+        return myutils.get_most_frequent(predictions)
     except:
         print("ERROR")
         return None
@@ -81,4 +84,4 @@ def tdidt_predict(header, tree, instance):
 if __name__ == "__main__":
     port = os.environ.get("PORT", 5001)
     # set to False when deployed
-    app.run(debug=False, port=port, host="0.0.0.0")
+    app.run(debug=True, port=port, host="0.0.0.0")
