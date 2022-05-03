@@ -5,14 +5,14 @@ abreva cream,55-64,Cold Sore,winter,VE,VE,Female,E
 absorica,25-34,Severe Difficult to Treat Nodular Acne,spring,NE,NE,Female,NE
 acai capsule,25-34,Other,fall,ME,ME,Female,ME
 acarbose,25-34,Type 2 Diabetes Mellitus,fall,VE,VE,Female,VE
-acetaminophen,19-24,Head Pain,fall,VE,E,Female,E
+acetaminophen,19-24,Head Pain,winter,VE,E,Female,E
 acetaminophen suppository, rectal,25-34,Other,winter,SE,SE,Male,SE
-acetaminophen-codeine,25-34,Pain,fall,E,E,Female,E
-acetazolamide,25-34,Altitude Sickness,fall,ME,ME,Female,VE
+acetaminophen-codeine,19-24,Pain,fall,E,E,Female,E
+acetazolamide,25-34,Pseudotumor Cerebri,spring,ME,ME,Female,VE
 acetylcysteine 100 mg/ml (10 %) solution,19-24,An Increase in the Thickness of Lung Secretions,fall,VE,VE,Male,VE
 acidophilus chewable tablet,25-34,Diarrhea,spring,VE,VE,Female,VE
 acidophilus tablet,3-6,Diarrhea,summer,VE,VE,Male,VE
-aciphex,25-34,Excessive Production of Stomach Acid,fall,E,VE,Female,VE
+aciphex,25-34,Symptoms Accompanying Esophageal Reflux of Stomach Acid,fall,E,VE,Female,VE
 acitretin,25-34,Severe Psoriasis that is Resistant to Treatment,winter,ME,NE,Male,NE
 acneclear gel,25-34,Acne,fall,VE,VE,Female,VE
 acthar 80 unit/ml injection gel corticotropins,13-18,Asthma,winter,ME,E,Female,E
@@ -25,8 +25,8 @@ adipex-p,25-34,Overweight,fall,VE,VE,Female,VE
 adrenalin chloride vial,25-34,Life Threatening Allergic Reaction,spring,NE,NE,Female,E
 advair diskus blister, with inhalation device,25-34,Asthma,fall,VE,VE,Female,VE
 advate vial,19-24,Bleeding in Hemophilia A,fall,VE,VE,Male,VE
-advil,19-24,Rheumatoid Arthritis,fall,VE,E,Male,E
-advil cold & sinus,25-34,Other,winter,VE,VE,Male,VE
+advil,19-24,Rheumatoid Arthritis,summer,VE,E,Female,E
+advil cold & sinus,25-34,Other,winter,VE,VE,Female,VE
 advil migraine,25-34,Migraine Headache,winter,VE,VE,Female,VE
 adzenys xr-odt,19-24,Attention Deficit Disorder with Hyperactivity,fall,VE,VE,Female,VE
 afrezza cartridge with inhaler,25-34,Diabetes,spring,NE,NE,Female,NE
@@ -34,19 +34,19 @@ afrin spray, non-aerosol,25-34,Stuffy Nose,fall,E,E,Male,VE
 aftera,25-34,Postcoital Contraception,summer,VE,E,Female,VE
 alba-derm cream,25-34,Other,summer,VE,VE,Female,VE
 albenza,25-34,Skin Lesion caused by Worms,summer,VE,VE,Female,VE
-albuterol sulfate,3-6,Bronchospasm,spring,ME,E,Male,ME
-albuterol sulfate 2.5 mg/0.5 ml solution for nebulization,3-6,Asthma,fall,VE,ME,Female,ME
-albuterol sulfate 90 mcg/actuation breath activated powder inhaler,3-6,Asthma,fall,VE,ME,Female,ME
-albuterol sulfate hfa aerosol with adapter beta-adrenergic agents short-acting (inhaled),3-6,Asthma,fall,VE,ME,Female,ME
-albuterol sulfate tablet,3-6,Bronchospasm,spring,ME,E,Male,ME
-albuterol sulfate tablet, extended release 12 hr,3-6,Bronchospasm,spring,ME,E,Male,ME
-albuterol sulfate vial for nebulizer beta-adrenergic agents short-acting (inhaled),3-6,Asthma,fall,VE,ME,Female,ME
+albuterol sulfate,3-6,Bronchitis,spring,ME,E,Male,ME
+albuterol sulfate 2.5 mg/0.5 ml solution for nebulization,25-34,Asthma,spring,VE,ME,Female,ME
+albuterol sulfate 90 mcg/actuation breath activated powder inhaler,25-34,Asthma,spring,VE,ME,Female,ME
+albuterol sulfate hfa aerosol with adapter beta-adrenergic agents short-acting (inhaled),25-34,Asthma,spring,VE,ME,Female,ME
+albuterol sulfate tablet,3-6,Bronchitis,spring,ME,E,Male,ME
+albuterol sulfate tablet, extended release 12 hr,3-6,Bronchitis,spring,ME,E,Male,ME
+albuterol sulfate vial for nebulizer beta-adrenergic agents short-acting (inhaled),25-34,Asthma,spring,VE,ME,Female,ME
 aleve,13-18,Fever,spring,VE,E,Female,E
 alka-seltzer plus-d,19-24,Cough,spring,VE,VE,Female,VE
 all day allergy-d,25-34,Other,spring,ME,ME,Female,VE
 allegra allergy,25-34,Inflammation of the Nose due to an Allergy,fall,VE,VE,Male,VE
 allegra allergy tablet antihistamines,25-34,Inflammation of the Nose due to an Allergy,fall,VE,VE,Male,VE
-allegra-d 12 hour,19-24,Other,fall,VE,VE,Female,VE
+allegra-d 12 hour,19-24,Other,spring,VE,VE,Female,VE
 allegra-d 24 hour,13-18,Seasonal Runny Nose,summer,E,E,Male,E
 allergy,25-34,Other,summer,VE,E,Female,ME
 allergy tablet,25-34,Itching,spring,VE,VE,Male,VE
@@ -58,11 +58,11 @@ alprazolam intensol,25-34,Panic Disorder,winter,VE,VE,Female,VE
 alprazolam odt,25-34,Repeated Episodes of Anxiety,fall,VE,E,Female,E
 altabax ointment,25-34,Type of Skin Infection - Impetigo,winter,VE,VE,Male,VE
 altace,25-34,High Blood Pressure,summer,VE,VE,Male,VE
-alyacen,25-34,Birth Control,fall,VE,E,Female,E
+alyacen,19-24,Birth Control,fall,VE,E,Female,E
 ambien,25-34,Chronic Trouble Sleeping,winter,VE,E,Female,E
 ambien cr,0-2,Chronic Trouble Sleeping,winter,E,E,Male,E
 amcinonide cream,7-12,Disease that Causes Disc-Shaped Patches On the Upper Body,summer,VE,VE,Female,VE
-amethia,19-24,Endometriosis,summer,VE,ME,Female,E
+amethia,19-24,Endometriosis,spring,VE,ME,Female,E
 amethyst,13-18,Other,fall,E,NE,Female,E
 amidate syringe,25-34,Additional Agent to Induce General Anesthesia,winter,SE,NE,Female,SE
 amiodarone hcl,0-2,Paroxysmal Supraventricular Tachycardia,summer,ME,VE,Male,VE
@@ -75,10 +75,10 @@ amlodipine besylate-benazepril,25-34,High Blood Pressure,winter,VE,VE,Female,VE
 ammonium lactate 5 % lotion,25-34,Dry Skin,winter,E,E,Female,SE
 ammonium lactate cream,25-34,Dry Skin,winter,E,E,Female,SE
 amnesteem,13-18,Severe Difficult to Treat Nodular Acne,spring,NE,NE,Male,NE
-amoxicillin,25-34,Middle Ear Infection,spring,VE,VE,Female,E
-amoxicillin er 775 mg tablet,extended release 24hr mphase,25-34,Middle Ear Infection,spring,VE,VE,Female,E
-amoxicillin suspension, reconstituted,25-34,Middle Ear Infection,spring,VE,VE,Female,E
-amoxicillin tablet, chewable,25-34,Middle Ear Infection,spring,VE,VE,Female,E
+amoxicillin,0-2,Middle Ear Infection,spring,VE,VE,Female,E
+amoxicillin er 775 mg tablet,extended release 24hr mphase,0-2,Middle Ear Infection,spring,VE,VE,Female,E
+amoxicillin suspension, reconstituted,0-2,Middle Ear Infection,spring,VE,VE,Female,E
+amoxicillin tablet, chewable,0-2,Middle Ear Infection,spring,VE,VE,Female,E
 amoxicillin-clavulanate pot er,55-64,Acute Bacterial Infection of the Sinuses,fall,E,VE,Male,E
 amoxicillin-clavulanate potass,55-64,Acute Bacterial Infection of the Sinuses,fall,E,VE,Male,E
 amoxicillin-clavulanate potass suspension, reconstituted,55-64,Acute Bacterial Infection of the Sinuses,fall,E,VE,Male,E
@@ -96,37 +96,37 @@ antabuse,25-34,Habit of Drinking Too Much Alcohol,winter,NE,NE,Male,SE
 anti-diarrhea,13-18,Diarrhea,winter,VE,VE,Male,VE
 anti-itch (hydrocortisone) 1 % topical cream,13-18,Inflammation of Skin caused by an Allergy,spring,VE,VE,Female,VE
 anti-itch maximum strength 2 % topical spray,19-24,Itching,fall,E,E,Male,E
-antifungal (tolnaftate) 1 % topical powder,25-34,Athlete's Foot,fall,VE,ME,Male,ME
+antifungal (tolnaftate) 1 % topical powder,25-34,Athlete's Foot,spring,VE,ME,Male,ME
 antihistamine,19-24,Inflammation of the Nose due to an Allergy,spring,VE,E,Male,E
-anucort-hc suppository, rectal,19-24,Hemorrhoids,fall,VE,E,Female,VE
+anucort-hc suppository, rectal,19-24,Hemorrhoids,spring,VE,E,Female,VE
 anusol-hc suppository, rectal,19-24,Hemorrhoids,spring,VE,VE,Female,VE
 apri,25-34,Birth Control,winter,VE,VE,Female,E
 apriso,25-34,Ulcerative Colitis currently Without Symptoms,spring,E,E,Female,VE
 arava,55-64,Rheumatoid Arthritis,summer,NE,NE,Female,NE
 arginine hcl (l-arginine) parenteral solution,13-18,Other,fall,ME,ME,Male,ME
-arimidex,55-64,Hormone Receptor Positive Postmenopausal Early Breast Cancer,winter,VE,ME,Female,VE
+arimidex,75 or over,Hormone Receptor Positive Postmenopausal Early Breast Cancer,winter,VE,ME,Female,VE
 aripiprazole,19-24,Other,fall,E,NE,Male,SE
 aripiprazole odt,19-24,Other,fall,E,NE,Male,SE
 aripiprazole tablet with sensor and patch,19-24,Other,fall,E,NE,Male,SE
-arixtra syringe,25-34,Deep Vein Thrombosis Prevention,fall,E,ME,Male,VE
+arixtra syringe,19-24,Deep Vein Thrombosis Prevention,spring,E,ME,Male,VE
 armour thyroid,25-34,Underactive Thyroid,spring,VE,VE,Female,VE
 arthrotec 50,25-34,Osteoarthritis and High Risk of Developing Gastric Ulcers,winter,VE,VE,Female,E
 arthrotec 75,19-24,Other,winter,E,NE,Male,NE
 ascomp with codeine,25-34,Tension Headache,summer,VE,VE,Female,E
-asmanex twisthaler 220 mcg (120 doses) breath activated,19-24,Asthma,fall,VE,E,Female,E
+asmanex twisthaler 220 mcg (120 doses) breath activated,19-24,Asthma,winter,VE,E,Female,E
 aspirin,25-34,Fever,summer,ME,E,Female,E
 aspirin (bulk) 100 % powder,25-34,Other,fall,VE,VE,Male,VE
 aspirin capsule, extended release 24 hr (capsule, er hr),25-34,Fever,summer,ME,E,Female,E
 aspirin tablet,25-34,Fever,summer,ME,E,Female,E
 atenolol,25-34,High Blood Pressure,fall,VE,VE,Female,VE
 atenolol-chlorthalidone,25-34,High Blood Pressure,fall,E,ME,Female,E
-ativan,25-34,Anxious,fall,VE,E,Female,E
-atomoxetine capsule,25-34,Attention Deficit Disorder with Hyperactivity,winter,E,E,Male,E
+ativan,25-34,Anxious,summer,VE,E,Female,E
+atomoxetine capsule,25-34,Attention Deficit Disorder with Hyperactivity,winter,E,E,Female,E
 atopiclair cream,25-34,Dry Skin,winter,E,SE,Female,SE
 atripla,25-34,HIV,winter,VE,VE,Male,VE
 aubra,25-34,Birth Control,summer,VE,SE,Female,ME
-augmentin,25-34,Acute Bacterial Infection of the Sinuses,fall,E,E,Female,VE
-augmentin tablet,25-34,Acute Bacterial Infection of the Sinuses,fall,E,E,Female,VE
+augmentin,25-34,Urinary Tract Infection due to E. Coli Bacteria,fall,E,E,Female,VE
+augmentin tablet,25-34,Urinary Tract Infection due to E. Coli Bacteria,fall,E,E,Female,VE
 augmentin xr,19-24,Severe Sinusitis caused by Haemophilus Influenzae,summer,E,E,Male,ME
 auryxia,25-34,Renal Osteodystrophy with Hyperphosphatemia,fall,VE,VE,Male,VE
 avalide,25-34,High Blood Pressure,winter,VE,VE,Female,E
@@ -152,21 +152,21 @@ back pain-off,19-24,Pain,spring,NE,NE,Male,NE
 baclofen,25-34,Other,winter,VE,E,Female,E
 bactrim,25-34,Infection due to Chlamydiae Species Bacteria,winter,VE,ME,Female,ME
 bactrim ds,25-34,Prevention of Toxoplasmosis,fall,VE,E,Female,E
-bactroban cream,7-12,Other,fall,VE,VE,Male,VE
-balziva,19-24,Birth Control,summer,VE,VE,Female,VE
+bactroban cream,25-34,Other,spring,VE,VE,Female,VE
+balziva,19-24,Birth Control,winter,VE,VE,Female,VE
 beano,13-18,Other,spring,E,E,Male,E
 belladonna-phenobarbital,25-34,Other,summer,NE,NE,Female,NE
-benadryl,0-2,Stuffy Nose,summer,VE,E,Male,E
+benadryl,0-2,Allergic Conjunctivitis,summer,VE,E,Male,E
 benadryl allergy,25-34,Chronic Trouble Sleeping,spring,E,E,Female,E
-benazepril-hydrochlorothiazide,0-2,Other,fall,ME,SE,Female,ME
+benazepril-hydrochlorothiazide,19-24,Other,spring,ME,SE,Female,ME
 beneprotein oral powder,19-24,Other,winter,E,E,Female,E
 benicar,25-34,High Blood Pressure,winter,VE,VE,Female,VE
 benicar hct,25-34,High Blood Pressure,winter,VE,VE,Female,VE
 bentyl,25-34,Irritable Colon,fall,VE,ME,Female,E
 benzaclin gel,19-24,Acne,fall,VE,VE,Female,VE
 benzonatate,25-34,Cough,winter,VE,E,Female,E
-benzoyl peroxide gel,13-18,Acne,summer,E,ME,Male,ME
-benztropine mesylate,25-34,Other,fall,SE,SE,Male,SE
+benzoyl peroxide gel,13-18,Acne,spring,E,ME,Male,ME
+benztropine mesylate,25-34,Other,summer,SE,SE,Female,SE
 berinert kit,25-34,Inherited Disorder of Continuing Episodes of Swelling,winter,ME,VE,Female,VE
 betaine hcl,19-24,Other,spring,VE,NE,Male,NE
 betaseron vial,25-34,Multiple Sclerosis,fall,ME,ME,Female,E
@@ -182,36 +182,36 @@ bupap,25-34,Tension Headache,winter,VE,VE,Female,VE
 buprenorphine 2.1 mg-naloxone 0.3 mg buccal film,25-34,Symptoms from Stopping Treatment with Opioid Drugs,spring,VE,E,Male,VE
 buprenorphine hcl 0.3 mg/ml injection syringe opioid analgesics- ir (with all antitussive opiates),25-34,Other,fall,SE,ME,Female,NE
 buprenorphine hcl tablet, sublingual,25-34,Narcotic Addiction,summer,VE,VE,Female,VE
-buprenorphine-naloxone film, medicated,25-34,Other,summer,VE,VE,Female,VE
-buprenorphine-naloxone tablet, sublingual,25-34,Other,summer,VE,VE,Female,VE
+buprenorphine-naloxone film, medicated,25-34,Narcotic Addiction,winter,VE,VE,Female,VE
+buprenorphine-naloxone tablet, sublingual,25-34,Narcotic Addiction,winter,VE,VE,Female,VE
 bupropion (bulk) 100 % powder,13-18,Other,spring,NE,NE,Female,SE
-bupropion hcl,19-24,Depression,fall,VE,E,Female,E
-bupropion hcl sr tablet, extended release,19-24,Depression,fall,VE,E,Female,E
-bupropion xl,19-24,Depression,fall,VE,E,Female,E
+bupropion hcl,19-24,Depression,summer,VE,E,Female,E
+bupropion hcl sr tablet, extended release,19-24,Depression,summer,VE,E,Female,E
+bupropion xl,19-24,Depression,summer,VE,E,Female,E
 butalb-caff-acetaminoph-codein,25-34,Tension Headache,winter,VE,VE,Female,E
 butalbital-acetaminophen-caffe,25-34,Migraine Headache,fall,E,E,Female,E
-butalbital-aspirin-caffeine,25-34,Migraine Headache,summer,VE,VE,Female,VE
+butalbital-aspirin-caffeine,25-34,Migraine Headache,winter,VE,VE,Female,VE
 butorphanol tartrate spray, non-aerosol,25-34,Migraine Headache,spring,VE,E,Male,E
 butorphanol tartrate vial,25-34,Pain,fall,E,VE,Female,VE
 butrans patch, transdermal weekly,25-34,Chronic Pain,winter,VE,E,Female,VE
 bystolic,25-34,High Blood Pressure,fall,VE,VE,Female,VE
 cabergoline,19-24,Increased Levels of Prolactin in the Blood,spring,E,ME,Female,E
 caltrate 600 + d,13-18,Other,fall,E,ME,Male,E
-carbatrol,19-24,Tonic-Clonic Epilepsy,fall,VE,ME,Male,ME
+carbatrol,19-24,Tonic-Clonic Epilepsy,winter,VE,ME,Female,ME
 carisoprodol,19-24,Backache,spring,VE,ME,Female,ME
 carvedilol,19-24,High Blood Pressure,spring,E,SE,Female,SE
 catapres,3-6,Attention Deficit Disorder with Hyperactivity,winter,VE,VE,Male,ME
 cefprozil,13-18,Skin Infection,summer,VE,ME,Female,ME
 cefprozil suspension, reconstituted,13-18,Skin Infection,summer,VE,ME,Female,ME
 cefuroxime,19-24,Bacterial Urinary Tract Infection,fall,NE,NE,Female,NE
-celexa,19-24,Depression,fall,VE,E,Female,E
+celexa,19-24,Depression,spring,VE,E,Female,E
 cellcept,13-18,Diffuse Proliferative Lupus Nephritis-A Kidney Disease,fall,E,E,Female,E
 cellcept suspension, reconstituted,13-18,Diffuse Proliferative Lupus Nephritis-A Kidney Disease,fall,E,E,Female,E
 cellcept vial,13-18,Other,fall,VE,VE,Female,VE
 centrum specialist heart,19-24,Lack in Vitamins,winter,ME,ME,Male,ME
 cephalexin,19-24,Infection of a Joint,winter,E,VE,Male,ME
 chamosyn ointment,19-24,Other,fall,NE,NE,Female,NE
-chantix,19-24,Stop Smoking,fall,E,E,Male,VE
+chantix,19-24,Stop Smoking,winter,E,E,Male,VE
 chateal,19-24,Birth Control,spring,E,VE,Female,VE
 cheratussin ac,45-54,Cough,winter,ME,VE,Female,VE
 children's benadryl allergy,0-2,Hives,fall,E,E,Female,E
@@ -219,31 +219,31 @@ children's claritin,3-6,Inflammation of the Nose due to an Allergy,spring,VE,VE,
 chloramphenicol sod succinate vial,19-24,Typhoid Fever,fall,VE,VE,Female,VE
 chlorhexidine gluconate mouthwash,13-18,Inflammation of the Gums,spring,VE,VE,Male,VE
 cialis,25-34,Inability to have an Erection,fall,ME,VE,Female,E
-cipro,19-24,Complicated Peritonitis caused by Bacteroides Bacteria,fall,E,ME,Female,ME
-cipro suspension, microcapsule reconstituted,19-24,Complicated Peritonitis caused by Bacteroides Bacteria,fall,E,ME,Female,ME
+cipro,19-24,Typhoid Fever,fall,E,ME,Female,ME
+cipro suspension, microcapsule reconstituted,19-24,Typhoid Fever,fall,E,ME,Female,ME
 ciprodex suspension, drops (final dose form),0-2,Other,spring,VE,VE,Female,VE
 ciprofloxacin,25-34,Other,fall,ME,ME,Female,ME
-ciprofloxacin er,19-24,Urinary Tract Infection caused by Klebsiella Bacteria,fall,VE,VE,Female,E
+ciprofloxacin er,19-24,Bacterial Urinary Tract Infection,winter,VE,VE,Female,E
 ciprofloxacin hcl,19-24,Diverticulitis,fall,VE,VE,Female,VE
 ciprofloxacin vial,19-24,Urinary Tract Infection due to E. Coli Bacteria,spring,E,E,Female,VE
 citalopram hbr,25-34,Depression,fall,VE,E,Female,E
-claravis,25-34,Severe Difficult to Treat Nodular Acne,spring,ME,E,Male,ME
-clarithromycin,25-34,Bacterial Infection with Chronic Bronchitis,fall,ME,ME,Female,ME
-clarithromycin er,25-34,Bacterial Infection with Chronic Bronchitis,fall,ME,ME,Female,ME
-clarithromycin suspension, reconstituted,25-34,Bacterial Infection with Chronic Bronchitis,fall,ME,ME,Female,ME
-claritin tablet,55-64,Stuffy Nose,fall,VE,ME,Female,E
-claritin-d 24 hour,25-34,Allergic Conjunctivitis,summer,VE,VE,Female,VE
+claravis,25-34,Severe Difficult to Treat Nodular Acne,spring,ME,E,Female,ME
+clarithromycin,25-34,Bacterial Infection with Chronic Bronchitis,winter,ME,ME,Female,ME
+clarithromycin er,25-34,Bacterial Infection with Chronic Bronchitis,winter,ME,ME,Female,ME
+clarithromycin suspension, reconstituted,25-34,Bacterial Infection with Chronic Bronchitis,winter,ME,ME,Female,ME
+claritin tablet,55-64,Stuffy Nose,spring,VE,ME,Female,E
+claritin-d 24 hour,25-34,Allergic Conjunctivitis,winter,VE,VE,Female,VE
 cleocin t lotion,25-34,Acne,fall,VE,ME,Female,ME
 climara pro patch, transdermal weekly,25-34,Other,fall,SE,ME,Female,SE
 clindamycin hcl,19-24,Other,summer,E,E,Female,E
-clindamycin phosphate gel,25-34,Acne,fall,VE,E,Male,E
+clindamycin phosphate gel,25-34,Acne,spring,VE,E,Female,E
 clindesse cream, extended release,25-34,Vaginosis caused by Bacteria,winter,ME,ME,Female,ME
-clobetasol propionate (bulk) powder,3-6,Other,winter,E,E,Female,E
-clobetasol propionate foam,25-34,Other,fall,ME,ME,Female,ME
-clobetasol propionate gel,25-34,Other,fall,ME,ME,Female,ME
-clobetasol propionate lotion,25-34,Other,fall,ME,ME,Female,ME
-clobetasol propionate shampoo,25-34,Other,fall,ME,ME,Female,ME
-clobetasol propionate spray, non-aerosol,25-34,Other,fall,ME,ME,Female,ME
+clobetasol propionate (bulk) powder,19-24,Other,winter,E,E,Female,E
+clobetasol propionate foam,25-34,Other,winter,ME,ME,Female,ME
+clobetasol propionate gel,25-34,Other,winter,ME,ME,Female,ME
+clobetasol propionate lotion,25-34,Other,winter,ME,ME,Female,ME
+clobetasol propionate shampoo,25-34,Other,winter,ME,ME,Female,ME
+clobetasol propionate spray, non-aerosol,25-34,Other,winter,ME,ME,Female,ME
 clobex lotion,25-34,Plaque Psoriasis,winter,VE,VE,Male,VE
 clobex shampoo,25-34,Plaque Psoriasis,winter,VE,VE,Male,VE
 clobex spray, non-aerosol,25-34,Plaque Psoriasis,winter,VE,VE,Male,VE
@@ -257,24 +257,24 @@ clorazepate dipotassium,25-34,Anxious,fall,E,VE,Female,VE
 clotrimazole troche,19-24,Thrush,fall,NE,NE,Female,NE
 clotrimazole-betamethasone lotion,19-24,Other,winter,VE,VE,Female,VE
 clozapine odt,25-34,Other,spring,E,E,Female,E
-codeine sulfate,25-34,Pain,summer,E,E,Male,ME
+codeine sulfate,25-34,Pain,winter,E,E,Female,ME
 colace,19-24,Other,summer,ME,ME,Male,ME
-colchicine,25-34,Familial Mediterranean Fever,winter,VE,E,Male,E
-colchicine 0.6 mg/5 ml oral solution,25-34,Familial Mediterranean Fever,winter,VE,E,Male,E
+colchicine,19-24,Familial Mediterranean Fever,winter,VE,E,Male,E
+colchicine 0.6 mg/5 ml oral solution,19-24,Familial Mediterranean Fever,winter,VE,E,Male,E
 compazine,19-24,Feel Like Throwing Up,winter,VE,NE,Female,E
 complete allergy capsule,19-24,Sneezing,winter,E,E,Male,ME
 concept dha,25-34,Pregnancy,summer,VE,VE,Female,VE
 concept ob,25-34,Pregnancy,summer,VE,VE,Female,VE
-concerta,7-12,Attention Deficit Disorder with Hyperactivity,winter,E,E,Male,E
+concerta,7-12,Attention Deficit Disorder with Hyperactivity,winter,E,E,Female,E
 copaxone syringe,25-34,Multiple Sclerosis Symptoms Return then Become Less Severe,summer,VE,E,Female,E
 cordran ointment,25-34,Reddish Nodules Arranged in a Circle On the Skin,fall,VE,ME,Female,ME
 coricidin hbp 2 mg-15 mg-500 mg tablet,25-34,Flu-Like Symptoms,fall,VE,VE,Female,VE
-coricidin hbp cough and cold 4 mg-30 mg tablet,19-24,Runny Nose,spring,VE,VE,Male,VE
+coricidin hbp cough and cold 4 mg-30 mg tablet,19-24,Runny Nose,spring,VE,VE,Female,VE
 cortef,25-34,Decreased Function of the Adrenal Gland,winter,SE,SE,Female,ME
 corticotropin 80 unit/ml injection gel,19-24,Inflammation of the Lining of a Joint,winter,E,E,Male,SE
 cough & runny nose,19-24,Cold Symptoms,winter,VE,VE,Female,VE
 coumadin,25-34,Blood Clot,fall,E,E,Female,E
-crestor,65-74,Combined High Blood Cholesterol and Triglyceride Level,fall,VE,ME,Male,E
+crestor,75 or over,Combined High Blood Cholesterol and Triglyceride Level,winter,VE,ME,Male,E
 cryselle,25-34,Birth Control,spring,E,ME,Female,E
 cyclafem,19-24,Birth Control,fall,E,E,Female,VE
 cyclobenzaprine hcl er,19-24,Muscle Spasm,fall,E,ME,Male,E
@@ -286,10 +286,10 @@ cymbalta,25-34,Major Depressive Disorder,fall,VE,E,Female,E
 cyproheptadine hcl,25-34,Headache caused by Disorder of Cranial Blood Vessels,spring,VE,E,Female,E
 cytogam vial,19-24,Prevention of Cytomegalovirus Infection Post-Transplant,summer,ME,ME,Male,ME
 cytotec,19-24,Abortion,winter,E,E,Female,E
-cytra-k,3-6,Uric Acid Kidney Stones,fall,VE,VE,Male,VE
+cytra-k,25-34,Renal Tubular Acidosis,summer,VE,VE,Female,VE
 daily multivitamin-minerals tablet,19-24,Other,summer,VE,VE,Male,VE
 danazol,25-34,Endometriosis,fall,E,ME,Female,ME
-daypro,19-24,Rheumatic Disease causing Pain & Stiffness in Backbone,fall,VE,ME,Female,ME
+daypro,19-24,Joint Inflammatory Disease in Children and Young Adults,winter,VE,ME,Female,ME
 daysee,25-34,Premenstrual Disorder with a State of Unhappiness,spring,VE,VE,Female,VE
 daytrana patch, transdermal 24 hours,3-6,Attention Deficit Disorder with Hyperactivity,winter,E,E,Female,E
 ddavp,7-12,Bedwetting,spring,VE,VE,Female,VE
@@ -297,11 +297,11 @@ ddavp aerosol, spray with pump,13-18,Diabetes Insipidus,winter,VE,VE,Female,VE
 ddavp solution, non-,13-18,Diabetes Insipidus,winter,VE,VE,Female,VE
 deblitane,25-34,Birth Control,winter,E,E,Female,VE
 decorel forte plus,19-24,Cold Symptoms,winter,E,VE,Male,VE
-demerol,19-24,Other,fall,VE,ME,Male,E
+demerol,19-24,Other,winter,VE,ME,Female,E
 denavir cream,3-6,Cold Sore,summer,E,E,Male,E
 depakene,3-6,Convulsive Seizures,spring,VE,ME,Female,SE
 depakene solution,3-6,Convulsive Seizures,spring,VE,ME,Female,SE
-depakote,25-34,Bipolar Depression,fall,VE,E,Male,E
+depakote,25-34,Bipolar Depression,fall,VE,E,Female,E
 depakote er,19-24,Bipolar Depression,summer,ME,E,Female,E
 depakote sprinkle,7-12,Petit Mal Seizures,fall,VE,VE,Male,VE
 depo-provera vial contraceptives,25-34,Other,fall,E,ME,Female,VE
@@ -315,14 +315,14 @@ dermotic drops,25-34,Inflammation of the External Ear Resembling Eczema,fall,VE,
 desloratadine,25-34,Allergic Conjunctivitis,fall,VE,VE,Male,VE
 desmopressin 0.1 mg/ml (refrigerate) nasal solution,19-24,Bedwetting,winter,VE,VE,Female,VE
 desmopressin 10 mcg/spray (0.1 ml) nasal spray (non-refrigerated),19-24,Bedwetting,winter,VE,VE,Female,VE
-desmopressin acetate,7-12,Bedwetting,fall,E,E,Male,E
+desmopressin acetate,7-12,Bedwetting,winter,E,E,Male,E
 desmopressin acetate aerosol, spray with pump antidiuretic hormone,19-24,Bedwetting,winter,VE,VE,Female,VE
 desmopressin spray, non-aerosol,19-24,Bedwetting,winter,VE,VE,Female,VE
 desogen,19-24,Birth Control,spring,ME,VE,Female,VE
 desogestrel-ethinyl estradiol,25-34,Disease of Ovaries with Cysts,summer,VE,E,Female,E
-desonide foam,19-24,Other,fall,VE,E,Female,E
-desonide lotion,19-24,Other,fall,VE,E,Female,E
-desonide ointment,19-24,Other,fall,VE,E,Female,E
+desonide foam,19-24,Atopic Dermatitis,spring,VE,E,Female,E
+desonide lotion,19-24,Atopic Dermatitis,spring,VE,E,Female,E
+desonide ointment,19-24,Atopic Dermatitis,spring,VE,E,Female,E
 desonide, micronized (bulk) powder,25-34,Other,winter,NE,NE,Male,NE
 desoximetasone ointment,25-34,Psoriasis of Scalp,winter,VE,VE,Female,VE
 desoximetasone spray, non-aerosol,25-34,Psoriasis of Scalp,winter,VE,VE,Female,VE
@@ -334,18 +334,18 @@ dexamethasone drops,25-34,Other,spring,E,E,Female,E
 dexedrine capsule, extended release,19-24,Recurring Sleep Episodes During the Day,spring,VE,VE,Female,VE
 dexmethylphenidate hcl,13-18,Attention Deficit Disorder with Hyperactivity,fall,SE,SE,Female,SE
 dexmethylphenidate hcl er,13-18,Attention Deficit Disorder with Hyperactivity,fall,SE,SE,Female,SE
-dextroamphetamine sulfate,3-6,Attention Deficit Disorder with Hyperactivity,spring,VE,VE,Male,VE
-dextroamphetamine sulfate er,3-6,Attention Deficit Disorder with Hyperactivity,spring,VE,VE,Male,VE
+dextroamphetamine sulfate,19-24,Attention Deficit Disorder with Hyperactivity,spring,VE,VE,Female,VE
+dextroamphetamine sulfate er,19-24,Attention Deficit Disorder with Hyperactivity,spring,VE,VE,Female,VE
 dextroamphetamine-amphet er,19-24,Attention Deficit Disorder with Hyperactivity,fall,VE,VE,Male,VE
 dextroamphetamine-amphetamine,19-24,Attention Deficit Disorder with Hyperactivity,fall,VE,VE,Male,VE
 dextrose in lactated ringers solution, intravenous,19-24,Other,summer,ME,ME,Female,ME
 diamox sequels,25-34,Other,fall,VE,VE,Female,VE
-diazepam,25-34,Anxious,fall,VE,E,Female,E
+diazepam,25-34,Anxious,spring,VE,E,Female,E
 diazepam kit,19-24,Epileptic Seizure,winter,VE,VE,Female,VE
-diclofenac potassium,25-34,Pain,fall,VE,VE,Female,VE
-diclofenac potassium 50 mg oral powder packet,25-34,Pain,fall,VE,VE,Female,VE
-diclofenac sodium,25-34,Other,fall,E,ME,Male,ME
-diclofenac sodium er,25-34,Other,fall,E,ME,Male,ME
+diclofenac potassium,25-34,Pain,summer,VE,VE,Female,VE
+diclofenac potassium 50 mg oral powder packet,25-34,Pain,summer,VE,VE,Female,VE
+diclofenac sodium,25-34,Other,summer,E,ME,Male,ME
+diclofenac sodium er,25-34,Other,summer,E,ME,Male,ME
 dicyclomine hcl,25-34,Irritable Colon,fall,VE,VE,Male,E
 dicyclomine hcl vial,25-34,Other,fall,E,SE,Male,SE
 diethylcarbamazine citrate (bulk) 100 % powder,3-6,Other,spring,VE,VE,Female,VE
@@ -356,8 +356,8 @@ diflucan tablet azole antifungals-systemic,25-34,Yeast Infection of Vagina and V
 digoxin (bulk) 100 % powder,19-24,Other,spring,NE,NE,Male,NE
 digoxin syringe,0-2,Having a Rapid Heart Action - Supraventricular Tachycardia,summer,ME,E,Female,E
 dilantin,25-34,Epileptic Seizure,winter,VE,VE,Male,VE
-dilantin 30 mg capsule,19-24,Simple Partial Seizures,fall,E,ME,Female,ME
-dilantin capsule,19-24,Epileptic Seizure,fall,E,SE,Male,ME
+dilantin 30 mg capsule,19-24,Simple Partial Seizures,spring,E,ME,Female,ME
+dilantin capsule,19-24,Epileptic Seizure,summer,E,SE,Female,ME
 dilaudid ampul,19-24,Severe Pain,fall,VE,VE,Male,VE
 diltiazem 12hr er,13-18,Supraventricular Cardiac Arrhythmia,spring,E,SE,Female,ME
 diltiazem 24hr er,13-18,Supraventricular Cardiac Arrhythmia,spring,E,SE,Female,ME
@@ -369,17 +369,17 @@ diotame,13-18,Peptic Ulcer due to Bacteria Helicobacter Pylori,spring,E,ME,Femal
 diovan,25-34,High Blood Pressure,summer,E,E,Female,E
 diovan hct,25-34,High Blood Pressure,summer,VE,VE,Female,VE
 diphenhist,0-2,Cough,fall,E,E,Female,E
-diphenhydramine hcl,25-34,Chronic Trouble Sleeping,fall,VE,VE,Male,VE
+diphenhydramine hcl,25-34,Chronic Trouble Sleeping,summer,VE,VE,Female,VE
 diphenhydramine hcl syringe,19-24,Nausea and Vomiting,spring,SE,ME,Male,E
-divalproex sodium,19-24,Epileptic Seizure,summer,E,E,Male,E
-divalproex sodium capsule, sprinkle,19-24,Epileptic Seizure,summer,E,E,Male,E
-divalproex sodium er,19-24,Epileptic Seizure,summer,E,E,Male,E
+divalproex sodium,19-24,Bipolar Depression,summer,E,E,Male,E
+divalproex sodium capsule, sprinkle,19-24,Bipolar Depression,summer,E,E,Male,E
+divalproex sodium er,19-24,Bipolar Depression,summer,E,E,Male,E
 dobutamine hcl vial,19-24,Heart Disease from Problems with Part of the Heart Itself,winter,E,E,Female,E
 docusate sodium,19-24,Incomplete or Infrequent Bowel Movements,spring,E,SE,Female,ME
 docusol enema,25-34,Incomplete or Infrequent Bowel Movements,fall,VE,VE,Female,VE
-donnatal,25-34,Small and Large Intestine Inflammation,fall,VE,E,Female,E
+donnatal,75 or over,Small and Large Intestine Inflammation,fall,VE,E,Female,E
 dopamine hcl vial,25-34,Sudden Drop in Blood Pressure,spring,E,E,Male,E
-doryx,19-24,Lyme Disease,fall,E,VE,Male,VE
+doryx,19-24,Lyme Disease,spring,E,VE,Female,VE
 doryx mpc,13-18,Other,winter,SE,NE,Female,NE
 doxepin 6 mg tablet hypnotics,25-34,Depression,winter,E,SE,Female,ME
 doxepin hcl,25-34,Depression,winter,E,SE,Female,ME
@@ -392,45 +392,45 @@ dronabinol,25-34,Increased Hunger,summer,VE,E,Male,E
 dronabinol solution,25-34,Increased Hunger,summer,VE,E,Male,E
 drysol solution, non-,19-24,Excessive Sweating,winter,VE,VE,Female,VE
 duac gel,19-24,Acne,fall,VE,VE,Female,VE
-dulcolax,25-34,Incomplete or Infrequent Bowel Movements,summer,VE,E,Female,VE
+dulcolax,19-24,Other,summer,VE,E,Female,VE
 duofilm liquid,25-34,Plantar Warts,fall,VE,VE,Female,VE
 duraflu,19-24,Cold Symptoms,fall,VE,VE,Female,VE
 echinacea-goldenseal,25-34,Other,winter,VE,VE,Female,VE
-econazole foam,19-24,Ringworm of the Body,winter,VE,ME,Male,ME
-econazole nitrate cream,19-24,Ringworm of the Body,winter,VE,ME,Male,ME
+econazole foam,19-24,Ringworm of the Body,winter,VE,ME,Female,ME
+econazole nitrate cream,19-24,Ringworm of the Body,winter,VE,ME,Female,ME
 efavirenz capsule,25-34,HIV,fall,VE,VE,Female,VE
-effexor xr,25-34,Depression,fall,VE,E,Female,E
-elidel cream,25-34,Eczema Skin Condition Resisting Treatment,fall,VE,VE,Male,E
+effexor xr,25-34,Depression,winter,VE,E,Female,E
+elidel cream,25-34,Atopic Dermatitis,fall,VE,VE,Female,E
 elite-ob tablet,25-34,Other,fall,ME,E,Male,ME
-elmiron,19-24,Urinary Tract Irritation,fall,E,E,Female,E
+elmiron,19-24,Bladder Wall Inflammation,fall,E,E,Female,E
 elocon cream,25-34,Skin Condition,spring,VE,VE,Female,VE
 emgality pen injector,55-64,Other,winter,ME,NE,Female,NE
-enalapril maleate,45-54,High Blood Pressure,spring,E,SE,Male,ME
-enalapril maleate solution,45-54,High Blood Pressure,spring,E,SE,Male,ME
+enalapril maleate,55-64,Other,spring,E,SE,Male,ME
+enalapril maleate solution,55-64,Other,spring,E,SE,Male,ME
 enbrel syringe,25-34,Rheumatoid Arthritis,winter,E,E,Female,VE
 endocet,25-34,Pain,fall,VE,E,Male,E
 enpresse,19-24,Birth Control,spring,ME,SE,Female,VE
 enstilar foam,19-24,Plaque Psoriasis,summer,VE,VE,Female,VE
-entocort ec,19-24,Crohn's Disease,fall,E,ME,Male,ME
+entocort ec,19-24,Crohn's Disease Maintenance of Remission,winter,E,ME,Female,ME
 enulose,3-6,Incomplete or Infrequent Bowel Movements,spring,VE,E,Male,E
 epiduo forte gel with pump,13-18,Acne,fall,VE,E,Male,VE
-epiduo gel with pump,25-34,Acne,fall,E,ME,Male,ME
+epiduo gel with pump,25-34,Acne,fall,E,ME,Female,ME
 epivir,25-34,HIV,winter,VE,VE,Female,VE
 epivir solution,25-34,HIV,winter,VE,VE,Female,VE
 epsom salt,25-34,Incomplete or Infrequent Bowel Movements,winter,ME,E,Female,VE
 errin,25-34,Birth Control,spring,VE,VE,Female,VE
-erythromycin,25-34,Whooping Cough,spring,VE,VE,Male,VE
-erythromycin capsule,delayed release (enteric coated),25-34,Whooping Cough,spring,VE,VE,Male,VE
+erythromycin,25-34,Whooping Cough,spring,VE,VE,Female,VE
+erythromycin capsule,delayed release (enteric coated),25-34,Whooping Cough,spring,VE,VE,Female,VE
 erythromycin ethylsuccinate,0-2,Strep Throat,winter,NE,NE,Female,NE
 erythromycin ethylsuccinate suspension, reconstituted,0-2,Strep Throat,winter,NE,NE,Female,NE
-erythromycin ointment,25-34,Bacterial Infection of the Eyelid,fall,E,E,Female,E
+erythromycin ointment,25-34,Pink Eye from Bacterial Infection,summer,E,E,Female,E
 escitalopram oxalate,25-34,Panic Disorder,spring,VE,NE,Male,NE
 esgic,25-34,Migraine Headache,winter,VE,E,Male,ME
 estrace,25-34,Other,summer,VE,VE,Male,VE
 estradiol,25-34,Low Estrogen After Operation to Remove Ovaries,summer,VE,VE,Female,VE
 estrostep fe,25-34,Birth Control,fall,VE,VE,Female,VE
 eszopiclone,19-24,Chronic Trouble Sleeping,fall,VE,VE,Female,VE
-ethosuximide,3-6,Petit Mal Seizures,summer,ME,ME,Female,E
+ethosuximide,25-34,Petit Mal Seizures,spring,ME,ME,Female,E
 ethynodiol-ethinyl estradiol,19-24,Other,spring,ME,SE,Female,ME
 etodolac,19-24,Pain,fall,E,ME,Female,ME
 etodolac er,19-24,Pain,fall,E,ME,Female,ME
@@ -439,8 +439,8 @@ etonogestrel implant,25-34,Birth Control,winter,VE,E,Female,VE
 eucerin intensive repair creme topical,19-24,Other,winter,VE,E,Female,ME
 eucerin lotion,13-18,Other,winter,VE,VE,Female,E
 euflexxa syringe,19-24,Osteoarthritis of the Knee,summer,NE,NE,Female,NE
-excedrin extra strength,19-24,Migraine Headache,fall,VE,VE,Male,VE
-excedrin migraine,19-24,Migraine Headache,fall,E,E,Female,E
+excedrin extra strength,19-24,Migraine Headache,spring,VE,VE,Male,VE
+excedrin migraine,19-24,Migraine Headache,spring,E,E,Female,E
 exforge,25-34,High Blood Pressure,fall,VE,E,Female,E
 factive,25-34,Pneumonia caused by Bacteria,spring,VE,E,Female,E
 falmina,19-24,Birth Control,spring,ME,SE,Female,E
@@ -449,12 +449,12 @@ famotidine (bulk) 100 % powder,19-24,Other,spring,NE,NE,Female,NE
 famotidine suspension, (final dose form) peptic ulcer agents,25-34,Heartburn,summer,E,E,Female,E
 famotidine tablet peptic ulcer agents,25-34,Heartburn,summer,E,E,Female,E
 famvir,25-34,Cold Sore,winter,VE,VE,Female,VE
-fanapt,19-24,Additional Medications to Treat Depression,fall,E,SE,Female,ME
+fanapt,19-24,Other,fall,E,SE,Female,ME
 fasenra syringe,45-54,Other,winter,NE,NE,Male,NE
 faslodex syringe,25-34,Metastatic Breast Cancer Progression Post-Antiestrogen Therapy,summer,VE,VE,Female,VE
 feldene,13-18,Joint Inflammatory Disease in Children and Young Adults,summer,ME,ME,Female,ME
-fem ph jelly with applicator,25-34,Other,fall,E,E,Female,E
-femara,45-54,Hormone Receptor Positive Postmenopausal Early Breast Cancer,summer,E,SE,Female,E
+fem ph jelly with applicator,25-34,Other,spring,E,E,Female,E
+femara,65-74,Breast Cancer that has Spread to Another Part of the Body,winter,E,SE,Female,E
 femcon fe,19-24,Abnormally Long or Heavy Periods,fall,VE,ME,Female,ME
 fentanyl (bulk) 100 % powder,25-34,Other,summer,ME,ME,Male,ME
 fentanyl patch, transdermal 72 hours,25-34,Chronic Pain with Narcotic Drug Tolerance,winter,E,E,Female,ME
@@ -463,13 +463,13 @@ ferrlecit vial,25-34,Anemia from Inadequate Iron,summer,E,E,Female,E
 ferrous fum-vit c-vit b12-fa capsule,19-24,Anemia from Inadequate Iron,winter,SE,SE,Female,SE
 ferrous sulfate tablet, delayed release (enteric coated),19-24,Anemia from Inadequate Iron,winter,VE,VE,Female,VE
 ferumoxytol solution,35-44,Anemia from Inadequate Iron,fall,NE,NE,Female,NE
-fexofenadine hcl,7-12,Seasonal Runny Nose,winter,VE,ME,Male,ME
-fexofenadine hcl tablet antihistamines,7-12,Seasonal Runny Nose,winter,VE,ME,Male,ME
+fexofenadine hcl,7-12,Seasonal Runny Nose,winter,VE,ME,Female,ME
+fexofenadine hcl tablet antihistamines,7-12,Seasonal Runny Nose,winter,VE,ME,Female,ME
 finasteride,25-34,Male Pattern Baldness,summer,VE,E,Male,E
 finasteride tablet 5 alpha-reductase inhibitors,25-34,Male Pattern Baldness,summer,VE,E,Male,E
 fioricet,25-34,Migraine Headache,spring,E,E,Female,E
 fiorinal,25-34,Other,spring,E,NE,Male,NE
-flagyl,25-34,Infection caused by Trichomoniasis Protozoa,fall,VE,VE,Female,VE
+flagyl,25-34,Other,winter,VE,VE,Female,VE
 flecainide acetate,25-34,Atrial Fibrillation,winter,VE,VE,Male,VE
 fleet enema 19 gram-7 gram/118 ml,19-24,Incomplete or Infrequent Bowel Movements,fall,VE,VE,Male,VE
 flolan vial,19-24,Pulmonary Arterial Hypertension,summer,NE,ME,Female,E
@@ -485,17 +485,17 @@ fluocinolone shampoo,25-34,Skin Rash that Becomes Thick & Discolored From Rubbin
 fluoridex paste,25-34,Inflammation of the Gums,winter,VE,VE,Female,VE
 fluoxetine dr,25-34,Depression,fall,VE,VE,Female,VE
 fluoxetine hcl,25-34,Depression,fall,VE,VE,Female,VE
-flurazepam hcl,25-34,Chronic Trouble Sleeping,spring,VE,ME,Female,ME
-fluticasone 50 mcg/actuation blister powder for inhalation,7-12,Asthma,spring,E,E,Female,E
-fluticasone 55 mcg/actuation breath activated powder inhaler,7-12,Asthma,spring,E,E,Female,E
-fluticasone aerosol, breath activated,0-2,Inflammation of the Nose due to an Allergy,fall,VE,VE,Male,E
-fluticasone hfa aerosol inhaler,7-12,Asthma,spring,E,E,Female,E
-fluticasone propionate (bulk) 100 % powder,25-34,Other,fall,E,E,Male,ME
+flurazepam hcl,75 or over,Chronic Trouble Sleeping,spring,VE,ME,Female,ME
+fluticasone 50 mcg/actuation blister powder for inhalation,25-34,Asthma,spring,E,E,Female,E
+fluticasone 55 mcg/actuation breath activated powder inhaler,25-34,Asthma,spring,E,E,Female,E
+fluticasone aerosol, breath activated,0-2,Inflammation of the Nose due to an Allergy,spring,VE,VE,Female,E
+fluticasone hfa aerosol inhaler,25-34,Asthma,spring,E,E,Female,E
+fluticasone propionate (bulk) 100 % powder,25-34,Other,spring,E,E,Female,ME
 fluticasone propionate cream,19-24,Atopic Dermatitis,winter,VE,VE,Female,VE
-fluticasone propionate spray, suspension,0-2,Inflammation of the Nose due to an Allergy,fall,VE,VE,Male,E
+fluticasone propionate spray, suspension,0-2,Inflammation of the Nose due to an Allergy,spring,VE,VE,Female,E
 fluvoxamine maleate,25-34,Obsessive Compulsive Disorder,spring,VE,E,Female,E
 fluvoxamine maleate er,25-34,Obsessive Compulsive Disorder,spring,VE,E,Female,E
-focalin,7-12,Attention Deficit Disorder with Hyperactivity,fall,VE,E,Male,E
+focalin,7-12,Attention Deficit Disorder with Hyperactivity,winter,VE,E,Male,E
 focalin xr,7-12,Attention Deficit Disorder with Hyperactivity,fall,VE,VE,Male,VE
 folivane-f,25-34,Anemia from Inadequate Iron,spring,VE,VE,Female,VE
 folivane-ob,25-34,Pregnancy,summer,VE,VE,Female,VE
@@ -517,17 +517,17 @@ hydrocortisone cream,19-24,Rash,spring,E,E,Female,E
 hydrocortisone cream with perineal applicator,19-24,Rash,spring,E,E,Female,E
 hydrocortisone-pramoxine cream with applicator,25-34,Hemorrhoids,spring,VE,VE,Female,VE
 hydrocortisone-pramoxine foam,25-34,Hemorrhoids,spring,VE,VE,Female,VE
-hydrogen peroxide solution, non-,7-12,Other,summer,VE,VE,Male,VE
+hydrogen peroxide solution, non-,25-34,Other,winter,VE,VE,Female,VE
 hydrolatum ointment,13-18,Other,fall,VE,VE,Female,VE
-hydromet,25-34,Cough,fall,E,E,Female,E
+hydromet,25-34,Cough,winter,E,E,Female,E
 hydromorphone er,19-24,Pain,fall,VE,E,Female,ME
 hydromorphone hcl,19-24,Pain,fall,VE,E,Female,ME
-hydromorphone hcl syringe,25-34,Pain,fall,VE,E,Male,E
+hydromorphone hcl syringe,25-34,Pain,winter,VE,E,Female,E
 hydromorphone hcl vial,19-24,Acute Pain Following an Operation,fall,SE,VE,Male,VE
 hydroxychloroquine sulfate,19-24,Rheumatoid Arthritis,fall,VE,E,Female,E
 hydroxyprogesterone caproate (bulk) 100 % powder,25-34,Other,summer,NE,NE,Female,NE
 hydroxyurea,25-34,Spontaneous Hemorrhages and Increase in Blood Platelets,summer,E,E,Male,E
-hydroxyzine hcl,25-34,Anxious,summer,VE,E,Female,E
+hydroxyzine hcl,25-34,Anxious,spring,VE,E,Female,E
 hydroxyzine hcl (bulk) powder,25-34,Other,winter,VE,VE,Male,VE
 hydroxyzine hcl vial,25-34,Severe Itching,fall,VE,VE,Female,E
 hyoscyamine sulfate,25-34,Diarrhea,spring,VE,VE,Female,VE
@@ -537,27 +537,27 @@ hyoscyamine sulfate er,25-34,Diarrhea,spring,VE,VE,Female,VE
 hyoscyamine sulfate tablet,disintegrating,25-34,Diarrhea,spring,VE,VE,Female,VE
 hypercare solution, non-,19-24,Excessive Sweating,summer,ME,VE,Male,VE
 hyzaar,13-18,High Blood Pressure,summer,E,E,Female,E
-ibgard,25-34,Other,spring,E,ME,Male,ME
-ibuprofen,25-34,Pain,fall,E,E,Male,ME
-ibuprofen suspension, (final dose form),25-34,Pain,fall,E,E,Male,ME
-ibuprofen tablet, chewable,25-34,Pain,fall,E,E,Male,ME
+ibgard,25-34,Other,spring,E,ME,Female,ME
+ibuprofen,25-34,Pain,fall,E,E,Female,ME
+ibuprofen suspension, (final dose form),25-34,Pain,fall,E,E,Female,ME
+ibuprofen tablet, chewable,25-34,Pain,fall,E,E,Female,ME
 iloperidone tablet,13-18,Schizophrenia,winter,E,E,Male,E
 imipramine hcl,13-18,Other,winter,VE,E,Male,E
 imitrex,25-34,Migraine Headache,summer,VE,VE,Female,VE
-imitrex spray, non-aerosol,19-24,Migraine Headache,fall,VE,ME,Female,ME
+imitrex spray, non-aerosol,19-24,Migraine Headache,winter,VE,ME,Female,ME
 imuran,25-34,Inflammation of Skin and Muscles All Over the Body,fall,NE,NE,Female,NE
-indocin,55-64,Rheumatoid Arthritis,fall,VE,VE,Male,VE
+indocin,25-34,Other,summer,VE,VE,Female,VE
 indomethacin,19-24,Rheumatic Disease causing Pain & Stiffness in Backbone,spring,E,ME,Male,ME
 indomethacin capsule, extended release,19-24,Rheumatic Disease causing Pain & Stiffness in Backbone,spring,E,ME,Male,ME
 indomethacin suspension,19-24,Rheumatic Disease causing Pain & Stiffness in Backbone,spring,E,ME,Male,ME
-infants ibuprofen,25-34,Pain,fall,E,E,Male,ME
+infants ibuprofen,25-34,Pain,fall,E,E,Female,ME
 innopran xl,25-34,Essential Tremor,fall,VE,VE,Female,VE
 insulin aspar prt-insulin aspart 100 unit/ml (70-30) subcutaneous soln intermediate-, long-acting, and combination insulins,25-34,High Blood Sugar,summer,ME,E,Male,ME
 insulin regular human solution,19-24,Diabetic Ketoacidosis,spring,VE,VE,Female,VE
-integra,19-24,Anemia from Inadequate Iron,fall,VE,VE,Female,VE
-integra f,19-24,Anemia from Inadequate Iron,fall,VE,VE,Female,E
-intuniv,7-12,Attention Deficit Disorder with Hyperactivity,summer,E,E,Male,E
-invega,25-34,Bipolar Depression,winter,E,E,Female,E
+integra,19-24,Anemia from Inadequate Iron,summer,VE,VE,Female,VE
+integra f,19-24,Anemia from Inadequate Iron,spring,VE,VE,Female,E
+intuniv,13-18,Attention Deficit Disorder with Hyperactivity,summer,E,E,Male,E
+invega,25-34,Manic-Depression,winter,E,E,Female,E
 invega sustenna syringe,19-24,Other,winter,NE,NE,Male,NE
 invokana,25-34,Type 2 Diabetes Mellitus,winter,VE,VE,Male,VE
 iodine liquid,25-34,Other,fall,ME,ME,Male,ME
@@ -568,88 +568,88 @@ iron 100 plus,25-34,Anemia from Inadequate Iron,winter,ME,SE,Female,SE
 isibloom,19-24,Other,summer,VE,VE,Female,E
 isomethept-dichloralp-acetamin,25-34,Headache caused by Disorder of Cranial Blood Vessels,fall,NE,NE,Female,SE
 isometheptene 65 mg-caffeine 20 mg-acetaminophen 325 mg tablet non-opioid analgesic/antipyretic, non-salicylate,0-2,Other,fall,SE,SE,Female,ME
-isoniazid,25-34,Inactive Tuberculosis,fall,E,VE,Female,VE
+isoniazid,25-34,Inactive Tuberculosis,spring,E,VE,Female,VE
 isotretinoin capsule,25-34,Severe Difficult to Treat Nodular Acne,summer,VE,VE,Female,E
 ivabradine tablet,13-18,Other,winter,ME,E,Female,E
-janumet,25-34,Type 2 Diabetes Mellitus,fall,VE,E,Male,E
-januvia,25-34,Type 2 Diabetes Mellitus,fall,VE,VE,Female,VE
+janumet,25-34,Type 2 Diabetes Mellitus,summer,VE,E,Female,E
+januvia,25-34,Type 2 Diabetes Mellitus,spring,VE,VE,Female,VE
 jencycla,19-24,Birth Control,summer,E,E,Female,ME
 jolessa,19-24,Birth Control,winter,VE,VE,Female,VE
 jolivette,25-34,Birth Control,winter,VE,NE,Female,NE
 jublia solution with applicator,55-64,Fungal Infection of Toenails,spring,E,E,Male,E
 junel,19-24,Acne,fall,E,SE,Female,NE
-junel fe,19-24,Birth Control,summer,ME,ME,Female,VE
+junel fe,19-24,Absence of Menstrual Periods,spring,ME,ME,Female,VE
 junel fe 24,19-24,Birth Control,fall,VE,VE,Female,VE
-junel fe tablet,19-24,Other,fall,E,SE,Male,ME
+junel fe tablet,19-24,Other,spring,E,SE,Female,ME
 junel tablet,25-34,Abnormally Long or Heavy Periods,spring,VE,VE,Female,VE
 kadian,25-34,Severe Pain,spring,VE,VE,Male,VE
 kalydeco,0-2,Other,summer,ME,ME,Male,ME
 kaolin (bulk) powder,25-34,Other,fall,ME,VE,Female,E
 kaolin pectin,25-34,Diarrhea,spring,ME,ME,Female,ME
-kariva,19-24,Birth Control,fall,E,ME,Female,E
-keflex,25-34,Other,fall,E,VE,Female,E
+kariva,19-24,Birth Control,spring,E,ME,Female,E
+keflex,25-34,Other,spring,E,VE,Female,E
 kelnor 1-35,25-34,Disease of Ovaries with Cysts,fall,VE,E,Female,E
 kenalog aerosol,25-34,Contact Dermatitis,spring,VE,E,Female,E
 keppra,25-34,Simple Partial Seizures,fall,VE,E,Female,E
 keppra vial,19-24,Other,fall,E,ME,Female,E
-keppra xr,19-24,Simple Partial Seizures,fall,VE,E,Male,E
-ketoconazole foam,3-6,Ringworm of Scalp,fall,ME,SE,Male,SE
-ketoconazole gel,3-6,Ringworm of Scalp,fall,ME,SE,Male,SE
-ketoconazole shampoo,3-6,Ringworm of Scalp,fall,ME,SE,Male,SE
+keppra xr,19-24,Additional Medication for Tonic-Clonic Epilepsy,winter,VE,E,Female,E
+ketoconazole foam,25-34,Ringworm of Scalp,spring,ME,SE,Female,SE
+ketoconazole gel,25-34,Ringworm of Scalp,spring,ME,SE,Female,SE
+ketoconazole shampoo,25-34,Ringworm of Scalp,spring,ME,SE,Female,SE
 ketoprofen,25-34,Pain,fall,E,ME,Female,ME
 ketoprofen capsule, extended release pellets 24 hr,25-34,Pain,fall,E,ME,Female,ME
 ketorolac tromethamine,25-34,Severe Pain,winter,E,SE,Female,ME
 khedezla,25-34,Major Depressive Disorder,winter,VE,VE,Female,VE
-klonopin,25-34,Panic Disorder,summer,VE,E,Female,E
+klonopin,25-34,Panic Disorder,spring,VE,E,Female,E
 kobee,25-34,Lack in Vitamins,fall,E,E,Female,ME
 kogenate fs vial,25-34,Bleeding Prevention in Hemophilia,fall,ME,SE,Male,E
 kombiglyze xr,25-34,Type 2 Diabetes Mellitus,spring,VE,E,Female,E
 kuvan,13-18,PKU - Phenylketonuria,spring,VE,VE,Female,VE
 kuvan 100 mg oral powder packet,13-18,PKU - Phenylketonuria,spring,VE,VE,Female,VE
 l-glutamine,25-34,Other,winter,VE,VE,Male,VE
-labetalol hcl,25-34,High Blood Pressure,summer,E,E,Female,E
+labetalol hcl,25-34,High Blood Pressure,winter,E,E,Female,E
 lactaid fast act,25-34,Inability of Body to Handle Lactose or Milk Sugar,fall,VE,VE,Female,VE
 lactic acid lotion,25-34,Other,summer,VE,E,Female,VE
-lactinex,3-6,Diarrhea,fall,E,ME,Female,ME
-lactinex tablet, chewable,3-6,Diarrhea,fall,E,ME,Female,ME
-lamictal,19-24,Bipolar Depression,fall,VE,E,Female,VE
+lactinex,25-34,Diarrhea,summer,E,ME,Female,ME
+lactinex tablet, chewable,25-34,Diarrhea,summer,E,ME,Female,ME
+lamictal,19-24,Bipolar Depression,spring,VE,E,Female,VE
 lisinopril,25-34,High Blood Pressure,winter,VE,E,Female,E
 lisinopril solution,25-34,High Blood Pressure,winter,VE,E,Female,E
-lisinopril-hydrochlorothiazide,25-34,High Blood Pressure,fall,VE,VE,Female,VE
+lisinopril-hydrochlorothiazide,25-34,High Blood Pressure,winter,VE,VE,Female,VE
 lithium,19-24,Bipolar Depression,fall,VE,VE,Female,VE
 lithium aspartate capsule,19-24,Other,summer,ME,ME,Female,ME
-lithium carbonate,25-34,Bipolar Depression,fall,E,E,Female,E
+lithium carbonate,25-34,Bipolar Depression,spring,E,E,Female,E
 lithium carbonate (bulk) 99 % powder,19-24,Other,spring,ME,E,Female,ME
-lithium carbonate er,19-24,Manic-Depression,winter,E,E,Female,VE
+lithium carbonate er,19-24,Bipolar Depression,winter,E,E,Female,VE
 lyrica,25-34,Disorder characterized by Stiff, Tender & Painful Muscles,winter,VE,E,Female,E
-macrobid,25-34,Urinary Tract Infection due to E. Coli Bacteria,fall,E,E,Female,E
-macrodantin,7-12,Urinary Tract Infection Prevention,fall,E,E,Female,E
+macrobid,25-34,Urinary Tract Infection Prevention,fall,E,E,Female,E
+macrodantin,7-12,Urinary Tract Infection due to E. Coli Bacteria,winter,E,E,Female,E
 mag-al plus xs,25-34,Conditions of Excess Stomach Acid Secretion,winter,VE,VE,Female,VE
 maginex,25-34,Emptying of the Bowel,fall,ME,ME,Male,ME
 magnesium sulfate-0.9% nacl solution, intravenous piggyback,25-34,Severely Increased Blood Pressure and Edema During Pregnancy,spring,SE,E,Male,VE
 mannitol 20 % intravenous solution,25-34,Fluid Accumulation in the Brain,winter,E,ME,Male,E
 mapap arthritis pain,13-18,Toothache,spring,ME,VE,Female,ME
 mapap suspension, (final dose form),25-34,Pain,winter,VE,VE,Male,E
-marinol,19-24,Nausea and Vomiting caused by Cancer Drugs,summer,VE,E,Male,E
+marinol,19-24,Other,winter,VE,E,Female,E
 marlissa,25-34,Endometriosis,winter,SE,NE,Female,E
 maxalt,25-34,Migraine Headache,winter,VE,VE,Female,E
-maxalt mlt,25-34,Migraine Headache,fall,VE,ME,Female,E
+maxalt mlt,25-34,Migraine Headache,spring,VE,ME,Female,E
 maxfe,19-24,Other,winter,VE,VE,Female,VE
 maxitrol ointment,25-34,Inflammation of Eyelid Edges and the Lining of the Eye,winter,VE,E,Female,VE
 maxitrol suspension, drops (final dose form),25-34,Inflammation of Eyelid Edges and the Lining of the Eye,winter,VE,E,Female,VE
-meclizine hcl,25-34,Sensation of Spinning or Whirling,spring,E,ME,Male,ME
+meclizine hcl,25-34,Sensation of Spinning or Whirling,spring,E,ME,Female,ME
 mediproxen,19-24,Inflammation of the Tendon,fall,VE,VE,Female,E
-medrol,25-34,Skin Rash with Sloughing,spring,VE,VE,Male,VE
+medrol,75 or over,Skin Rash with Sloughing,spring,VE,VE,Female,VE
 medrol tablet,19-24,Other,winter,E,E,Female,VE
 medroxyprogesterone acetate,25-34,Absence of Menstrual Periods in Woman Who Has Had Them,winter,VE,E,Female,E
 megace,25-34,Cancer in the Lining of the Uterus,spring,E,E,Female,E
-megestrol acetate, micronized  (bulk) 100 % powder,55-64,Other,fall,ME,ME,Female,ME
+megestrol acetate, micronized  (bulk) 100 % powder,25-34,Other,summer,ME,ME,Female,ME
 melatonin tablet,19-24,Other,winter,VE,VE,Female,VE
 melatonin tablet,disintegrating,3-6,Other,spring,E,VE,Female,E
-meloxicam,25-34,Rheumatoid Arthritis,fall,E,ME,Female,ME
+meloxicam,19-24,Joint Inflammatory Disease in Children and Young Adults,fall,E,ME,Female,ME
 meperidine hcl,19-24,Pain,spring,VE,VE,Female,VE
 mepron,25-34,AIDS with Toxoplasmosis,spring,E,VE,Female,ME
-mercaptopurine,19-24,Inflammatory Bowel Disease,fall,VE,VE,Female,E
+mercaptopurine,19-24,Inflammatory Bowel Disease,winter,VE,VE,Female,E
 meribin 5 mg capsule biotin, systemic,19-24,Deficiency of Biotin a Component of the Vitamin B Complex,winter,VE,VE,Female,VE
 mesalamine,25-34,Ulcerative Colitis currently Without Symptoms,fall,VE,E,Female,E
 mesalamine 400 mg capsule (with delayed release tablets inside) inflammatory bowel agents,25-34,Ulcerative Colitis currently Without Symptoms,fall,VE,E,Female,E
@@ -662,7 +662,7 @@ metadate er,7-12,Attention Deficit Disorder with Hyperactivity,winter,VE,E,Femal
 metamucil 0.4 gram capsule,25-34,Incomplete or Infrequent Bowel Movements,summer,ME,ME,Female,ME
 metformin hcl,25-34,Type 2 Diabetes Mellitus,fall,E,E,Female,E
 metformin hcl er,25-34,Type 2 Diabetes Mellitus,fall,E,E,Female,E
-metformin hcl solution,65-74,Type 2 Diabetes Mellitus,spring,E,ME,Male,ME
+metformin hcl solution,65-74,Type 2 Diabetes Mellitus,spring,E,ME,Female,ME
 methadone hcl,25-34,Pain,winter,E,E,Female,E
 methadone hcl solution,25-34,Pain,summer,VE,VE,Female,VE
 methadone hcl syringe,25-34,Narcotic Addiction,summer,VE,VE,Male,VE
@@ -670,20 +670,20 @@ methadone hcl tablet, soluble,25-34,Pain,summer,VE,VE,Female,VE
 methadone intensol,25-34,Narcotic Addiction,summer,E,ME,Female,VE
 methadose,25-34,Pain,spring,VE,VE,Female,VE
 methadose tablet, soluble,25-34,Pain,spring,VE,VE,Female,VE
-methamphetamine hcl,25-34,Attention Deficit Disorder with Hyperactivity,summer,VE,E,Male,E
+methamphetamine hcl,25-34,Other,spring,VE,E,Male,E
 methazolamide,35-44,High Eye Pressure or Glaucoma that May Worsen without Treatment,spring,VE,ME,Female,VE
-methergine,19-24,Incomplete Abortion,fall,ME,ME,Female,ME
-methocarbamol,25-34,Muscle Spasm,spring,E,ME,Male,E
+methergine,19-24,Hemorrhage Following Delivery of Baby,summer,ME,ME,Female,ME
+methocarbamol,25-34,Muscle Spasm,spring,E,ME,Female,E
 methocarbamol 100 mg/ml injection solution central muscle relaxants,13-18,Muscle Spasm,fall,E,ME,Female,SE
 methotrexate,25-34,Rheumatoid Arthritis,fall,VE,E,Female,E
 methotrexate sodium vial,25-34,Rheumatoid Arthritis,fall,ME,E,Female,E
 methylphenidate er 100 mg capsule,delayed release,ext release sprinkle,13-18,Attention Deficit Disorder with Hyperactivity,summer,ME,SE,Female,ME
-morphine tablet,oral only, extended release,25-34,Pain,fall,VE,E,Female,E
+morphine tablet,oral only, extended release,25-34,Pain,winter,VE,E,Female,E
 motion sickness,19-24,Sensation of Spinning or Whirling,winter,VE,SE,Male,ME
-motrin ib,25-34,Fever,fall,E,E,Male,E
+motrin ib,25-34,Fever,summer,E,E,Female,E
 moviprep 100 g-7.5 g-2.691 g-4.7 g oral powder packet,65-74,Emptying of the Bowel,fall,VE,VE,Male,VE
 moxeza drops, viscous,25-34,Pink Eye from Bacterial Infection,spring,NE,NE,Female,SE
-moxifloxacin hcl,25-34,Acute Bacterial Infection of the Sinuses,fall,VE,E,Male,E
+moxifloxacin hcl,25-34,Acute Bacterial Infection of the Sinuses,spring,VE,E,Male,E
 ms contin,25-34,Chronic Pain with Narcotic Drug Tolerance,winter,E,E,Female,ME
 msm,35-44,Other,summer,VE,NE,Female,NE
 mucinex,19-24,Cough,winter,E,SE,Female,SE
@@ -691,8 +691,8 @@ mucinex cough,3-6,Cold Symptoms,fall,SE,SE,Male,SE
 mucinex d tablet, extended release 12 hr,25-34,Cold Symptoms,spring,VE,ME,Female,ME
 mucinex dm,25-34,Cough,winter,VE,E,Female,VE
 mucinex fast-max congest-cough,19-24,Inflammation of the Nose,spring,E,ME,Female,ME
-multigen,25-34,Anemia from Inadequate Iron,summer,E,VE,Female,E
-mupirocin ointment,3-6,Other,fall,VE,E,Female,E
+multigen,25-34,Anemia from Inadequate Iron,spring,E,VE,Female,E
+mupirocin ointment,19-24,Atopic Dermatitis,fall,VE,E,Female,E
 muro 128 2 % eye drops,25-34,Fluid Accumulation in Cornea of the Eye causing Swelling,fall,VE,VE,Female,VE
 muro 128 5 % eye ointment,25-34,Fluid Accumulation in Cornea of the Eye causing Swelling,fall,VE,VE,Female,VE
 mycophenolate mofetil,25-34,Other,spring,ME,E,Female,ME
@@ -723,7 +723,7 @@ neosalus cp cream,13-18,Other,spring,VE,ME,Male,ME
 nestabs,25-34,A Mother who is Producing Milk and Breastfeeding,spring,VE,VE,Female,VE
 neurontin,25-34,Pain Originating From a Nerve,winter,VE,E,Female,E
 neurontin capsule,25-34,Pain Originating From a Nerve,winter,VE,E,Female,E
-neutrogena t-gel 0.5 % shampoo,25-34,Other,summer,E,ME,Female,ME
+neutrogena t-gel 0.5 % shampoo,25-34,Other,spring,E,ME,Female,ME
 nevanac suspension, drops (final dose form),19-24,Postoperative Pain in Eye,fall,VE,VE,Female,VE
 nexplanon implant,19-24,Birth Control,spring,VE,VE,Female,VE
 nexterone plastic bag, injection,19-24,Ventricular Fibrillation,summer,ME,E,Female,E
@@ -741,22 +741,22 @@ nortriptyline hcl,25-34,Depression,winter,VE,ME,Female,ME
 norvasc,25-34,High Blood Pressure,spring,VE,VE,Male,VE
 novolog flexpen insulin pen,19-24,Type 1 Diabetes Mellitus,winter,VE,ME,Male,ME
 novolog vial,25-34,Diabetes,summer,VE,E,Male,E
-nucynta,25-34,Pain,summer,VE,VE,Male,VE
+nucynta,25-34,Pain,spring,VE,VE,Male,VE
 nuvaring ring, vaginal,25-34,Birth Control,fall,VE,VE,Female,VE
 nuvigil,19-24,Recurring Sleep Episodes During the Day,fall,VE,VE,Male,VE
-nystatin,0-2,Thrush,fall,E,E,Female,E
-nystatin suspension, (final dose form),0-2,Thrush,fall,E,E,Female,E
+nystatin,0-2,Thrush,summer,E,E,Female,E
+nystatin suspension, (final dose form),0-2,Thrush,summer,E,E,Female,E
 nystatin-triamcinolone cream,25-34,Other,winter,E,SE,Female,SE
-ocella,25-34,Birth Control,spring,E,E,Female,VE
+ocella,19-24,Birth Control,spring,E,E,Female,VE
 ofloxacin 0.3 % ear drops,25-34,Acute Outer Ear Bacterial Infection due to Staphylococcus Aureus,spring,E,VE,Female,E
-olanzapine,25-34,Mania associated with Bipolar Disorder,fall,VE,E,Male,VE
-olanzapine odt,25-34,Mania associated with Bipolar Disorder,fall,VE,E,Male,VE
+olanzapine,25-34,Bipolar I Disorder with Most Recent Episode Mixed,winter,VE,E,Male,VE
+olanzapine odt,25-34,Bipolar I Disorder with Most Recent Episode Mixed,winter,VE,E,Male,VE
 olive leaf extract,45-54,Other,winter,VE,VE,Female,VE
-olux foam,25-34,Skin Disease of the Scalp,spring,E,E,Female,E
+olux foam,25-34,Atopic Dermatitis,spring,E,E,Female,E
 omeclamox-pak,25-34,Ulcer of Duodenum caused by Bacteria Helicobacter Pylori,summer,VE,VE,Female,VE
 omega 3-6-9 complex,25-34,Other,fall,E,VE,Female,E
-omeprazole,25-34,Other,fall,ME,ME,Male,ME
-omeprazole capsule,delayed release (enteric coated),25-34,Other,fall,ME,ME,Male,ME
+omeprazole,25-34,Other,spring,ME,ME,Male,ME
+omeprazole capsule,delayed release (enteric coated),25-34,Other,spring,ME,ME,Male,ME
 omeprazole-clarith-amoxicillin combination package,25-34,Inflammation of the Stomach Lining caused by H. Pylori,fall,VE,NE,Male,NE
 omnaris aerosol, spray with pump,25-34,Inflammation of the Nose due to an Allergy,spring,VE,VE,Female,VE
 ondansetron film,25-34,Excessive Vomiting in Pregnancy,spring,VE,VE,Female,E
@@ -777,7 +777,7 @@ ortho tri-cyclen,19-24,Birth Control,summer,VE,E,Female,VE
 ortho tri-cyclen lo,19-24,Birth Control,spring,VE,VE,Female,VE
 ortho-cyclen,25-34,Birth Control,fall,VE,VE,Female,VE
 ortho-novum,19-24,Birth Control,fall,VE,VE,Female,VE
-ortho-novum tablet,19-24,Birth Control,fall,VE,E,Female,ME
+ortho-novum tablet,19-24,Absence of Menstrual Periods,summer,VE,E,Female,ME
 ovcon-35,19-24,Abnormally Long or Heavy Periods,spring,VE,VE,Female,VE
 oxandrin,25-34,Other,fall,VE,VE,Male,VE
 oxaprozin,25-34,Other,fall,VE,E,Female,E
@@ -786,18 +786,18 @@ oxcarbazepine tablet,25-34,Convulsive Seizures,fall,SE,NE,Male,NE
 oxcarbazepine tablet, extended release 24 hr,25-34,Convulsive Seizures,fall,SE,NE,Male,NE
 oxybutynin chloride er,25-34,Overactive Bladder,winter,VE,E,Female,E
 oxybutynin patch, transdermal semiweekly,3-6,A Condition of Bladder Dysfunction from Nerve Disorder,summer,SE,E,Male,E
-oxycodone (bulk) 100 % powder,25-34,Other,fall,E,E,Male,VE
+oxycodone (bulk) 100 % powder,25-34,Other,winter,E,E,Female,VE
 oxycodone hcl,25-34,Pain,fall,VE,VE,Male,VE
 oxycodone hcl er,25-34,Pain,fall,VE,VE,Male,VE
 oxycodone hcl solution,25-34,Pain,fall,VE,VE,Female,VE
 paxil cr,25-34,Repeated Episodes of Anxiety,fall,VE,VE,Female,VE
 paxil suspension, (final dose form),25-34,Depression,fall,E,E,Male,E
 peg 400-propylene glycol drops,25-34,Drying and Inflammation of Cornea and Conjunctiva of Eyes,summer,VE,E,Female,E
-penicillin g benzathine syringe,19-24,Syphilis,fall,VE,VE,Male,VE
-penicillin v potassium,25-34,Acute Infection of the Nose, Throat or Sinus,summer,E,VE,Female,VE
+penicillin g benzathine syringe,19-24,Strep Throat and Tonsillitis,summer,VE,VE,Female,VE
+penicillin v potassium,25-34,Inflammation of the Gums and Mouth,summer,E,VE,Female,VE
 pentam 300 vial,25-34,Chronic Infectious Disease due to Organism L. Donovani,winter,VE,VE,Male,VE
 pentasa,25-34,Crohn's Disease,winter,E,E,Female,E
-pentosan polysulfate sodium capsule,25-34,Urinary Tract Irritation,fall,VE,NE,Female,SE
+pentosan polysulfate sodium capsule,25-34,Bladder Pain,winter,VE,NE,Female,SE
 pentoxifylline,25-34,Peripheral Vascular Disease,summer,VE,SE,Female,SE
 pepto-bismol tablet, chewable,25-34,Indigestion,summer,VE,VE,Female,VE
 peramivir (pf) solution,13-18,A Type of Flu - Influenza A,winter,VE,E,Male,VE
@@ -808,42 +808,42 @@ pexeva,19-24,Major Depressive Disorder,fall,VE,VE,Female,VE
 phenagil ch,13-18,Inflammation of the Nose due to an Allergy,winter,ME,SE,Female,ME
 phenazopyridine hcl,25-34,Urinary Tract Irritation,fall,VE,VE,Female,VE
 phendimetrazine tartrate,25-34,Overweight,fall,E,E,Female,E
-phenobarbital,25-34,Seizures,fall,VE,E,Male,E
+phenobarbital,25-34,Seizures,spring,VE,E,Female,E
 phenobarbital (bulk) powder,25-34,Other,summer,VE,VE,Female,VE
 phentermine hcl,25-34,Overweight,summer,VE,VE,Female,VE
-phenylephrine hcl tablet, chewable,19-24,Stuffy Nose,fall,VE,E,Female,E
+phenylephrine hcl tablet, chewable,19-24,Stuffy Nose,winter,VE,E,Female,E
 phenylhistine dh,19-24,Cough,spring,ME,E,Male,ME
-phenytoin sodium extended,25-34,Epileptic Seizure,fall,E,E,Female,E
+phenytoin sodium extended,25-34,Epileptic Seizure,spring,E,E,Female,E
 phospha 250 neutral,65-74,Low Amount of Phosphate in the Blood,fall,VE,VE,Female,VE
 pirmella,19-24,Painful Periods,winter,VE,NE,Female,NE
 piroxicam,25-34,Other,winter,E,ME,Female,SE
-pitocin vial,25-34,Use of Drugs or Surgical Procedures to Begin Labor Process,fall,NE,SE,Female,ME
+pitocin vial,25-34,Use of Drugs or Surgical Procedures to Begin Labor Process,spring,NE,SE,Female,ME
 plan b one-step,13-18,Postcoital Contraception,spring,NE,NE,Female,NE
 plaquenil,25-34,Systemic Lupus Erythematosus,fall,E,E,Female,E
 plavix,7-12,Other,fall,E,VE,Male,ME
 pnv-dha,19-24,A Mother who is Producing Milk and Breastfeeding,spring,VE,VE,Female,VE
-pnv-select,25-34,Pregnancy,fall,E,ME,Female,E
+pnv-select,25-34,Pregnancy,summer,E,ME,Female,E
 poly-hist pd,3-6,Cold Symptoms,fall,VE,VE,Female,VE
 poly-vent dm,25-34,Inflammation of the Nose,winter,VE,E,Female,E
 polymyxin b sul-trimethoprim drops,25-34,Inflammation of Eyelid Edges and the Lining of the Eye,fall,VE,VE,Male,VE
-ponstel,19-24,Painful Periods,fall,VE,E,Female,E
+ponstel,19-24,Painful Periods,winter,VE,E,Female,E
 portia,19-24,Birth Control,winter,E,E,Female,E
 potassium citrate er,19-24,Calcium Oxalate Kidney Stones,summer,E,E,Female,ME
 potassium cl-calcium phos-mag tablet,19-24,Other,winter,ME,ME,Female,SE
 potassium phosphate vial,25-34,Other,summer,ME,ME,Female,ME
 pr benzoyl peroxide cleanser,19-24,Acne,summer,VE,VE,Female,VE
 praziquantel tablet,25-34,A Tapeworm Infection - Taeniasis,fall,SE,ME,Male,VE
-prednisolone,3-6,Liver Problems,winter,VE,ME,Male,ME
+prednisolone,25-34,Liver Problems,winter,VE,ME,Female,ME
 prednisolone sod phos (bulk) powder,0-2,Other,winter,NE,ME,Female,ME
 prednisolone sodium phos odt,3-6,Asthma,winter,E,E,Female,ME
 prednisolone sodium phosphate,3-6,Asthma,winter,E,E,Female,ME
-prednisolone tablet,3-6,Liver Problems,winter,VE,ME,Male,ME
+prednisolone tablet,25-34,Liver Problems,winter,VE,ME,Female,ME
 prednisone,25-34,Asthma,fall,E,E,Female,E
 prednisone concentrate,25-34,Asthma,fall,E,E,Female,E
 prednisone tablet, delayed release (enteric coated),25-34,Asthma,fall,E,E,Female,E
 prefera ob,25-34,Other,spring,VE,VE,Female,VE
 pregnyl vial,19-24,An Insufficiency in Ovulation,spring,ME,ME,Female,ME
-premarin,25-34,Primary Ovarian Failure,fall,VE,E,Female,E
+premarin,25-34,Other,winter,VE,E,Female,E
 premsyn pms,25-34,Painful Periods,fall,VE,VE,Female,VE
 prenatabs fa,25-34,Pregnancy,fall,ME,ME,Female,E
 prenatabs rx,25-34,Pregnancy,summer,VE,VE,Female,VE
@@ -856,10 +856,10 @@ prevacid,25-34,Medication Treatment for Healing Erosive Esophagitis,summer,VE,VE
 prevacid capsule,delayed release (enteric coated),25-34,Condition in which Stomach Acid is Pushed Into the Esophagus,winter,VE,E,Female,E
 prevent,3-6,Treatment to Prevent Mineral Deficiency,spring,SE,VE,Male,E
 previfem,19-24,Abnormally Long or Heavy Periods,spring,VE,VE,Female,VE
-prezista,25-34,HIV,summer,VE,VE,Male,VE
+prezista,25-34,HIV,summer,VE,VE,Female,VE
 priftin,19-24,TB involving the Lungs,winter,NE,NE,Male,NE
-prilosec,19-24,Stomach Ulcer,fall,VE,VE,Male,VE
-prilosec otc,25-34,Treatment to Prevent Heartburn,winter,VE,VE,Male,VE
+prilosec,19-24,Conditions of Excess Stomach Acid Secretion,fall,VE,VE,Female,VE
+prilosec otc,25-34,Treatment to Prevent Heartburn,winter,VE,VE,Female,VE
 pristiq,25-34,Depression,fall,VE,VE,Female,VE
 proair hfa aerosol with adapter,7-12,Bronchitis,summer,ME,ME,Female,NE
 proair respiclick 90 mcg/actuation breath activated,13-18,Bronchospasm,winter,E,VE,Female,E
@@ -868,12 +868,12 @@ proctocort suppository, rectal,19-24,Hemorrhoids,spring,VE,NE,Female,NE
 prodrin 65 mg-20 mg-325 mg tablet non-opioid analgesic/antipyretic, non-salicylate,19-24,Other,spring,E,NE,Female,NE
 prograf,25-34,Prevent Kidney Transplant Rejection,spring,E,VE,Female,E
 prograf ampul,45-54,Rejection of Liver Transplant,winter,VE,VE,Male,VE
-promethazine hcl suppository, rectal,19-24,Nausea and Vomiting,fall,VE,E,Female,E
-promethazine-codeine,25-34,Cough,spring,VE,VE,Female,E
+promethazine hcl suppository, rectal,19-24,Nausea and Vomiting,summer,VE,E,Female,E
+promethazine-codeine,19-24,Cough,spring,VE,VE,Female,E
 prometrium,25-34,Absence of Menstrual Periods in Woman Who Has Had Them,fall,VE,ME,Female,E
 propafenone hcl,19-24,Heart Ventricle Rhythm Problem,winter,VE,VE,Male,VE
 propafenone hcl er,19-24,Heart Ventricle Rhythm Problem,winter,VE,VE,Male,VE
-propofol vial,19-24,General Anesthesia,fall,VE,VE,Male,VE
+propofol vial,19-24,General Anesthesia,spring,VE,VE,Female,VE
 propranolol capsule, extended release 24 hr (capsule, er hr),25-34,Migraine Prevention,fall,VE,E,Female,E
 propranolol hcl,25-34,Migraine Prevention,fall,VE,E,Female,E
 propranolol hcl er,25-34,Migraine Prevention,fall,VE,E,Female,E
@@ -883,7 +883,7 @@ propylthiouracil,25-34,Overactive Thyroid Gland,fall,E,E,Female,ME
 prostin e2 vaginal suppository suppository,19-24,Abortion,winter,ME,E,Female,E
 protect plus so,25-34,Other,spring,E,E,Female,VE
 proteinex,19-24,Other,fall,NE,VE,Male,ME
-protonix,25-34,Conditions of Excess Stomach Acid Secretion,summer,VE,E,Female,E
+protonix,25-34,Stomach Ulcer,summer,VE,E,Female,E
 proventil hfa aerosol with adapter,19-24,Bronchospasm,fall,VE,VE,Female,VE
 provida ob,25-34,Pregnancy,summer,VE,VE,Female,VE
 provigil,25-34,Other,fall,VE,E,Male,E
@@ -909,7 +909,7 @@ suprax capsule,19-24,Acute Gonorrhea of the Urethra,winter,VE,VE,Male,VE
 supress-dx,25-34,Cold Symptoms,winter,VE,VE,Female,VE
 syeda,25-34,Birth Control,fall,E,NE,Female,VE
 symbicort hfa aerosol with adapter,25-34,Asthma,fall,VE,E,Female,E
-symbyax,25-34,Major Depressive Disorder,fall,E,E,Female,E
+symbyax,19-24,Major Depressive Disorder,spring,E,E,Female,E
 synalar ts kit,25-34,Atopic Dermatitis,fall,VE,VE,Female,VE
 synthroid,25-34,Underactive Thyroid,spring,VE,E,Female,E
 synvisc-one syringe,25-34,Osteoarthritis of the Knee,spring,NE,NE,Male,SE
@@ -918,28 +918,28 @@ taclonex ointment,25-34,Psoriasis,fall,E,SE,Female,ME
 taclonex suspension, topical,25-34,Psoriasis,fall,E,SE,Female,ME
 tacrolimus,25-34,Prevention of Lung Transplant Rejection,fall,E,E,Male,E
 tacrolimus tablet, extended release 24 hr,25-34,Prevention of Lung Transplant Rejection,fall,E,E,Male,E
-take action,19-24,Postcoital Contraception,fall,VE,VE,Male,VE
-tamiflu,25-34,The Flu,fall,E,VE,Male,E
-tamiflu suspension, reconstituted,25-34,The Flu,fall,E,VE,Male,E
-tamoxifen citrate,25-34,Breast Cancer,fall,E,ME,Female,E
-tamsulosin hcl,25-34,Stones in the Urinary Tract,spring,VE,SE,Female,SE
-tandem dual action,25-34,Anemia from Inadequate Iron,fall,VE,VE,Female,VE
+take action,19-24,Postcoital Contraception,winter,VE,VE,Female,VE
+tamiflu,25-34,The Flu,fall,E,VE,Female,E
+tamiflu suspension, reconstituted,25-34,The Flu,fall,E,VE,Female,E
+tamoxifen citrate,25-34,Breast Cancer,spring,E,ME,Female,E
+tamsulosin hcl,75 or over,Stones in the Urinary Tract,spring,VE,SE,Female,SE
+tandem dual action,25-34,Anemia from Inadequate Iron,spring,VE,VE,Female,VE
 tandem plus,25-34,Lack in Minerals,summer,VE,VE,Male,VE
 taron-c dha,19-24,Pregnancy,fall,VE,VE,Female,VE
 tazorac gel,13-18,Psoriasis,summer,ME,E,Female,E
-tegretol tablet,25-34,Epileptic Seizure,fall,VE,E,Male,E
-tegretol xr,25-34,Prevention of Seizures following Head Injury or Surgery,winter,VE,ME,Female,E
-temazepam,25-34,Chronic Trouble Sleeping,fall,VE,E,Female,E
+tegretol tablet,25-34,Epileptic Seizure,spring,VE,E,Male,E
+tegretol xr,25-34,Epileptic Seizure,winter,VE,ME,Female,E
+temazepam,25-34,Chronic Trouble Sleeping,spring,VE,E,Female,E
 temodar,25-34,Other,fall,NE,NE,Male,NE
-terazol 7 cream with applicator,25-34,Yeast Infection of Vagina and Vulva,summer,VE,E,Female,VE
-terbinafine hcl,25-34,Ringworm of Scalp,summer,E,E,Female,E
+terazol 7 cream with applicator,25-34,Yeast Infection of Vagina and Vulva,spring,VE,E,Female,VE
+terbinafine hcl,25-34,Fungal Infection of Toenails,spring,E,E,Female,E
 terconazole cream with applicator,25-34,Yeast Infection of Vagina and Vulva,fall,VE,E,Female,E
 tessalon perle,25-34,Cough,fall,E,ME,Female,ME
 testosterone (bulk) powder,25-34,Other,fall,E,ME,Male,E
-tetracaine 0.5 % eye drops,25-34,Anesthesia of the Cornea of the Eye,fall,VE,VE,Female,VE
+tetracaine 0.5 % eye drops,25-34,Anesthesia of the Cornea of the Eye,summer,VE,VE,Female,VE
 tetracycline hcl,19-24,Inflammation of the Gums and Mouth,fall,VE,VE,Male,VE
-tetracycline ointment,25-34,Other,fall,ME,ME,Male,ME
-theraflu nighttime severe cold-cough 25 mg-10 mg-650 mg powder packet,19-24,Cough,fall,VE,E,Male,VE
+tetracycline ointment,25-34,Other,winter,ME,ME,Female,ME
+theraflu nighttime severe cold-cough 25 mg-10 mg-650 mg powder packet,19-24,Cough,fall,VE,E,Female,VE
 theragran-m premier 50 plus,19-24,Lack in Vitamins,summer,VE,E,Male,ME
 tindamax,25-34,Vaginosis caused by Bacteria,fall,VE,VE,Female,VE
 tizanidine hcl,25-34,Muscle Spasm,fall,E,E,Female,E
@@ -947,18 +947,18 @@ tobramycin-lotepred drops, suspension,25-34,Inflammation of the Eye,fall,ME,NE,M
 tolterodine tartrate,19-24,Overactive Bladder,spring,VE,VE,Female,VE
 tolterodine tartrate er,19-24,Overactive Bladder,spring,VE,VE,Female,VE
 topamax,25-34,Migraine Prevention,spring,VE,E,Female,E
-topamax capsule, sprinkle,13-18,Migraine Prevention,spring,VE,E,Male,E
+topamax capsule, sprinkle,13-18,Migraine Prevention,spring,VE,E,Female,E
 tramadol hcl er,25-34,Pain,summer,VE,E,Female,E
-tramadol hcl-acetaminophen,0-2,Pain,winter,E,ME,Male,ME
+tramadol hcl-acetaminophen,19-24,Pain,winter,E,ME,Male,ME
 trazodone hcl,25-34,Chronic Trouble Sleeping,fall,E,E,Female,E
 tretinoin 0.025 % topical cream,19-24,Acne,summer,E,E,Female,E
 treximet,13-18,Migraine Headache,fall,VE,VE,Female,VE
-tri-estarylla,19-24,Disease of Ovaries with Cysts,summer,E,NE,Female,SE
-tri-legest fe,19-24,Birth Control,fall,VE,VE,Female,VE
+tri-estarylla,19-24,Disease of Ovaries with Cysts,spring,E,NE,Female,SE
+tri-legest fe,19-24,Birth Control,summer,VE,VE,Female,VE
 tri-linyah,25-34,Birth Control,summer,VE,E,Female,VE
 tri-previfem,25-34,Birth Control,winter,VE,E,Female,VE
 tri-sprintec,19-24,Birth Control,winter,VE,VE,Female,VE
-triamcinolone acetonide cream,45-54,Skin Condition,fall,E,ME,Male,E
+triamcinolone acetonide cream,45-54,Skin Condition,spring,E,ME,Male,E
 triamcinolone acetonide vial,19-24,Skin Disease Characterized by Swollen Itching Lesions,fall,VE,E,Female,E
 triaminic daytime cold-cough,3-6,Cough,winter,ME,NE,Female,NE
 triamterene-hydrochlorothiazid,25-34,High Blood Pressure,spring,VE,VE,Female,E
@@ -966,52 +966,52 @@ tribenzor,45-54,High Blood Pressure,summer,SE,NE,Male,ME
 trileptal,25-34,Other,spring,VE,E,Female,E
 trileptal suspension, (final dose form),25-34,Convulsive Seizures,winter,VE,E,Female,E
 vicodin,25-34,Pain,winter,VE,VE,Female,VE
-vicodin es,19-24,Pain,fall,VE,VE,Male,VE
-vicodin hp,25-34,Pain,summer,E,E,Male,E
+vicodin es,19-24,Pain,winter,VE,VE,Female,VE
+vicodin hp,25-34,Pain,summer,E,E,Female,E
 vigamox drops,25-34,Other,winter,VE,VE,Female,VE
 vimpat,25-34,Additional Medication to Treat Partial Seizures,summer,VE,VE,Female,VE
 vimpat vial,25-34,Additional Medication to Treat Partial Seizures,spring,VE,VE,Female,VE
 vinate one,13-18,Pregnancy,winter,VE,VE,Female,VE
-vinate-m,19-24,A Mother who is Producing Milk and Breastfeeding,fall,VE,VE,Female,VE
+vinate-m,19-24,Pregnancy,spring,VE,VE,Female,VE
 viorele,25-34,Disease of Ovaries with Cysts,spring,ME,ME,Female,ME
 viramune xr,25-34,HIV,spring,ME,SE,Female,ME
 viread,25-34,Chronic Hepatitis B,winter,VE,VE,Male,VE
 viread 40 mg/scoop (40 mg/gram) oral powder,25-34,Chronic Hepatitis B,winter,VE,VE,Male,VE
 viroptic drops,25-34,Infection of the Cornea of the Eye due to Herpes Simplex,spring,ME,NE,Female,SE
 vistaril,25-34,Anxious,winter,E,E,Female,E
-vitafol-ob,25-34,Pregnancy,summer,VE,VE,Female,VE
+vitafol-ob,25-34,Pregnancy,spring,VE,VE,Female,VE
 vitafol-ob+dha,25-34,Pregnancy,summer,E,ME,Female,E
 vitafol-one,25-34,Pregnancy,summer,E,ME,Female,E
 vitamedmd one rx,25-34,Pregnancy,summer,E,E,Female,E
 vitamin b-12,25-34,Other,summer,ME,VE,Female,E
 vitamin b-12 tablet,25-34,Other,spring,E,E,Female,E
-vitamin d3,25-34,Vitamin D Deficiency,summer,VE,E,Female,ME
+vitamin d3,25-34,Other,spring,VE,E,Female,ME
 vivelle-dot patch, transdermal semiweekly,25-34,Low Estrogen After Operation to Remove Ovaries,winter,VE,ME,Female,ME
 vol-care rx,25-34,Other,spring,VE,VE,Female,E
 vol-tab rx,25-34,Pregnancy,summer,NE,SE,Female,ME
-votrient,25-34,Cancer Involving the Kidney Cells,summer,VE,VE,Male,VE
+votrient,25-34,Cancer Involving the Kidney Cells,winter,VE,VE,Female,VE
 vytorin tablet,25-34,Combined High Blood Cholesterol and Triglyceride Level,winter,VE,VE,Male,VE
 vyvanse,19-24,Attention Deficit Disorder with Hyperactivity,winter,VE,E,Female,E
 wal-dram,25-34,Other,summer,VE,NE,Female,VE
-wal-zyr,19-24,Inflammation of the Nose due to an Allergy,summer,VE,VE,Male,VE
+wal-zyr,19-24,Non-Seasonal Allergic Runny Nose,spring,VE,VE,Female,VE
 warfarin sodium,19-24,Blood Clots in Deep Veins and in Blood Vessel of the Lung,summer,VE,ME,Female,E
 zoloft,25-34,Depression,fall,VE,E,Female,E
 zolpidem spray, non-aerosol,25-34,Chronic Trouble Sleeping,fall,VE,VE,Female,VE
 zolpidem tartrate,25-34,Chronic Trouble Sleeping,fall,VE,VE,Female,VE
 zolpidem tartrate er,25-34,Chronic Trouble Sleeping,fall,VE,VE,Female,VE
-zomig,19-24,Migraine Headache,summer,VE,E,Female,SE
+zomig,19-24,Migraine Headache,winter,VE,E,Female,SE
 zomig zmt,19-24,Migraine Headache,fall,VE,VE,Female,VE
-zonegran,25-34,Convulsive Seizures,fall,VE,VE,Female,E
+zonegran,25-34,Convulsive Seizures,spring,VE,VE,Female,E
 zonisamide,19-24,Simple Partial Seizures,spring,E,E,Female,E
 zorvolex,25-34,Other,fall,VE,E,Female,E
-zovirax,25-34,Cold Sore,summer,VE,VE,Female,E
+zovirax,25-34,Recurrent Genital Herpes,summer,VE,VE,Female,E
 ztlido adhesive patch, medicated,25-34,Nerve Pain after Herpes,winter,VE,E,Male,E
 zyban,19-24,Stop Smoking,spring,VE,E,Male,ME
 zylet suspension, drops (final dose form),25-34,Inflammation of the Iris - the Colored Part of the Eyeball,fall,VE,VE,Female,VE
 zyprexa,25-34,Schizophrenia,spring,VE,E,Female,E
 zyrtec,25-34,Inflammation of the Nose due to an Allergy,winter,VE,VE,Male,VE
-zyrtec-d,19-24,Other,summer,VE,ME,Male,VE
+zyrtec-d,19-24,Other,summer,VE,ME,Female,VE
 zyvox,25-34,Complicated Skin Infection due to Staphyloccus Aureus Bacteria,winter,SE,E,Female,E
 zyvox solution, intravenous,7-12,Bacterial Pneumonia caused by Staphylococcus,winter,ME,E,Male,ME
 zyvox suspension, reconstituted,25-34,Complicated Skin Infection due to Staphyloccus Aureus Bacteria,winter,SE,E,Female,E
-zzzquil,25-34,Chronic Trouble Sleeping,fall,VE,ME,Female,ME
+zzzquil,25-34,Chronic Trouble Sleeping,spring,VE,ME,Female,ME

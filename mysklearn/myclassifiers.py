@@ -26,7 +26,7 @@ class MyRandomForestClassifier:
         self.header = None
         self.domains = None
 
-    def fit(self, X_train, y_train):
+    def fit(self, X_train, y_train, header):
         """Fits a decision tree classifier to X_train and y_train using the TDIDT
         (top down induction of decision tree) algorithm.
 
@@ -48,7 +48,10 @@ class MyRandomForestClassifier:
         self.X_train = X_train
         self.y_train = y_train
         # make generic header of attributes and dictionary from header (attribute domains) for entropy
-        self.header, self.domains = self.create_header_and_domains()
+        self.header, self.domains = self.create_header_and_domains(header)
+        # self.header = header
+
+        # print(self.header, self.domains)
 
         X_remainder, X_test, y_remainder, y_test = myevaluation.train_test_split(
             X_train, y_train)
@@ -139,7 +142,7 @@ class MyRandomForestClassifier:
         avg_preds = []
         for instance in X_test:
             avg_preds.append([])
-        for j, prediction in enumerate(y_pred):
+        for prediction in y_pred:
             for i, inst in enumerate(prediction):
                 avg_preds[i].append(inst)
         mean_preds = []
@@ -364,7 +367,7 @@ class MyRandomForestClassifier:
         label = max(class_labels, key=class_labels.count)
         return label
 
-    def create_header_and_domains(self):
+    def create_header_and_domains(self, head=None):
         """Creates a header list and domain dictionary from self.X_train
 
         Returns:
@@ -375,7 +378,10 @@ class MyRandomForestClassifier:
         domains = {}
         # create header list and initialize domains
         for i in range(len(self.X_train[0])):
-            header.append("att" + str(i))
+            if head != None:
+                header.append(head[i])
+            else:
+                header.append("att" + str(i))
             domains[i] = []
         # fill domains
         for X in self.X_train:
@@ -383,7 +389,7 @@ class MyRandomForestClassifier:
                 # print(domains[i])
                 if X[i] not in domains[i]:
                     domains[i].append(X[i])
-                domains[i].sort()
+                # domains[i].sort()
         return header, domains
 
 
