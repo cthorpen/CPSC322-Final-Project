@@ -2,8 +2,6 @@ import collections
 import itertools
 import random
 
-import numpy as np
-
 from mysklearn import myevaluation
 from . import myutils
 from math import log2
@@ -11,11 +9,6 @@ import operator
 import copy
 
 # TODO: copy your myclassifiers.py solution from PA4-6 here (BELOW)
-class MyRandomForestClassifier:
-    def __init__(self):
-        self.X_train = None
-        self.y_train = None
-    pass
 
 class MyRandomForestClassifier:
 
@@ -30,7 +23,7 @@ class MyRandomForestClassifier:
         self.header = None
         self.domains = None
 
-    def fit(self, X_train, y_train, header):
+    def fit(self, X_train, y_train, header, seed=None, tt_seed=None):
         """Fits a decision tree classifier to X_train and y_train using the TDIDT
         (top down induction of decision tree) algorithm.
 
@@ -58,7 +51,7 @@ class MyRandomForestClassifier:
         # print(self.header, self.domains)
 
         X_remainder, X_test, y_remainder, y_test = myevaluation.train_test_split(
-            X_train, y_train)
+            X_train, y_train, test_size=.33, random_state=tt_seed)
 
         # stitching X_train and y_train together
         train = [X_remainder[i] + [y_remainder[i]]
@@ -70,7 +63,7 @@ class MyRandomForestClassifier:
         # create N trees
         all_trees = []
         for _ in range(self.N):
-            new_tree = self.tdidt(train, available_attributes)
+            new_tree = self.tdidt(train, available_attributes, seed)
             all_trees.append(new_tree)
 
         # print(len(all_trees))
@@ -183,10 +176,13 @@ class MyRandomForestClassifier:
                 # match! recurse
                 return self.tdidt_predict(value_list[2], instance)
 
-    def bootstrap_sample(self, data):
+    def bootstrap_sample(self, data, seed):
         ''' Function for bootstrap method
             Self is passed in table 
         '''
+        if seed != None:
+            random.seed(seed)
+
         sample = []
         used_indexs = []
         for _ in range(self.F):
@@ -197,7 +193,7 @@ class MyRandomForestClassifier:
 
         return sample
 
-    def tdidt(self, current_instances, available_attributes):
+    def tdidt(self, current_instances, available_attributes, seed):
         """ recursive function to create a tree from the training data
 
         Args:
@@ -210,7 +206,7 @@ class MyRandomForestClassifier:
             tree (tree as list): current tree created by tdidt
         """
 
-        available_attributes = self.bootstrap_sample(available_attributes)
+        available_attributes = self.bootstrap_sample(available_attributes, seed)
 
         # select attribute to split on
         attribute = self.select_attribute(
@@ -229,21 +225,26 @@ class MyRandomForestClassifier:
             # CASE 1: all class labels of the partition are the same => make a leaf node
             if len(att_partition) > 0 and myutils.all_same_class(att_partition):
                 # leaf node, all same class
+                #print('case 1')
                 leaf = ["Leaf", att_partition[0][-1],
                         len(att_partition), len(current_instances)]
+                #print(leaf)
                 value_subtree.append(leaf)
 
             # CASE 2: no more attributes to select (clash) => handle clash w/majority vote leaf node
             elif len(att_partition) > 0 and len(available_attributes) == 0:
+                #print('case 2')
                 # mex of class labels, handle clash with majority vote leaf node (from the partition)
                 vote = self.majority_vote_leaf_node(att_partition)
                 leaf = ["Leaf", vote, len(
                     att_partition), len(current_instances)]
+                #print(leaf)
                 # print("case 2, leaf:", leaf)
                 value_subtree.append(leaf)
 
              # CASE 3: no more instances to partition (empty partition) => backtrack and replace attribute node with majority vote leaf node
             elif len(att_partition) == 0:
+                #print('case 3')
                 # TODO: "backtrack" and replace this attribute node with a majority vote leaf node
                 # THE VOTE SWITCHES BETWEEN YES AND NO FOR IPHONE DATA
                 vote = self.majority_vote_leaf_node(current_instances)
@@ -368,7 +369,9 @@ class MyRandomForestClassifier:
         """
         class_labels = [instances[i][-1] for i in range(len(instances))]
         class_labels = sorted(class_labels)
+        #print(class_labels)
         label = max(class_labels, key=class_labels.count)
+        #print(label)
         return label
 
     def create_header_and_domains(self, head=None):
