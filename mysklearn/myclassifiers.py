@@ -128,29 +128,25 @@ class MyRandomForestClassifier:
                 pred.append(self.tdidt_predict(tree=tree, instance=instance))
             y_pred.append(pred)
 
-        print(y_pred)
+        # print(y_pred)
 
-        avg_y_pred = []
-        for y in y_pred:
-            avg_y_pred.append(myutils.get_most_frequent(y))
+        # avg_y_pred = []
+        # for y in y_pred:
+        #     avg_y_pred.append(myutils.get_most_frequent(y))
 
-        print(avg_y_pred)
+        # print(avg_y_pred)
 
-        return avg_y_pred
-
-        # average_y_pred = []
-        # for x in X_test:
-        #     average_y_pred.append([])
-
-        # for pred in enumerate(y_pred):
-        #     for i, inst in enumerate(pred):
-        #         average_y_pred[i].append(inst)
-
-        # print(average_y_pred)
-        # mean_y_pred = []
-        # for pred in average_y_pred:
-        #     mean_y_pred.append(myutils.get_most_frequent(pred))
-        # return mean_y_pred
+        avg_preds = []
+        for instance in X_test:
+            avg_preds.append([])
+        for j, prediction in enumerate(y_pred):
+            for i, inst in enumerate(prediction):
+                avg_preds[i].append(inst)
+        mean_preds = []
+        for pred in avg_preds:
+            # print("pred---", pred)
+            mean_preds.append(myutils.get_most_frequent(pred))
+        return mean_preds
 
     # BELOW: helper methods for above
 
