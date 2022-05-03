@@ -2,8 +2,6 @@ import os
 import pickle
 from flask import Flask, jsonify, request
 
-from mysklearn import myutils
-
 # create app
 app = Flask(__name__)
 
@@ -55,7 +53,7 @@ def predict_effectiveness(instance):
             print(predictions)
         # find most common value for prediction
         # return myutils.get_most_frequent(predictions)
-        return myutils.get_most_frequent(predictions)
+        return max(set(predictions), key=list.count)
     except:
         print("ERROR")
         return None
