@@ -53,7 +53,7 @@ def predict_effectiveness(instance):
             print(predictions)
         # find most common value for prediction
         # return myutils.get_most_frequent(predictions)
-        return max(set(predictions), key=list.count)
+        return max(set(predictions), key=predictions.count)
     except:
         print("ERROR")
         return None
