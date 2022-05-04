@@ -10,7 +10,7 @@ The datasets can be found in input_data.
 Dataset Source: [UCI ML Drug Review Dataset](https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018?select=drugsComTest_raw.csv)
 
 ### Deployment
-The Heroku deployment can be found [here] (https://drug-effectiveness.herokuapp.com)  
+The Heroku deployment can be found [here](https://drug-effectiveness.herokuapp.com)  
 
 Example Predictions:
 - https://drug-effectiveness.herokuapp.com/predict/Drug=benzonatate&Age=0-2&Condition=Cough&Season=summer&EaseofUse=E&Satisfaction=E&Sex=Female
